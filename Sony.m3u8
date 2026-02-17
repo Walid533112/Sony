@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="arabic",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 سوريا 
+#EXTINF:-1 group-title="arabic",سوريا
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:- حلب اليوم
+#EXTINF:-1 group-title="arabic",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="Kids اطفال",اطفال 3
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233153.ts
