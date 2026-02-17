@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids اطفال",اطفال 1
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233151.ts
-#EXTINF:-1 group-title="Kids اطفال",اطفال 2
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233152.ts
+#EXTINF:-1 سوريا 
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:- حلب اليوم
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="Kids اطفال",اطفال 3
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233153.ts
 #EXTINF:-1 group-title="Kids اطفال",اطفال 4
