@@ -1,147 +1,137 @@
-# EXTINF : -1 , حلب اليوم
-https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
-# EXTINF : -1 , سوريا الثانيه
+#EXTM3U
+#EXTINF:-1 group-title="سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-# EXTINF : -1 , سوريا واحد
-https://live.syriaone.tv/live/syriaone.m3u8
-# EXTINF : -1 , سوريا الاولى
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-# EXTINF : -1 , الامارات
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
-# EXTINF : -1 , ابو ظبي
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-# EXTINF : -1 , اجيال
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
-# EXTINF : -1 , المصريه
-https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-# EXTINF : -1 ،الرافدين
-https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
-# EXTINF : -1 , الريان
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-# EXTINF : -1 , الريان القديم
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-# EXTINF : -1 ,الجديد
-http://185.9.2.18/chid_391/mono.m3u8
-# EXTINF : -1 , السعوديه
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-# EXTINF : -1 ، الشرقيه من كلباء
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-# EXTINF : -1 , السنه النبويه
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-# EXTINF : -1 ، قناه اليوم
-https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-# EXTINF : -1 ، مجد القرأن
-https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
-# EXTINF : -1 , الشرقيه
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-# EXTINF : -1 , عمان
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-# EXTINF : -1 , الشرق ديسكفري
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-# EXTINF : -1 ، الشرق الوثائقيه
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-# EXTINF : -1 ، باب الحاره
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-# EXTINF : -1 ، البحرين
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-# EXTINF : -1 , بحرين القرأن
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-# EXTINF : -1 , البينونه
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-# EXTINF : -1 , دجله
-https://ghaasiflu.online/Dijlah/index.m3u8
-# EXTINF : -1 , ديزني 
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-# EXTINF : -1 , الفجيره
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-# EXTINF : -1 , هلا
-https://stream.panet.com/edge/halaTV/playlist.m3u8
-# EXTINF : -1 , الاردن ارشيف
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-# EXTINF : -1 , الاردن كوميدي
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-# EXTINF : -1 ,الاردن  دراما
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-# EXTINF : -1 , الاردن الاولى
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-# EXTINF : -1 , الكويت الاولى
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-# EXTINF : -1 , الكويت الثانيه
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-# EXTINF : -1 ، LBC لبنان
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
-# EXTINF : -1 ، لنا
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
-# EXTINF : -1 ، ماجد
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-# EXTINF : -1 ، مكان
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-# EXTINF : -1 مرايا
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-# EXTINF : -1 , mbc 1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-# EXTINF : -1 , mbc 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-# EXTINF : -1 , mbc 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-# EXTINF : -1 ,mbc بوليود
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-# EXTINF : -1 , mbc دراما
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-# EXTINF : -1 ، mbc العراق
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8ش
-# EXTINF : -1 ، mbc مصر
-http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
-# EXTINF : -1 ، تلفزيون إشوروك
-http://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream/gmswf.m3u8
-# EXTINF : -1 ، إم تي في لبنان
-rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-# EXTINF : -1 , LBC
-rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
-# EXTINF : -1 , LBC
-rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
-# EXTINF : -1 , NBN
-rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
-# EXTINF : -1 , cna
-rtmp://str81.creacast.com:80/cna/live.sdp
-# EXTINF : -1 ، سوريا
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-# EXTINF : -1 , سوريا العلوة
-http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-# EXTINF : -1 ، الدراما السورية
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-# EXTINF : -1 , طلاقي
-رتمب://82.137.248.20/Talaqie/TalaqieLive2
-# EXTINF : -1 ، التلفزيون التعليمي السوري
-rtmp://82.137.248.16/Snews/SnewsLive1
-# EXTINF : -1 ، الأخبارية سوريا
-rtmp://82.137.248.16/Snews/SnewsLive1
-# EXTINF : -1 , sahraa
-rtmp://79.134.137.65/live//Sahraa.stream
-# EXTINF : -1 , sahraa2
-rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
-# EXTINF : -1 , sahraa 3
-rtmp://navigatorsjo.com/amjad/amjad.stream
-# EXTINF : -1 ، Sahar TV 1
-rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp
-# EXTINF : -1 , Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
-# EXTINF : -1 , Alriadia_sport
-http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8
-# EXTINF : -1 , tunisia_national_1
-Rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
-# EXTINF : -1 , tunisia_national_2
-Rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
-# EXTINF : -1 , nessma
-rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
-# EXTINF : -1 , hanibal
-Rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
-# EXTINF : -1 ، الجزيرة
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-# EXTINF : -1 , الجزيرة_مباشر
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
-# EXTINF : -1 , العربية
-http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
-# EXTINF : -1 , ANN
-rtmp://ns8.indexforce.com/ann/ann
-# EXTINF : -1 , El sharq
+#EXTINF:-1 group-title="Kids اطفال",اطفال 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233151.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233152.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 3
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233153.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 4
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233154.ts
+#EXTINF:-1 group-title="Kids اطفال",دودي وفوني
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204282.ts
+#EXTINF:-1 group-title="Kids اطفال",سراج
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204072.ts
+#EXTINF:-1 group-title="Kids اطفال",Danny go
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204071.ts
+#EXTINF:-1 group-title="Kids اطفال",Omar & Hana
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204070.ts
+#EXTINF:-1 group-title="Kids اطفال",baby bus
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204052.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة اسرتنا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203838.ts
+#EXTINF:-1 group-title="Kids اطفال",كونان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203794.ts
+#EXTINF:-1 group-title="Kids اطفال",بون بون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203793.ts
+#EXTINF:-1 group-title="Kids اطفال",ليلى تي في
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203273.ts
+#EXTINF:-1 group-title="Kids اطفال",يزون و روزا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203272.ts
+#EXTINF:-1 group-title="Kids اطفال",زين وزينة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203271.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة فرفشة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203267.ts
+#EXTINF:-1 group-title="Kids اطفال",مرح كي جي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203268.ts
+#EXTINF:-1 group-title="Kids اطفال",1 2 3 جو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203269.ts
+#EXTINF:-1 group-title="Kids اطفال",تعلم مع نور
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203270.ts
+#EXTINF:-1 group-title="Kids اطفال",Bounce Patrol
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204024.ts
+#EXTINF:-1 group-title="Kids اطفال",وناسة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/99461.ts
+#EXTINF:-1 group-title="Kids اطفال",حبيبي بيبي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223006.ts
+#EXTINF:-1 group-title="Kids اطفال",خلودة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202895.ts
+#EXTINF:-1 group-title="Kids اطفال",Ms Apple
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204023.ts
+#EXTINF:-1 group-title="Kids اطفال",ناستيا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223007.ts
+#EXTINF:-1 group-title="Kids اطفال",أوكتونوتس
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202897.ts
+#EXTINF:-1 group-title="Kids اطفال",سمسم
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223008.ts
+#EXTINF:-1 group-title="Kids اطفال",سوبر جوجو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223009.ts
+#EXTINF:-1 group-title="Kids اطفال",توم المتكلم
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202896.ts
+#EXTINF:-1 group-title="Kids اطفال",سوار وماسة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202891.ts
+#EXTINF:-1 group-title="Kids اطفال",زينغو ورينغو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202878.ts
+#EXTINF:-1 group-title="Kids اطفال",شفا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202876.ts
+#EXTINF:-1 group-title="Kids اطفال",خمسة اطفال
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202873.ts
+#EXTINF:-1 group-title="Kids اطفال",فيلد ونيكيتا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/91365.ts
+#EXTINF:-1 group-title="Kids اطفال",بابجي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202872.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: افلام كرتون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48450.ts
+#EXTINF:-1 group-title="Kids اطفال",توتي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223010.ts
+#EXTINF:-1 group-title="Kids اطفال",PAL CARTOON
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/23737.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة ماشا والدب
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/15294.ts
+#EXTINF:-1 group-title="Kids اطفال",Diana Roma Show
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/33294.ts
+#EXTINF:-1 group-title="Kids اطفال",AstroLOLogy
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202789.ts
+#EXTINF:-1 group-title="Kids اطفال",Rabbids Invasion
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202793.ts
+#EXTINF:-1 group-title="Kids اطفال",The.Rabbids
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202794.ts
+#EXTINF:-1 group-title="Kids اطفال",Oscar s.Oasis
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202792.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:مغامرات الفضاء غريندايزر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48447.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:1&2 بطاريق مدغشقر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48454.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:مغامرات سندباد
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48456.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: باندا الكونج فو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48459.ts
+#EXTINF:-1 group-title="Kids اطفال",سنان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202879.ts
+#EXTINF:-1 group-title="Kids اطفال",السنافر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202832.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: Katakit TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48461.ts
+#EXTINF:-1 group-title="Kids اطفال",power ranger
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202838.ts
+#EXTINF:-1 group-title="Kids اطفال",بيل وسيباستيان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202833.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Shaun The sheep
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48465.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:CN Arabia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48475.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KARAMEESH
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48476.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KID:Atfal Mawaheb
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48478.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KOKKY TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48479.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:MICKEY CHANNEL
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48482.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Mr Bean TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48484.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:SASUKI
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48487.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:SPACETOON ARABIC
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48488.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Spongbob
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48489.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:TAHA TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48490.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Teletubbies
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48491.ts
+#EXTINF:-1 group-title="Kids اطفال",TOM AND JERRY
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/7622.ts
+#EXTINF:-1 group-title="Kids اطفال",Clarence
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223005.ts
