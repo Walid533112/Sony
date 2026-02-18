@@ -93,6 +93,8 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 group-title="arabic",روتانا افلام
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+#EXTINF:-1 group-title="arabic",روتانا سينما
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="arabic",اجيال
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="arabic",العربي
