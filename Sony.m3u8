@@ -19,10 +19,10 @@ https://live.syriaone.tv/live/syriaone.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="arabic",مرايا
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-#EXTINF:-1 group-title="arabic",روتانا سينما
-https://liveplay-kgj2.onrender.com/api/hls/live/dQuByeed69ZLHbhp.Fx3dyiSgOxp60Eb_oWs62A.IeD3COW_Q65gA-SrtQhafaJ8Ey3S_H-rXRg-NvCjsBLKFZNpTJOI3ZvU_zYYDQ5bCKReyYCLIPpMZKPUC0qFPfWAOzngWSf5NGaLqQO8DFW-_AFIZGEs6G8xR8NCD_M4WrNw62yfS4VGk9Y_pv9aiR6gj4ehLk6ohg1IO5xsX5Ic8JZMSorBB6k6sQn8/176645/master.m3u8
-#EXTINF:-1 group-title="arabic",روتانا سينما مصر
-https://liveplay-kgj2.onrender.com/api/hls/live/dQuByeed69ZLHbhp.Fx3dyiSgOxp60Eb_oWs62A.IeD3COW_Q65gA-SrtQhafaJ8Ey3S_H-rXRg-NvCjsBLKFZNpTJOI3ZvU_zYYDQ5bCKReyYCLIPpMZKPUC0qFPfWAOzngWSf5NGaLqQO8DFW-_AFIZGEs6G8xR8NCD_M4WrNw62yfS4VGk9Y_pv9aiR6gj4ehLk6ohg1IO5xsX5Ic8JZMSorBB6k6sQn8/176649/master.m3u8
+#EXTINF:-1 group-title="rotana",روتانا سينما
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:-1 group-title="rotana",روتانا سينما مصر
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="arabic",روتانا كوميدي
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_360p/chunks.m3u8
 #EXTINF:-1 group-title="arabic",روتانا كلاسيك
@@ -68,6 +68,8 @@ https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 group-title="arabic",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/acdd7051-d295-4dc1-b035-ac80acf1dfac/0.m3u8
+#EXTINF:-1 group-title="egypt",المحور
+https://tgn.bozztv.com/gin-36bay4/ga-elmehwartv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1464238335&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDg6MDg6NDYgUE0maGFzaF92YWx1ZT1xaWxMSW5KWmprVWF6ZFU1TEVidjd3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
 #EXTINF:-1 group-title="arabic",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",قطر2
