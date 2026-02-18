@@ -154,6 +154,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",شمس
 https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="kids",كارتون نيتورك
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771464209/ei/sRGWadmwDryMv_IPiLKPqQE/ip/93.213.144.58/id/DafNKGT4CLM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-bvvbaxivnuxqqu5b-4g5l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xEg9mxXni0Eau8lEpitfV1GEHfxSaWSJddwZ3b7eGyvld9V9BDN6qRRq-ucavdASNVCcW7KYME/spc/6dlaFHYbZ0t1R9w2uKwvchPR7MFIEn94VxsfwhmqBWzqfUk2CKd7srJAavwzrw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1396250/met/1771442610,/mh/C4/mm/44/mn/sn-bvvbaxivnuxqqu5b-4g5l/ms/lva/mv/m/mvi/4/pl/26/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771442210/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRQIhAO6vbVX8lPh-9bDDVTWoNZpklbaQVqNrF6tLxoYmT889AiAd_wOfSLVtaffZc0FboaJrD9U2jBArYxVUjjyLmqJKKg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVS98VR4-VN7z_8SHpur_k6NPEW5_8KjjdqiEtMNo-hgCIQCgYpXFMfSGxW3F6PLn6FX3QpujLS1Be02PoadRAN2U3g%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="kids",ماجد
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:-1 group-title="kids",بووبا
