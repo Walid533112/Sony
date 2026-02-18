@@ -49,6 +49,12 @@ http://185.9.2.18/chid_391/mono.m3u8
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 group-title="arabic",المصريه
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+#EXTINF:-1 group-title="arabic",مصر الاولى
+https://live.eu-north-1b.cf.dmcdn.net/sec2(D7504Gn-lAjY0wEnwftF9X5E6Ak_BpF5ggOz4-TNn9BTikk5KcR4vyldVItQdBn9m8uGZvcLirXcWY6qS3QUulepecvBWh-0_uqEhsJ3Xqhs6RS9LilVflEV4jFAT5-W)/dm/3/x856hbh/s/live-240.m3u8
+#EXTINF:-1 group-title="arabic",ماسبيرو
+https://live.eu-north-1b.cf.dmcdn.net/sec2(uHOaQom163e8vdLMkU0XEPazuMMyi1Wq0wpqmV0nQPYRwtuLImeewIhGf3Lxi2Gpu3D6D1ShT0Mrn3ELRYGsMP1YRDq956MODTsgxmxAAUY70nVdUkST8yTVbNA_OJeV)/dm/3/x8n6e4h/s/live-240.m3u8
+#EXTINF:-1 group-title="arabic",بانوراما دراما
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/acdd7051-d295-4dc1-b035-ac80acf1dfac/0.m3u8
 #EXTINF:-1 group-title="arabic",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",قطر2
@@ -75,6 +81,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abud
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
 #EXTINF:-1 group-title="arabic",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="arabic",دبي ون
+https://tgn.bozztv.com/gin-36bay4/ga-dubaione/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1462743830&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDEyOjQwOjM4IEFNJmhhc2hfdmFsdWU9ZzIvUWQrelFPZkt0Rk9EdFNJc0c0dz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy
 #EXTINF:-1 group-title="arabic",ناشيونال جيوغرافيك
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 group-title="arabic",روتانا افلام
