@@ -77,6 +77,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc04
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="arabic",الوسطى
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="arabic",ذكريات
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/zikrayatpublish/zikrayat_480p/hdntl=exp=1771540047~acl=%2Fzikrayatlive%2Fzikrayat.smil%2F*~data=hdntl~hmac=dcb2f3cdf5db5aefc95f1bcccdf88533a795322bf1d19749ae97dfb5e54f3f8f/chunks_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الإمارات
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="arabic",ابوظبي
