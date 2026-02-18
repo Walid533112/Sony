@@ -55,9 +55,10 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="arabic",مكان
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الجديد
+#EXTINF:-1 group-title="lebanon",mtv
+#EXTINF:-1 group-title="lebanon",الجديد
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 group-title="arabic",otv
+#EXTINF:-1 group-title="lebanon",otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 group-title="arabic",المصريه
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
