@@ -89,14 +89,14 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynou
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",ناشيونال جيوغرافيك
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1 group-title="arabic",دبي ون
-https://tgn.bozztv.com/gin-36bay4/ga-dubaione/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1464128883&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDY6NTE6MjYgUE0maGFzaF92YWx1ZT0za2FBVE9HZ2Uxdi8wbjkyN2Y1ZFVnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
-#EXTINF:-1 group-title="arabic",روتانا افلام
+#EXTINF:-1 group-title="rotana",روتانا افلام
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
 #EXTINF:-1 group-title="rotana",روتانا سينما
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_1080p/chunks.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_1080p/chunks.m3u8
+#EXTINF:-1 group-title="rotana",lbc
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_720p/chunks.m3u8
 #EXTINF:-1 group-title="arabic",اجيال
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="arabic",العربي
