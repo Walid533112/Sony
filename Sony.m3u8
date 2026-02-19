@@ -90,7 +90,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
 #EXTINF:-1 group-title="rotana",روتانا سينما
-https://liveplay-kgj2.onrender.com/api/hls/live/YgGU_bftXkY8w0pB.fAVlOte3kZ6NfCp7WvC8TA.Ln1aAHClzp7W-Bm2lu6MoZ8A4LWQeJq1YkWuPUUvKrM_zZ4NMQ5Hij9NZU9p2TAsCKI6XgypbhFEHY0u81b4c5I8ntn4sIjcVrnlD2Nwsatv-vtC3eFWO4mNyjJt0vXlTMKOsejyBpWvbNlubwpGBkjOxEbI2IrGB_1mMg4FYWxFFmxzJ0ZIM_JkpJSD/176645/master.m3u8
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1466287940&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI2IDEwOjI1OjUxIFBNJmhhc2hfdmFsdWU9OWVtRlRyQ09Xa05xYlZ0UnlVMnJSdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTMw
 #EXTINF:-1 group-title="arabic",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
@@ -139,11 +139,5 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="arabic",شمس
-https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1 group-title="kids",كارتون نيتورك
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771464209/ei/sRGWadmwDryMv_IPiLKPqQE/ip/93.213.144.58/id/DafNKGT4CLM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-bvvbaxivnuxqqu5b-4g5l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xEg9mxXni0Eau8lEpitfV1GEHfxSaWSJddwZ3b7eGyvld9V9BDN6qRRq-ucavdASNVCcW7KYME/spc/6dlaFHYbZ0t1R9w2uKwvchPR7MFIEn94VxsfwhmqBWzqfUk2CKd7srJAavwzrw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1396250/met/1771442610,/mh/C4/mm/44/mn/sn-bvvbaxivnuxqqu5b-4g5l/ms/lva/mv/m/mvi/4/pl/26/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771442210/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRQIhAO6vbVX8lPh-9bDDVTWoNZpklbaQVqNrF6tLxoYmT889AiAd_wOfSLVtaffZc0FboaJrD9U2jBArYxVUjjyLmqJKKg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVS98VR4-VN7z_8SHpur_k6NPEW5_8KjjdqiEtMNo-hgCIQCgYpXFMfSGxW3F6PLn6FX3QpujLS1Be02PoadRAN2U3g%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="kids",ماجد
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 group-title="kids",بووبا
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771462798/ei/LgyWadiDDvDM6dsPh--TkAE/ip/93.213.144.58/id/9vGuZMUsls0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-bvvbaxivnuxqqu5b-4g5l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-zo2576RL2dLNk8hFkrw6jWpV4puipuyAriCDJSDXrcKqFQReVvNlNJH6Ehl_IdFQp1-gl26Fql/spc/6dlaFG8PramXyYuRSwT0bXviN1dwF8XCBD2T2WiYaz-HqhoBpswVZ3StVe9hmA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1263750/met/1771441199,/mh/oP/mm/44/mn/sn-bvvbaxivnuxqqu5b-4g5l/ms/lva/mv/m/mvi/6/pl/26/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1771440518/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRQIhAJlY3_K9oH15VRel7gvDqZa8y3ldSc5hdxB5VrH6hWIJAiBS7AS4qG61ZevuNK1kJoEXnDC5iuMjL4zlh7zOPoXTRA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALkBFXsXjdRu6qyP6fw6ZYrJ1rNedpB2xdUWPcAKGOOZAiB31Ih8ZUWzm-B_lp7YgCQ9F_t6_6D-m1_RrRPh2rRcmg%3D%3D/playlist/index.m3u8
