@@ -21,8 +21,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 group-title="mbc",mbc2
-https://liveplay-kgj2.onrender.com/api/hls/live/iaNe5C0rPKeRGFLe.FaJAWp65QDGoiVWLa3sx4A.fSJ0d-5tuLKwKU9_sWbGIhTq97JLcwDnXgukaGWm0Ew0ElWODe0GAWsrD2QSsWmerNtlNz1B7wRndUrHCs5wi0cFZAXgo1_mcV4FnBuoy8b8FGDXJU04rJD4jP1nIWbshIQoaoc-vW87slVrdmeF4NIBNutyzEryohHO-MKBIDDw5jKAUh74YTK-9mN8/113426/master.m3u8
 #EXTINF:-1 group-title="arabic",mbc4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc5
@@ -57,8 +55,8 @@ https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 group-title="arabic",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/acdd7051-d295-4dc1-b035-ac80acf1dfac/0.m3u8
-#EXTINF:-1 group-title="egypt",اcbc
-https://liveplay-kgj2.onrender.com/api/hls/live/YgGU_bftXkY8w0pB.fAVlOte3kZ6NfCp7WvC8TA.Ln1aAHClzp7W-Bm2lu6MoZ8A4LWQeJq1YkWuPUUvKrM_zZ4NMQ5Hij9NZU9p2TAsCKI6XgypbhFEHY0u81b4c5I8ntn4sIjcVrnlD2Nwsatv-vtC3eFWO4mNyjJt0vXlTMKOsejyBpWvbNlubwpGBkjOxEbI2IrGB_1mMg4FYWxFFmxzJ0ZIM_JkpJSD/184306/master.m3u8
+#EXTINF:-1 group-title="egypt",cbc
+https://www.yallatv.online/hls_lbn.php?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel138%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 group-title="arabic",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",قطر2
