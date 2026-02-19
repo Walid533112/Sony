@@ -51,9 +51,11 @@ http://185.9.2.18/chid_387/mono.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 group-title="lebanon",otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 group-title="arabic",المصريه
+#EXTINF:-1 group-title="egypt",المصريه
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-#EXTINF:-1 group-title="arabic",بانوراما دراما
+#EXTINF:-1 group-title="egypt",مصر الولى
+https://live.eu-north-1b.cf.dmcdn.net/sec2(qb7BIwJnB9JNLbTJNXhHmOsqCRpzeCivt6tLaOO1hXkFhz_DiSeIA6aERyaf9YOo7OpYwPJIqdqJ0XcBYnVLfWzYv2gFKCepOFIY2qhHJr52qGufLt_Bc0c2ygsw6DrO)/dm/3/x856hbh/s/live-480.m3u8
+#EXTINF:-1 group-title="egypt",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/acdd7051-d295-4dc1-b035-ac80acf1dfac/0.m3u8
 #EXTINF:-1 group-title="egypt",cbc
 https://www.yallatv.online/hls_lbn.php?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel138%2Ftracks-v1a1%2Fmono.m3u8
