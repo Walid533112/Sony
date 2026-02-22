@@ -78,7 +78,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 #EXTINF:-1 group-title="arabic",الوسطى
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",ذكريات
-http://167.86.72.37:3000/api/hls/live/B8zvzzpgIVIoC2kg.CnYOhvzvhHVPVdwBdQfdaQ.FCCmrmTEQumhKhCWze44aaDgLc_oJV4S1X-Qli7dy7pmGYKF7FrgADCXzDk_yzFVVTpk8jubNvriE26Ac16maJbPTWmtHaVxpBclQQSUrHzdvyOG1sam3C-i4VAGeSCarY0ghTctSf8y73e9LL7_hzKlb7Pmi98Q6jFavFzfHQs/relay/28237_6013.m3u8
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/zikrayatpublish/zikrayat_480p/hdntl=exp=1771805633~acl=%2Fzikrayatlive%2Fzikrayat.smil%2F*~data=hdntl~hmac=79937a71cb2df7025f1c8348559bef5a6aa111b38b85237220040fc78db0b75d/chunks_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الإمارات
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="arabic",ابوظبي
