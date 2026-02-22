@@ -143,3 +143,57 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="kids",ماجد
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+#EXTINF:-1 group-title="ARABIC", MEKKE TV
+http://46.245.160.224/mekke/mekke/playlist.m3u8
+#EXTINF:-1 group-title="عربي MEDINE TV
+http://livetr.gostream.nl/medine/medine/hasbahca.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:-1 group-title="عرب MBC ACTION
+http://63.237.48.23/ios/MBC ACTION/MBC ACTION.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC BOLLYWOOD
+http://63.237.48.23/ios/MBC BOLLYWOOD/MBC BOLLYWOOD.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC MAX2
+http://63.237.48.3/ios/MBC_MAX/MBC MAX.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC MAX
+http://63.237.48.23/ios/MBC MAX/MBC MAX.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC 4
+http://63.237.48.3/ios/MBC 4/MBC 4.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title="عربي MBC ACTION
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title="ARABIC", MBC ACTION 2
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title="ARABIC", QURAN TV 1
+http://148.251.73.76:8000/live/cristo/start1/296.ts
+#EXTINF:-1 group-title="ARABIC", MBC MAX
+http://148.251.73.76:8000/live/cristo/start1/300.ts
+#EXTINF:-1 group-title="ARABIC", MBC 1
+http://148.251.73.76:8000/live/cristo/start1/306.ts
+#EXTINF:-1 group-title="ARABIC", MBC 2
+http://148.251.73.76:8000/live/cristo/start1/297.ts
+#EXTINF:-1 group-title="عربی MBC ACTION
+http://148.251.73.76:8000/live/cristo/start1/299.ts
+#EXTINF:-1 group-title="ARABIC", MBC 4
+http://148.251.73.76:8000/live/cristo/start1/298.ts
+#EXTINF:-1 group-title="عربی BEIN MOVIES 1HD
+http://148.251.73.76:8000/live/cristo/start1/291.ts
+#EXTINF:-1 group-title="عربی BEIN MOVIES 2HD
+http://148.251.73.76:8000/live/cristo/start1/290.ts
+#EXTINF:-1 group-title="ARABIC", 2M MAROC
+http://148.251.73.76:8000/live/cristo/start1/305.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 1 HD
+http://148.251.73.76:8000/live/cristo/start1/288.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 2 HD
+http://148.251.73.76:8000/live/cristo/start1/287.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 3 HD
+http://148.251.73.76:8000/live/cristo/start1/284.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 4 HD
+http://148.251.73.76:8000/live/cristo/start1/283.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 5 HD
+http://148.251.73.76:8000/live/cristo/start1/282.ts
+#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 6 HD
+http://148.251.73.76:8000/live/cristo/start1/281.ts
