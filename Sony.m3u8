@@ -169,5 +169,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",kids6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
-#EXTINF:-1 group-title="kids",ماسبيرو
+#EXTINF:-1 group-title="عربي",ماسبيرو
 http://167.86.72.37:3000/api/hls/live/iub0BIxSxDQQmy3K.aDCZVq2_KHDfUf5HUP2bGg.w02bsFqymakukEDhhf-NgVsrrQWe82-9Le_jRQrs4G_wXnH7GORfktwGqOU2P6fRK8oHmKETUwTDjsMMBRMVP01cpOwcMtkVAK69m9BlY3Pjg3E_K7cj1_OyBhHOh5DxDMsueyj-bTXlBvnj8fi_U7Bf7bSBaEQSmILJe-iMDVc/28220/master.m3u8
