@@ -21,6 +21,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 http://102.177.177.232/MBC2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="mbc",mbcmax
 http://102.177.177.232/MBCMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="mbc",mbc variety
+http://102.177.177.232/MBCVARIETY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="arabic",mbc4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc5
@@ -92,7 +94,29 @@ http://148.163.96.58/live/rotana_classic/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا خليجيه
 http://148.163.96.58/live/rotana_khalijiah/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
-https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1466287940&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI2IDEwOjI1OjUxIFBNJmhhc2hfdmFsdWU9OWVtRlRyQ09Xa05xYlZ0UnlVMnJSdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTMw
+http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا دراما
+http://185.9.2.18/chid_286/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://185.9.2.18/chid_2179/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://185.9.2.18/chid_5224/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://apk.arabic-ch.space/live/079/index.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://apk.arabic-ch.space/live/081/index.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://apk.arabic-ch.space/live/082/index.m3u8
+#EXTINF:-1 group-title="rotana",روتانا
+http://apk.arabic-ch.space/live/070/index.m3u8
+#EXTINF:-1 group-title="rotana",rotana
+http://apk.arabic-ch.space/live/078/index.m3u8
+#EXTINF:-1 group-title="kids",ماجد
+http://apk.arabic-ch.space/live/077/index.m3u8
+#EXTINF:-1 group-title="kids",ماجد
+http://apk.arabic-ch.space/live/072/index.m3u8
+#EXTINF:-1 group-title="mbc",zee alwan
+http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="arabic",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
