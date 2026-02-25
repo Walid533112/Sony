@@ -189,9 +189,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="kids",kids5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="kids",kids
+http://apk.arabic-ch.space/live/070/index.m3u8
 #EXTINF:-1 group-title="kids",kids6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=261
+http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="kids",kids6
-https://live.eu-north-1b.cf.dmcdn.net/sec2(QR3T2eZSket_18Bb_KRa3BtYihuopBeNrLG0kL273-geHgnklIr359w2bVIH3EFLHIbpbIy6lN9afu4xSmXid2YUhDU-gtsvc1BFUP0zkUbmOaDRExDzq_HbRMy7yPo6)/dm/3/x8n6e4h/s/live-480.m3u8
-#EXTINF:-1 group-title="kids",kids6
-https://kidn.ravynerinnn.workers.dev/3853.m3u8
+http://apk.arabic-ch.space/live/076/index.m3u8
+
