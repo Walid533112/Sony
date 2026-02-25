@@ -89,31 +89,21 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
-#EXTINF:-1 group-title="rotana",روتانا كلاسيك
-http://148.163.96.58/live/rotana_classic/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا خليجيه
-http://148.163.96.58/live/rotana_khalijiah/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
+#EXTINF:-1 group-title="rotana",روتانا كلاسيك
 http://185.9.2.18/chid_286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
+#EXTINF:-1 group-title="rotana",روتانا دراما
 http://185.9.2.18/chid_2179/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
+#EXTINF:-1 group-title="rotana",روتانا كوميدي
 http://185.9.2.18/chid_5224/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
-http://apk.arabic-ch.space/live/079/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
+#EXTINF:-1 group-title="bein",bein series2
 http://apk.arabic-ch.space/live/081/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
-http://apk.arabic-ch.space/live/082/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا
-http://apk.arabic-ch.space/live/070/index.m3u8
-#EXTINF:-1 group-title="rotana",rotana
+#EXTINF:-1 group-title="bein",bein movies3
 http://apk.arabic-ch.space/live/078/index.m3u8
-#EXTINF:-1 group-title="kids",ماجد
+#EXTINF:-1 group-title="bein",bein series4
 http://apk.arabic-ch.space/live/077/index.m3u8
-#EXTINF:-1 group-title="kids",ماجد
+#EXTINF:-1 group-title="bein",bein drama
 http://apk.arabic-ch.space/live/072/index.m3u8
 #EXTINF:-1 group-title="mbc",zee alwan
 http://93.184.10.248/ZeeAlwan/index.m3u8
@@ -187,6 +177,8 @@ https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_sour
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="kids",boomerang
+http://apk.arabic-ch.space/live/082/index.m3u8
 #EXTINF:-1 group-title="kids",kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 group-title="kids",kids2
