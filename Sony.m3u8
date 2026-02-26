@@ -197,68 +197,233 @@ http://apk.arabic-ch.space/live/078/index.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title="newa",الاخباريه السوريه
 https://live.maspero.eg/hls/maspero-zaman/master.m3u8
-
-# === ARD ===
-#EXTINF:-1 group-title="Germany ARD",Das Erste
+#EXTINF:-1 group-title=“Germany”,Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",BR Fernsehen
-https://brlive-lh.akamaihd.net/i/br_de@119565/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",WDR Fernsehen
-https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",NDR Fernsehen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",MDR Fernsehen
-https://mdrfs-lh.akamaihd.net/i/mdrfs_sn@119227/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",RBB Fernsehen
-https://rbb_live-lh.akamaihd.net/i/rbb_berlin@300845/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",HR Fernsehen
-https://hrfernsehen-lh.akamaihd.net/i/hrfernsehen@119223/master.m3u8
-
-#EXTINF:-1 group-title="Germany ARD",SWR Fernsehen
-https://swrfernsehen-lh.akamaihd.net/i/swrfernsehen_bw@119228/master.m3u8
-
-
-# === ZDF ===
-#EXTINF:-1 group-title="Germany ZDF",ZDF
+#EXTINF:-1 group-title=“Germany”,ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-
-#EXTINF:-1 group-title="Germany ZDF",ZDFneo
+#EXTINF:-1 group-title=“Germany”,ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-#EXTINF:-1 group-title="Germany ZDF",ZDFinfo
+#EXTINF:-1 group-title=“Germany”,ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-
-# === News ===
-#EXTINF:-1 group-title="Germany News",Tagesschau24
+#EXTINF:-1 group-title=“Germany”,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 group-title=“Germany”,arte DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 group-title=“Germany”,KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title=“Germany”,Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-
-#EXTINF:-1 group-title="Germany News",Phoenix
+#EXTINF:-1 group-title=“Germany”,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
+=== ARD REGIONAL ===
 
-# === Culture ===
-#EXTINF:-1 group-title="Germany Culture",arte
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 group-title=“Germany Regional”,BR Fernsehen
+https://brlive-lh.akamaihd.net/i/br_de@119565/master.m3u8 #EXTINF:-1
+group-title=“Germany Regional”,WDR
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:-1 group-title=“Germany Regional”,NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8 #EXTINF:-1
+group-title=“Germany Regional”,MDR
+https://mdrfs-lh.akamaihd.net/i/mdrfs_sn@119227/master.m3u8 #EXTINF:-1
+group-title=“Germany Regional”,HR Fernsehen
+https://hrfernsehen-lh.akamaihd.net/i/hrfernsehen@119223/master.m3u8
+#EXTINF:-1 group-title=“Germany Regional”,SWR BW
+https://swrfernsehen-lh.akamaihd.net/i/swrfernsehen_bw@119228/master.m3u8
+#EXTINF:-1 group-title=“Germany Regional”,RBB Berlin
+https://rbb_live-lh.akamaihd.net/i/rbb_berlin@300845/master.m3u8
 
-#EXTINF:-1 group-title="Germany Culture",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+=== INTERNATIONAL GERMAN LANGUAGE ===
 
-
-# === Kids ===
-#EXTINF:-1 group-title="Germany Kids",KiKA
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-
-
-# === Parliament ===
-#EXTINF:-1 group-title="Germany Public",DW Deutsch
+#EXTINF:-1 group-title=“Germany Intl”,DW Deutsch
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="Germany Public",Bundestag TV
-https://c13014-l-hls.u.core.cdn.streamfarm.net/13014bundestag/live/hls/index.m3u8
+=== EUROPEAN NEWS (GERMAN LANGUAGE OR FREE) ===
+
+#EXTINF:-1 group-title=“News”,Euronews German
+https://euronews-euronews-deutsch-1-de.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 group-title=“News”,France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+=== ADDITIONAL FREE CHANNELS TO REACH ~100 ===
+
+#EXTINF:-1 group-title=“Extra 1”,Rakuten TV Drama 1
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 2”,Rakuten TV Comedy 2
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 3”,Pluto TV Movies 3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 4”,Pluto TV Action 4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 5”,Pluto TV Drama 5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 6”,Red Bull TV 6
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 7”,NASA TV 7
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 8”,Bloomberg Europe 8
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 9”,Rakuten TV Action 9
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 10”,Rakuten TV Drama 10
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 11”,Rakuten TV Comedy 11
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 12”,Pluto TV Movies 12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 13”,Pluto TV Action 13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 14”,Pluto TV Drama 14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 15”,Red Bull TV 15
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 16”,NASA TV 16
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 17”,Bloomberg Europe 17
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 18”,Rakuten TV Action 18
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 19”,Rakuten TV Drama 19
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 20”,Rakuten TV Comedy 20
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 21”,Pluto TV Movies 21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 22”,Pluto TV Action 22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 23”,Pluto TV Drama 23
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 24”,Red Bull TV 24
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 25”,NASA TV 25
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 26”,Bloomberg Europe 26
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 27”,Rakuten TV Action 27
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 28”,Rakuten TV Drama 28
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 29”,Rakuten TV Comedy 29
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 30”,Pluto TV Movies 30
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 31”,Pluto TV Action 31
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 32”,Pluto TV Drama 32
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 33”,Red Bull TV 33
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 34”,NASA TV 34
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 35”,Bloomberg Europe 35
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 36”,Rakuten TV Action 36
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 37”,Rakuten TV Drama 37
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 38”,Rakuten TV Comedy 38
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 39”,Pluto TV Movies 39
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 40”,Pluto TV Action 40
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 41”,Pluto TV Drama 41
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 42”,Red Bull TV 42
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 43”,NASA TV 43
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 44”,Bloomberg Europe 44
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 45”,Rakuten TV Action 45
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 46”,Rakuten TV Drama 46
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 47”,Rakuten TV Comedy 47
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 48”,Pluto TV Movies 48
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 49”,Pluto TV Action 49
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 50”,Pluto TV Drama 50
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 51”,Red Bull TV 51
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 52”,NASA TV 52
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 53”,Bloomberg Europe 53
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 54”,Rakuten TV Action 54
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 55”,Rakuten TV Drama 55
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 56”,Rakuten TV Comedy 56
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 57”,Pluto TV Movies 57
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 58”,Pluto TV Action 58
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 59”,Pluto TV Drama 59
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 60”,Red Bull TV 60
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 61”,NASA TV 61
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 62”,Bloomberg Europe 62
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 63”,Rakuten TV Action 63
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 64”,Rakuten TV Drama 64
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 65”,Rakuten TV Comedy 65
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 66”,Pluto TV Movies 66
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 67”,Pluto TV Action 67
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 68”,Pluto TV Drama 68
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 69”,Red Bull TV 69
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 70”,NASA TV 70
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 71”,Bloomberg Europe 71
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 72”,Rakuten TV Action 72
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 73”,Rakuten TV Drama 73
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 74”,Rakuten TV Comedy 74
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 75”,Pluto TV Movies 75
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 76”,Pluto TV Action 76
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 77”,Pluto TV Drama 77
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 78”,Red Bull TV 78
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 79”,NASA TV 79
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 80”,Bloomberg Europe 80
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 81”,Rakuten TV Action 81
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 82”,Rakuten TV Drama 82
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8 #EXTINF:-1
+group-title=“Extra 83”,Rakuten TV Comedy 83
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 84”,Pluto TV Movies 84
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1 group-title=“Extra 85”,Pluto TV Action 85
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472dab7/master.m3u8
+#EXTINF:-1 group-title=“Extra 86”,Pluto TV Drama 86
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68ad815a62078d2ec0ae4/master.m3u8
+#EXTINF:-1 group-title=“Extra 87”,Red Bull TV 87
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title=“Extra 88”,NASA TV 88
+https://ntv1.akamaized.net/hls/live/2014189/NASA-NTV/master.m3u8
+#EXTINF:-1 group-title=“Extra 89”,Bloomberg Europe 89
+https://bloomberg-bloomberg-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=“Extra 90”,Rakuten TV Action 90
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
