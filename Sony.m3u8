@@ -195,8 +195,6 @@ http://apk.arabic-ch.space/live/070/index.m3u8
 http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="kids",kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 group-title="newa",الاخباريه السوريه
-https://live.maspero.eg/hls/maspero-zaman/master.m3u8
 #EXTINF:-1 group-title=“Germany”,Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title=“Germany”,ZDF
@@ -209,10 +207,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 group-title=“Germany”,arte DE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 group-title=“Germany”,KiKA
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title=“Germany”,Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
 #EXTINF:-1 group-title=“Germany”,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
