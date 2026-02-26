@@ -191,8 +191,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",kids
 http://apk.arabic-ch.space/live/070/index.m3u8
-#EXTINF:-1 group-title="kids",kids6
+#EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
-#EXTINF:-1 group-title="kids",kids6
-http://apk.arabic-ch.space/live/076/index.m3u8
+#EXTINF:-1 group-title="kids",kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
