@@ -213,17 +213,13 @@ https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 group-title="rotana",روتانا دراما
 http://185.9.2.18/chid_518/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
+#EXTINF:-1 group-title="egypt",النهار دراما
 http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
+#EXTINF:-1 group-title="egypt",nileدراما
 http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
+#EXTINF:-1 group-title="egypt",الحياه
 http://185.9.2.18/chid_327/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
-http://185.9.2.18/chid_139/tracks-a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
+#EXTINF:-1 group-title="rotana",lbc
 http://185.9.2.18/chid_518/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
-http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الامارات",دبي
-http://185.9.2.18/chid_659/mono.m3u8
+http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
