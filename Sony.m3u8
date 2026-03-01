@@ -278,5 +278,26 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
+#EXTINF:-1 group-title="syria",سوريا
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+http://148.163.96.58/live/panorama_film/index.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+http://185.9.2.18/chid_352/mono.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+http://185.9.2.18/chid_518/mono.m3u8
+#EXTINF:-1 group-title="syria",سوريا
+http://185.9.2.18/chid_616/mono.m3u8
 
