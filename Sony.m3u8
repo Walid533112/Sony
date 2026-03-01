@@ -362,78 +362,6 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:0 CUID="4788" tvg-chno="1635" tvg-name="1635. ZDF NEO HD [DE]" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png" group-title="🇩🇪 Germany",1635. ZDF NEO HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:0 CUID="4789" tvg-name="ARD" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ARD
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:0 CUID="4790" tvg-name="ZDF" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ZDF
-https://strm.hdtvizlecanli.com/live/zdf.m3u8
-#EXTINF:0 CUID="4791" tvg-name="MDR" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",MDR
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:0 CUID="4792" tvg-name="Pro7" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Pro7
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
-#EXTINF:0 CUID="4793" tvg-name="VOX" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",VOX
-https://strm.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:0 CUID="4794" tvg-name="Sat.1" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Sat.1
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:0 CUID="4795" tvg-name="RTL" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:0 CUID="4796" tvg-name="RTL II" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",RTL II
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:0 CUID="4797" tvg-name="Kabel1" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Kabel1
-https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:0 CUID="4798" tvg-name="Pro7maxx" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Pro7maxx
-https://strm.hdtvizlecanli.com/live/pro7max.m3u8
-#EXTINF:0 CUID="4799" tvg-name="DMAX" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",DMAX
-https://strm.hdtvizlecanli.com/live/dmax.m3u8
-#EXTINF:0 CUID="4800" tvg-name="Comedy Central" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Comedy Central
-https://strm.hdtvizlecanli.com/live/comedy.m3u8
-#EXTINF:0 CUID="4801" tvg-name="sixx" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",sixx
-https://strm.hdtvizlecanli.com/live/six.m3u8
-#EXTINF:0 CUID="4802" tvg-name="TLC" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",TLC
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:0 CUID="4803" tvg-name="Tele5" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Tele5
-https://strm.hdtvizlecanli.com/live/
-#EXTINF:0 CUID="4804" tvg-name="RTL Nitro" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",RTL Nitro
-https://strm.hdtvizlecanli.com/live/nitro.m3u8
-#EXTINF:0 CUID="4805" tvg-name="Sat.1 Gold" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Sat.1 Gold
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:0 CUID="4806" tvg-name="Kabel1 Doku" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Kabel1 Doku
-https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
-#EXTINF:0 CUID="4807" tvg-name="3sat" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:0 CUID="4808" tvg-name="Arte" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Arte
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:0 CUID="4809" tvg-name="ZDFinfokanal" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ZDFinfokanal
-https://strm.hdtvizlecanli.com/live/zdfinfo.m3u8
-#EXTINF:0 CUID="4810" tvg-name="ZDFneo" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ZDFneo
-https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
-#EXTINF:0 CUID="4811" tvg-name="ONE" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ONE
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:0 CUID="4812" tvg-name="ARDalpha" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ARDalpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:0 CUID="4813" tvg-name="Welt der Wunder" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Welt der Wunder
-https://stream.hdtvizlecanli.com/welt.m3u8
-#EXTINF:0 CUID="4814" tvg-name="ATV" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ATV
-https://strm.hdtvizlecanli.com/live/atv.m3u8
-#EXTINF:0 CUID="4815" tvg-name="ORF1" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ORF1
-https://strm.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:0 CUID="4816" tvg-name="ORF2" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ORF2
-https://strm.hdtvizlecanli.com/live/orf2.m3u8
-#EXTINF:0 CUID="4817" tvg-name="ServusTV" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ServusTV
-https://strm.hdtvizlecanli.com/live/servus.m3u8
-#EXTINF:0 CUID="4818" tvg-name="N-TV" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",N-TV
-https://strm.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:0 CUID="4819" tvg-name="N24" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",N24
-https://strm.hdtvizlecanli.com/live/n24.m3u8
-#EXTINF:0 CUID="4820" tvg-name="Phoenix" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:0 CUID="4821" tvg-name="tagesschau24" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-#EXTINF:0 CUID="4822" tvg-name="MTV" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
-#EXTINF:0 CUID="4823" tvg-name="Deluxe Music" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Deluxe Music
-https://stream.hdtvizlecanli.com/
-#EXTINF:0 CUID="4824" tvg-name="Deutsche Welle" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Deutsche Welle
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:0 CUID="4826" tvg-name="BR" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",BR
@@ -448,142 +376,22 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:0 CUID="4831" tvg-name="WDR" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:0 CUID="4832" tvg-name="SuperRTL" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",SuperRTL
-https://strm.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:0 CUID="4833" tvg-name="Disney Channel" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Disney Channel
-https://strm.hdtvizlecanli.com/live/disney.m3u8
-#EXTINF:0 CUID="4834" tvg-name="Nickelodeon" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Nickelodeon
-https://stream.hdtvizlecanli.com/nick.m3u8
-#EXTINF:0 CUID="4835" tvg-name="KiKa" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",KiKa
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #EXTINF:0 CUID="4836" tvg-name="rbb" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",rbb
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 #EXTINF:0 CUID="4837" tvg-name="Red Bull TV" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 CUID="4838" tvg-name="Alex Berlin" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Alex Berlin
-https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/media-u99yuhlyy_b4192000_slGER_14186.ts
-#EXTINF:0 CUID="4839" tvg-name="Das Erste Ⓖ" tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" group-title="🇩🇪 Germany",Das Erste Ⓖ
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:0 CUID="4840" tvg-name="ZDF DE" tvg-id="123tv.de" tvg-logo="https://bit.ly/3LBQCQw" group-title="🇩🇪 Germany",ZDF DE
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
-#EXTINF:0 CUID="4842" tvg-name="RTL 2" tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪 Germany",RTL 2
-https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
-#EXTINF:0 CUID="4843" tvg-name="RTL Zwei HD" tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="🇩🇪 Germany",RTL Zwei HD
-http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
-#EXTINF:0 CUID="4844" tvg-name="VOX DE" tvg-id="Vox.de" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="🇩🇪 Germany",VOX DE
-http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/44434500?profile=pass
-#EXTINF:0 CUID="4845" tvg-name="Super RTL DE" tvg-id="SuperRTL.de" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="🇩🇪 Germany",Super RTL DE
-http://154.58.225.25:9999/superrtl/index.m3u8
-#EXTINF:0 CUID="4846" tvg-name="3sat  [Geo-blocked]" tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="🇩🇪 Germany",3sat  [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:0 CUID="4847" tvg-name="1-2-3 TV" tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="🇩🇪 Germany",1-2-3 TV
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:0 CUID="4848" tvg-name="ARTE  [Geo-blocked]" tvg-id="arte.de" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="🇩🇪 Germany",ARTE  [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:0 CUID="4849" tvg-name="KiKA  [Geo-blocked]" tvg-id="KiKA.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="🇩🇪 Germany",KiKA  [Geo-blocked]
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:0 CUID="4850" tvg-name="ZDF  [Geo-blocked]" tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="🇩🇪 Germany",ZDF  [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:0 CUID="4851" tvg-name="ZDFinfo  [Geo-blocked]" tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="🇩🇪 Germany",ZDFinfo  [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:0 CUID="4852" tvg-name="ZDFneo  [Geo-blocked]" tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="🇩🇪 Germany",ZDFneo  [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:0 CUID="4853" tvg-name="ADRIA Music" tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="🇩🇪 Germany",ADRIA Music
-https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
-#EXTINF:0 CUID="4854" tvg-name="One  [Geo-blocked]" tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" group-title="🇩🇪 Germany",One  [Geo-blocked]
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:0 CUID="4855" tvg-name="Alex Berlin" tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="🇩🇪 Germany",Alex Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:0 CUID="4856" tvg-name="Phoenix  [Geo-blocked]" tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="🇩🇪 Germany",Phoenix  [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:0 CUID="4857" tvg-name="VOX DE+" tvg-id="1012" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1012.png" group-title="🇩🇪 Germany",VOX DE+
-https://cdntv.online/high/9mlxywika2/1012.m3u8
-#EXTINF:0 CUID="4858" tvg-name="Sat. 1 DE" tvg-id="1013" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1013.png" group-title="🇩🇪 Germany",Sat. 1 DE
-https://cdntv.online/high/9mlxywika2/1013.m3u8
-#EXTINF:0 CUID="4859" tvg-name="Sat. 1 Gold HD DE" tvg-id="1014" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1014.png" group-title="🇩🇪 Germany",Sat. 1 Gold HD DE
-https://cdntv.online/high/9mlxywika2/1014.m3u8
-#EXTINF:0 CUID="4860" tvg-name="Sport 1 HD DE" tvg-id="1015" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1015.png" group-title="🇩🇪 Germany",Sport 1 HD DE
-https://cdntv.online/high/9mlxywika2/1015.m3u8
-#EXTINF:0 CUID="4861" tvg-name="Kabel Eins DE" tvg-id="1016" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1016.png" group-title="🇩🇪 Germany",Kabel Eins DE
-https://cdntv.online/high/9mlxywika2/1016.m3u8
-#EXTINF:0 CUID="4862" tvg-name="N-TV HD DE" tvg-id="1017" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1017.png" group-title="🇩🇪 Germany",N-TV HD DE
-https://cdntv.online/high/9mlxywika2/1017.m3u8
-#EXTINF:0 CUID="4863" tvg-name="ProSieben HD DE" tvg-id="1068" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1068.png" group-title="🇩🇪 Germany",ProSieben HD DE
-https://cdntv.online/high/9mlxywika2/1068.m3u8
-#EXTINF:0 CUID="4864" tvg-name="RTL DE" tvg-id="1069" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1069.png" group-title="🇩🇪 Germany",RTL DE
-https://cdntv.online/high/9mlxywika2/1069.m3u8
-#EXTINF:0 CUID="4865" tvg-name="RTL2 HD DE" tvg-id="1070" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1070.png" group-title="🇩🇪 Germany",RTL2 HD DE
-https://cdntv.online/high/9mlxywika2/1070.m3u8
-#EXTINF:0 CUID="4866" tvg-name="Super RTL HD DE" tvg-id="1071" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1071.png" group-title="🇩🇪 Germany",Super RTL HD DE
-https://cdntv.online/high/9mlxywika2/1071.m3u8
-#EXTINF:0 CUID="4867" tvg-name="Sky Sport 1 HD DE" tvg-id="1072" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1072.png" group-title="🇩🇪 Germany",Sky Sport 1 HD DE
-https://cdntv.online/high/9mlxywika2/1072.m3u8
-#EXTINF:0 CUID="4868" tvg-name="Sky Sport 2 HD DE" tvg-id="1073" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="🇩🇪 Germany",Sky Sport 2 HD DE
-https://cdntv.online/high/9mlxywika2/1073.m3u8
-#EXTINF:0 CUID="4869" tvg-name="Sky Cinema +24 HD" tvg-id="1075" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1075.png" group-title="🇩🇪 Germany",Sky Cinema +24 HD
-https://cdntv.online/high/9mlxywika2/1075.m3u8
-#EXTINF:0 CUID="4870" tvg-name="Sky Cinema Action HD DE" tvg-id="1076" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1076.png" group-title="🇩🇪 Germany",Sky Cinema Action HD DE
-https://cdntv.online/high/9mlxywika2/1076.m3u8
-#EXTINF:0 CUID="4871" tvg-name="Sky Cinema Best HD DE" tvg-id="1077" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1077.png" group-title="🇩🇪 Germany",Sky Cinema Best HD DE
-https://cdntv.online/high/9mlxywika2/1077.m3u8
-#EXTINF:0 CUID="4872" tvg-name="Sky Cinema Family HD DE" tvg-id="1078" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1078.png" group-title="🇩🇪 Germany",Sky Cinema Family HD DE
-https://cdntv.online/high/9mlxywika2/1078.m3u8
-#EXTINF:0 CUID="4873" tvg-name="Sky Cinema Special HD DE" tvg-id="1079" catchup-type="xc" catchup-days="3" tvg-logo="http://epg.cdntv.online/img/1079.png" group-title="🇩🇪 Germany",Sky Cinema Special HD DE
-https://cdntv.online/high/9mlxywika2/1079.m3u8
-#EXTINF:0 CUID="4874" tvg-name="Welt HD" tvg-id="1060" tvg-logo="http://epg.cdntv.online/img/1060.png" group-title="🇩🇪 Germany",Welt HD
-https://cdntv.online/high/9mlxywika2/1060.m3u8
 #EXTINF:0 CUID="4875" tvg-name="WELT HD" tvg-id="WELT.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="🇩🇪 Germany",WELT HD
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:0 CUID="4876" tvg-name="Welt HD" tvg-id="1060" tvg-logo="http://epg.cdntv.online/img/1060.png" group-title="🇩🇪 Germany",Welt HD
-https://s6.hopslan.com/n24X/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 CUID="4877" tvg-name="Deutsche Welle" tvg-id="439" tvg-logo="http://epg.cdntv.online/img/439.png" group-title="🇩🇪 Germany",Deutsche Welle
-https://cdntv.online/high/9mlxywika2/439.m3u8
-#EXTINF:0 CUID="4878" tvg-name="Allgäu TV" tvg-id="908" tvg-logo="http://epg.cdntv.online/img/908.png" group-title="🇩🇪 Germany",Allgäu TV
-https://cdntv.online/high/9mlxywika2/908.m3u8
-#EXTINF:0 CUID="4879" tvg-name="Augsburg TV" tvg-id="909" tvg-logo="http://epg.cdntv.online/img/909.png" group-title="🇩🇪 Germany",Augsburg TV
-https://cdntv.online/high/9mlxywika2/909.m3u8
-#EXTINF:0 CUID="4880" tvg-name="Baden TV" tvg-id="910" tvg-logo="http://epg.cdntv.online/img/910.png" group-title="🇩🇪 Germany",Baden TV
-https://cdntv.online/high/9mlxywika2/910.m3u8
-#EXTINF:0 CUID="4881" tvg-name="Donau TV" tvg-id="912" tvg-logo="http://epg.cdntv.online/img/912.png" group-title="🇩🇪 Germany",Donau TV
-https://cdntv.online/high/9mlxywika2/912.m3u8
-#EXTINF:0 CUID="4882" tvg-name="Campus TV" tvg-id="913" tvg-logo="http://epg.cdntv.online/img/913.png" group-title="🇩🇪 Germany",Campus TV
-https://cdntv.online/high/9mlxywika2/913.m3u8
-#EXTINF:0 CUID="4883" tvg-name="Filstalwelle" tvg-id="914" tvg-logo="http://epg.cdntv.online/img/914.png" group-title="🇩🇪 Germany",Filstalwelle
-https://cdntv.online/high/9mlxywika2/914.m3u8
-#EXTINF:0 CUID="4884" tvg-name="Franken Fernsehen HD" tvg-id="915" tvg-logo="http://epg.cdntv.online/img/915.png" group-title="🇩🇪 Germany",Franken Fernsehen HD
-https://cdntv.online/high/9mlxywika2/915.m3u8
-#EXTINF:0 CUID="4885" tvg-name="FS1 AUSTRIA" tvg-id="916" tvg-logo="http://epg.cdntv.online/img/916.png" group-title="🇩🇪 Germany",FS1 AUSTRIA
-https://cdntv.online/high/9mlxywika2/916.m3u8
-#EXTINF:0 CUID="4886" tvg-name="Halle" tvg-id="917" tvg-logo="http://epg.cdntv.online/img/917.png" group-title="🇩🇪 Germany",Halle
-https://cdntv.online/high/9mlxywika2/917.m3u8
-#EXTINF:0 CUID="4887" tvg-name="München TV" tvg-id="920" tvg-logo="http://epg.cdntv.online/img/920.png" group-title="🇩🇪 Germany",München TV
-https://cdntv.online/high/9mlxywika2/920.m3u8
-#EXTINF:0 CUID="4888" tvg-name="NRWision" tvg-id="921" tvg-logo="http://epg.cdntv.online/img/921.png" group-title="🇩🇪 Germany",NRWision
-https://cdntv.online/high/9mlxywika2/921.m3u8
-#EXTINF:0 CUID="4889" tvg-name="Oberpfalz TV" tvg-id="922" tvg-logo="http://epg.cdntv.online/img/922.png" group-title="🇩🇪 Germany",Oberpfalz TV
-https://cdntv.online/high/9mlxywika2/922.m3u8
-#EXTINF:0 CUID="4890" tvg-name="RNF" tvg-id="924" tvg-logo="http://epg.cdntv.online/img/924.png" group-title="🇩🇪 Germany",RNF
-https://cdntv.online/high/9mlxywika2/924.m3u8
-#EXTINF:0 CUID="4891" tvg-name="RFO" tvg-id="925" tvg-logo="http://epg.cdntv.online/img/925.png" group-title="🇩🇪 Germany",RFO
-https://cdntv.online/high/9mlxywika2/925.m3u8
-#EXTINF:0 CUID="4892" tvg-name="Saarland Fernsehen 1" tvg-id="926" tvg-logo="http://epg.cdntv.online/img/926.png" group-title="🇩🇪 Germany",Saarland Fernsehen 1
-https://cdntv.online/high/9mlxywika2/926.m3u8
-#EXTINF:0 CUID="4893" tvg-name="Saarland Fernsehen 2" tvg-id="927" tvg-logo="http://epg.cdntv.online/img/927.png" group-title="🇩🇪 Germany",Saarland Fernsehen 2
-https://cdntv.online/high/9mlxywika2/927.m3u8
 #EXTINF:0 CUID="4894" tvg-name="a.tv" tvg-id="a.tv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="🇩🇪 Germany",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:0 CUID="4895" tvg-name="allgäu.tv" tvg-id="AllgauTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="🇩🇪 Germany",allgäu.tv
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:0 CUID="4896" tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="🇩🇪 Germany",Franken Fernsehen
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
-#EXTINF:0 CUID="4897" tvg-name="Hamburg 1" tvg-id="Hamburg1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png" group-title="🇩🇪 Germany",Hamburg 1
-https://stream.hamburg1.de/live_abr/hamburg1_abr/live/hamburg1_720p/chunks.m3u8
 #EXTINF:0 CUID="4898" tvg-name="NRWision HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="🇩🇪 Germany",NRWision HD
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
-#EXTINF:0 CUID="4899" tvg-name="OK Suedwestpfalz" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png" group-title="🇩🇪 Germany",OK Suedwestpfalz
-https://s.ok54.de/okswp/test/chunks.m3u8
 #EXTINF:0 CUID="4900" tvg-name="OK Merseburg-Querfurt" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="🇩🇪 Germany",OK Merseburg-Querfurt
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
 #EXTINF:0 CUID="4901" tvg-name="OK Dessau" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="🇩🇪 Germany",OK Dessau
@@ -596,7 +404,6 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-salzwedel_h
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
 #EXTINF:0 CUID="4905" tvg-name="OK Wernigerode" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png" group-title="🇩🇪 Germany",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
-
 #EXTINF:0 CUID="4907" tvg-name="BLK Regional TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png" group-title="🇩🇪 Germany",BLK Regional TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:0 CUID="4908" tvg-name="kulturmd" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png" group-title="🇩🇪 Germany",kulturmd
