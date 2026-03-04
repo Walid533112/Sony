@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 tvg-logo="https://yourserver.com/syria.png" group-title="Syria", Syrian Channel
+http://streamlink.m3u8
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
