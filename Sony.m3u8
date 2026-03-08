@@ -133,6 +133,78 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 group-title="arabic",رؤيا دراما
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:0 CUID="888" tvg-name="Roya Drama" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:0 CUID="889" tvg-name="Roya Comedy" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:0 CUID="890" tvg-name="Roya Sport" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Sport
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
+#EXTINF:0 CUID="891" tvg-name="Roya Kitchen" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF:0 CUID="892" tvg-name="Roya Music" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Music
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist.m3u8
+#EXTINF:0 CUID="893" tvg-name="رؤيا فلسطين" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",رؤيا فلسطين
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
+#EXTINF:0 CUID="894" tvg-name="Roya Kids Originals" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Kids Originals
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+#EXTINF:0 CUID="895" tvg-name="مرايا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مرايا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
+#EXTINF:0 CUID="896" tvg-name="إنتاجات رؤيا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",إنتاجات رؤيا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
+#EXTINF:0 CUID="897" tvg-name="كرفان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",كرفان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
+#EXTINF:0 CUID="898" tvg-name="قناة العربي" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",قناة العربي
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/6837800d47c40cb2/1544c5accd8e84d5ALA2306480/chunks.m3u8
+#EXTINF:0 CUID="899" tvg-name="قناة العربي 2" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",قناة العربي 2
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/63d8c759c5db83b4/25c4f89d27a79014ALA2306480/chunks.m3u8
+#EXTINF:0 CUID="900" tvg-name="حول العالم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حول العالم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
+#EXTINF:0 CUID="901" tvg-name="حكي منوّع" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حكي منوّع
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
+#EXTINF:0 CUID="902" tvg-name="مغامرات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مغامرات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
+#EXTINF:0 CUID="903" tvg-name="حلوة يا دنيا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حلوة يا دنيا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8
+#EXTINF:0 CUID="904" tvg-name="العالم الكبير" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",العالم الكبير
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
+#EXTINF:0 CUID="905" tvg-name="911" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",911
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/911/playlist.m3u8
+#EXTINF:0 CUID="906" tvg-name="طبخ ونفخ" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",طبخ ونفخ
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/tabekh-w-nafekh/playlist.m3u8
+#EXTINF:0 CUID="907" tvg-name="زيست" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",زيست
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
+#EXTINF:0 CUID="908" tvg-name="شيف مان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",شيف مان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
+#EXTINF:0 CUID="909" tvg-name="ست النكهات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",ست النكهات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.m3u8
+#EXTINF:0 CUID="910" tvg-name="ساعة محبّة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",ساعة محبّة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/saeet-mahabbeh/playlist.m3u8
+#EXTINF:0 CUID="911" tvg-name="جلطة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",جلطة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
+#EXTINF:0 CUID="912" tvg-name="وطن ع وتر" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",وطن ع وتر
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
+#EXTINF:0 CUID="913" tvg-name="مسرحيات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مسرحيات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
+#EXTINF:0 CUID="914" tvg-name="أنا بحكيلك القصة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أنا بحكيلك القصة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
+#EXTINF:0 CUID="915" tvg-name="الزعيم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",الزعيم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
+#EXTINF:0 CUID="916" tvg-name="أيمن زيدان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أيمن زيدان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
+#EXTINF:0 CUID="917" tvg-name="نادين نجيم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",نادين نجيم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8
+#EXTINF:0 CUID="918" tvg-name="حارة القبة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حارة القبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
+#EXTINF:0 CUID="919" tvg-name="بيئة شامية" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",بيئة شامية
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
+#EXTINF:0 CUID="920" tvg-name="أكشن" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أكشن
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
+#EXTINF:0 CUID="921" tvg-name="الهيبة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",الهيبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
+#EXTINF:0 CUID="922" tvg-name="مجتمعي" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مجتمعي
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
+#EXTINF:0 CUID="923" tvg-name="Documentaries" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Documentaries
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 #EXTINF:-1 group-title="arabic",الكويت
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",الكويت 2
