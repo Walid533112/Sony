@@ -255,6 +255,16 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="kids",disney channel
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201906.m3u8
+#EXTINF:-1 group-title="kids",disney junior
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201907.m3u8
+#EXTINF:-1 group-title="kids",kids
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201900.m3u8
+#EXTINF:-1 group-title="kids",kids1
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201913.m3u8
+#EXTINF:-1 group-title="kids",kid zone tv
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201910.m3u8
 #EXTINF:-1 group-title="kids",nickelodeon
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201912.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
