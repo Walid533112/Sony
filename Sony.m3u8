@@ -235,6 +235,23 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="kids",disney channel
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201906.m3u8
+#EXTINF:-1 group-title="kids",disney junior
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201907.m3u8
+#EXTINF:-1 group-title="kids",kids
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201900.m3u8
+#EXTINF:-1 group-title="kids",moonbug kids
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201913.m3u8
+#EXTINF:-1 group-title="kids",kid zone tv
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201910.m3u8
+#EXTINF:-1 group-title="kids",nickelodeon
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201912.m3u8
+#EXTINF:-1 group-title="kids",boomerang
+http://apk.arabic-ch.space/live/082/index.m3u8
+#EXTINF:-1 group-title="kids",nicktoons
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201909.m3u8
+#EXTINF:-1 group-title="kids",nick jr
 #EXTINF:-1 group-title="kids",بهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 group-title="kids",ماجد
@@ -255,25 +272,8 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="kids",disney channel
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201906.m3u8
-#EXTINF:-1 group-title="kids",disney junior
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201907.m3u8
-#EXTINF:-1 group-title="kids",kids
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201900.m3u8
-#EXTINF:-1 group-title="kids",kids1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201913.m3u8
-#EXTINF:-1 group-title="kids",kid zone tv
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201910.m3u8
-#EXTINF:-1 group-title="kids",nickelodeon
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201912.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="kids",boomerang
-http://apk.arabic-ch.space/live/082/index.m3u8
-#EXTINF:-1 group-title="kids",nicktoons
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201909.m3u8
-#EXTINF:-1 group-title="kids",nick jr
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201908.m3u8
 #EXTINF:-1 group-title="kids",kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
