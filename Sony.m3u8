@@ -82,7 +82,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201930.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201926.m3u8
 #EXTINF:-1 group-title="osn",movies hollywood
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201895.m3u8
-#EXTINF:-1 group-title="osn",bein drama
+#EXTINF:-1 group-title="osn",movies hollywood
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
 #EXTINF:-1 group-title="osn",movies premiere
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
@@ -96,11 +96,11 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201903.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201901.m3u8
 #EXTINF:-1 group-title="osn",movies comedy
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201898.m3u8
-#EXTINF:-1 group-title="osn",ID
+#EXTINF:-1 group-title="osn",crime
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201902.m3u8
-#EXTINF:-1 group-title="osn",ID
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201916.m3u8
 #EXTINF:-1 group-title="osn",discovery
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201916.m3u8
+#EXTINF:-1 group-title="osn",ID
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201918.m3u8
 #EXTINF:-1 group-title="osn",wild
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201915.m3u8
