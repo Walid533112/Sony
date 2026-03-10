@@ -50,15 +50,15 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
 #EXTINF:-1 group-title="art",art2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201888.m3u8
-#EXTINF:-1 group-title="art",art drama
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201889.m3u8
 #EXTINF:-1 group-title="art",art cinema
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201889.m3u8
+#EXTINF:-1 group-title="art",hekayat1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201890.m3u8
-#EXTINF:-1 group-title="art",art hekayat1
+#EXTINF:-1 group-title="art",hekayat2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201891.m3u8
-#EXTINF:-1 group-title="art",ar hekayat2
+#EXTINF:-1 group-title="art",cinema1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201927.m3u8
-#EXTINF:-1 group-title="art",sinema1
+#EXTINF:-1 group-title="art",cinema2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201928.m3u8
 #EXTINF:-1 group-title="art",sinema2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
