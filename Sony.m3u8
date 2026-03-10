@@ -71,15 +71,13 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
 #EXTINF:-1 group-title="osn",اليوم
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
-#EXTINF:-1 group-title="osn",اليوم
+#EXTINF:-1 group-title="osn",ياهلا افلام
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201894.m3u8
-#EXTINF:-1 group-title="osn",movies family
+#EXTINF:-1 group-title="osn",الصفوه
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201930.m3u8
-#EXTINF:-1 group-title="osn",movies hollywood
+#EXTINF:-1 group-title="osn",اليوم
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201926.m3u8
-#EXTINF:-1 group-title="osn",movies hollywood
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201895.m3u8
-#EXTINF:-1 group-title="osn",movies hollywood
+#EXTINF:-1 group-title="osn",movies family
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
 #EXTINF:-1 group-title="osn",movies premiere
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
