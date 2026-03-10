@@ -427,14 +427,12 @@ https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 #EXTINF:0 CUID="4762" tvg-chno="1604" tvg-name="1604. DAS ERSTE HD [DE]" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" group-title="🇩🇪 Germany",1604. DAS ERSTE HD [DE]
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
-
 #EXTINF:0 CUID="4764" tvg-chno="1606" tvg-name="1606. EUROSPORT DE [DE]" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="🇩🇪 Germany",1606. EUROSPORT DE [DE]
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:0 CUID="4765" tvg-chno="1607" tvg-name="1607. HR [DE]" tvg-logo="https://picserve.netplus.ch/channels/hr.png" group-title="🇩🇪 Germany",1607. HR [DE]
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
 #EXTINF:0 CUID="4766" tvg-chno="1608" tvg-name="1608. KANAL 9 [DE]" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="🇩🇪 Germany",1608. KANAL 9 [DE]
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
-
 #EXTINF:0 CUID="4768" tvg-chno="1610" tvg-name="1610. MDR [DE]" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" group-title="🇩🇪 Germany",1610. MDR [DE]
 https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
 #EXTINF:0 CUID="4769" tvg-chno="1611" tvg-name="1611. NDR [DE]" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" group-title="🇩🇪 Germany",1611. NDR [DE]
