@@ -45,69 +45,72 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="arabic",movies thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+
+#EXTINF:-1 group-title="art",art1
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
+#EXTINF:-1 group-title="art",art2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201888.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",art drama
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201889.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",art cinema
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201890.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",art hekayat1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201891.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",ar hekayat2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201927.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",sinema1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201928.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="art",sinema2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",musalslat1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",musalslat2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ياهلا
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ياهلا افلام
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ياهلابالعربي
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",الصفوه
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201894.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",اليوم
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201893.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",movies action
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201930.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",movies family
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201926.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",movies hollywood
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201895.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",bein drama
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",movies premiere
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",showcace
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201897.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",star action
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201896.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",movies comedy
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201903.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",crime
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201901.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",discovery
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201898.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ID
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201902.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ID
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201916.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",wild
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201918.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",ناشيونال جيوغرافيك
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201917.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",history1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201915.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",history2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201914.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",fann
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201919.m3u8
-#EXTINF:-1 group-title="bein",bein drama
+#EXTINF:-1 group-title="osn",one
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201920.m3u8
 #EXTINF:-1 group-title="bein",bein drama
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201929.m3u8
