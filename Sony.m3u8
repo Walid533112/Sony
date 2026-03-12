@@ -143,15 +143,15 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ksa",sbc
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 group-title="arabic",الإمارات
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
+#EXTINF:-1 group-title="arabic",الفجر
+https://matchnow.optikl.ink/stream/play.m3u8
 #EXTINF:-1 group-title="arabic",ابوظبي
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="الامارات",دبي
+#EXTINF:-1 group-title="الامارات",UAE
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="arabic",بينونه
+#EXTINF:-1 group-title="AUE",بينونه
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-#EXTINF:-1 group-title="arabic",الفجيره
+#EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="arabic",ناشيونال جيوغرافيك
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
