@@ -147,7 +147,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -196,7 +195,6 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
 #EXTINF:0 CUID="897" tvg-name="كرفان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",كرفان
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
-
 #EXTINF:0 CUID="900" tvg-name="حول العالم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حول العالم
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
 #EXTINF:0 CUID="901" tvg-name="حكي منوّع" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حكي منوّع
