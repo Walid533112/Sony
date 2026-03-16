@@ -143,20 +143,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ksa",sbc
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 group-title="arabic",الفجر
-https://matchnow.optikl.ink/stream/play.m3u8
-#EXTINF:-1 group-title="arabic",ابوظبي
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="الامارات",UAE
+#EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AUE",بينونه
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",ناشيونال جيوغرافيك
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا افلام
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -165,14 +156,10 @@ http://185.9.2.18/chid_286/tracks-v1a1/mono.m3u8
 http://185.9.2.18/chid_2179/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كوميدي
 http://185.9.2.18/chid_5224/mono.m3u8
-#EXTINF:-1 group-title="bein",bein series2
-http://apk.arabic-ch.space/live/081/index.m3u8
 #EXTINF:-1 group-title="bein",bein movies3
 http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="bein",bein action
 http://apk.arabic-ch.space/live/077/index.m3u8
-#EXTINF:-1 group-title="bein",bein drama
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71230.m3u8
 #EXTINF:-1 group-title="bein",bein drama
 http://apk.arabic-ch.space/live/072/index.m3u8
 #EXTINF:-1 group-title="mbc",zee alwan
@@ -195,12 +182,6 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 group-title="arabic",رؤيا دراما
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:0 CUID="888" tvg-name="Roya Drama" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Drama
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:0 CUID="889" tvg-name="Roya Comedy" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Comedy
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:0 CUID="890" tvg-name="Roya Sport" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Sport
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
 #EXTINF:0 CUID="891" tvg-name="Roya Kitchen" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:0 CUID="892" tvg-name="Roya Music" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Music
@@ -215,10 +196,7 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
 #EXTINF:0 CUID="897" tvg-name="كرفان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",كرفان
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
-#EXTINF:0 CUID="898" tvg-name="قناة العربي" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",قناة العربي
-https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/6837800d47c40cb2/1544c5accd8e84d5ALA2306480/chunks.m3u8
-#EXTINF:0 CUID="899" tvg-name="قناة العربي 2" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",قناة العربي 2
-https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/63d8c759c5db83b4/25c4f89d27a79014ALA2306480/chunks.m3u8
+
 #EXTINF:0 CUID="900" tvg-name="حول العالم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حول العالم
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
 #EXTINF:0 CUID="901" tvg-name="حكي منوّع" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حكي منوّع
@@ -358,28 +336,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="kids",kids5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1 group-title="kids",kids
-http://apk.arabic-ch.space/live/070/index.m3u8
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="egypt",nile drama
 http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 group-title="egypt",الحياه
-http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="rotana",lbc
 http://185.9.2.18/chid_327/mono.m3u8
-#EXTINF:-1 group-title="rotana",lbc
-http://185.9.2.18/chid_518/mono.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="outdoor,"وثائقي
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",DOCS VILLE
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n4=content_name&ads.v4=EPG%20%7C%20Docsville&ads.n21=channel_id&ads.v21=B85AFD06-BBEB-4D60-9766-AAB20068F4E4
 #EXTINF:-1 group-title="وثائقي",سوريا
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",DOCU VISION
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",BIOGRAPHY THE CONS
 https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://is.gd/Bk9MyR?m3u
