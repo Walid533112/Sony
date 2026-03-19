@@ -127,6 +127,8 @@ https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="egypt",cbc دراما
 http://185.9.2.18/chid_680/mono.m3u8
+#EXTINF:-1 group-title="egypt",dmc دراما
+http://185.9.2.18/chid_3741/mono.m3u8
 #EXTINF:-1 group-title="egypt",النهار دراما
 http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="egypt",نيل سينما
