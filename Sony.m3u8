@@ -205,69 +205,69 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
 #EXTINF:0 CUID="901" tvg-name="حكي منوّع" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حكي منوّع
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
-#EXTINF:0 CUID="902" tvg-name="مغامرات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مغامرات
+#EXTINF:-1 group-title="Roya",مغامرات
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
-#EXTINF:0 CUID="903" tvg-name="حلوة يا دنيا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حلوة يا دنيا
+#EXTINF:-1 group-title="Roya TV VIP",حلوة يا دنيا
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8
-#EXTINF:0 CUID="904" tvg-name="العالم الكبير" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",العالم الكبير
+#EXTINF:-1 group-title="Roya TV VIP",العالم الكبير
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
-#EXTINF:0 CUID="905" tvg-name="911" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",911
+#EXTINF:-1 group-title="Roya",911
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/911/playlist.m3u8
-#EXTINF:0 CUID="906" tvg-name="طبخ ونفخ" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",طبخ ونفخ
+#EXTINF:-1 group-title="Roya",طبخ ونفخ
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/tabekh-w-nafekh/playlist.m3u8
-#EXTINF:0 CUID="907" tvg-name="زيست" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",زيست
+#EXTINF:-1 group-title="Roya",زيست
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
-#EXTINF:0 CUID="908" tvg-name="شيف مان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",شيف مان
+#EXTINF:-1 group-title="Roya",شيف مان
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8
-#EXTINF:0 CUID="909" tvg-name="ست النكهات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",ست النكهات
+#EXTINF:-1 group-title="Roya",ست النكهات
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.m3u8
-#EXTINF:0 CUID="910" tvg-name="ساعة محبّة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",ساعة محبّة
+#EXTINF:-1 group-title="Roya",ساعة محبّة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/saeet-mahabbeh/playlist.m3u8
-#EXTINF:0 CUID="911" tvg-name="جلطة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",جلطة
+#EXTINF:-1 group-title="Roya",جلطة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
-#EXTINF:0 CUID="912" tvg-name="وطن ع وتر" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",وطن ع وتر
+#EXTINF:-1 group-title="Roya",وطن ع وتر
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
-#EXTINF:0 CUID="913" tvg-name="مسرحيات" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مسرحيات
+#EXTINF:-1 group-title="Roya",مسرحيات
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
-#EXTINF:0 CUID="914" tvg-name="أنا بحكيلك القصة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أنا بحكيلك القصة
+#EXTINF:-1 group-title="Roya",أنا بحكيلك القصة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
-#EXTINF:0 CUID="915" tvg-name="الزعيم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",الزعيم
+#EXTINF:-1 group-title="Roya",الزعيم
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
-#EXTINF:0 CUID="916" tvg-name="أيمن زيدان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أيمن زيدان
+#EXTINF:-1 group-title="Roya",أيمن زيدان
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
-#EXTINF:0 CUID="917" tvg-name="نادين نجيم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",نادين نجيم
+#EXTINF:-1 group-title="Roya",نادين نجيم
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8
-#EXTINF:0 CUID="918" tvg-name="حارة القبة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حارة القبة
+#EXTINF:-1 group-title="Roya",حارة القبة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
-#EXTINF:0 CUID="919" tvg-name="بيئة شامية" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",بيئة شامية
+#EXTINF:-1 group-title="Roya",بيئة شامية
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
-#EXTINF:0 CUID="920" tvg-name="أكشن" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",أكشن
+#EXTINF:-1 group-title="Roya",أكشن
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
-#EXTINF:0 CUID="921" tvg-name="الهيبة" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",الهيبة
+#EXTINF:-1 group-title="Roya",الهيبة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
-#EXTINF:0 CUID="922" tvg-name="مجتمعي" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مجتمعي
+#EXTINF:-1 group-title="Roya",مجتمعي
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
-#EXTINF:0 CUID="923" tvg-name="Documentaries" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Documentaries
+#EXTINF:-1 group-title="Roya",Documentaries
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
-#EXTINF:-1 group-title="alkuwet",الكويت
+#EXTINF:-1 group-title="kuwait",الكويت
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="alkuwet",الكويت 2
+#EXTINF:-1 group-title="kuwait",الكويت 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="alkuwet",القرين
+#EXTINF:-1 group-title="kuwait",القرين
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="alkuwet",العربي
+#EXTINF:-1 group-title="kuwait",العربي
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",عمان الاولى
+#EXTINF:-1 group-title="oman",عمان الاولى
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",عمان الثقافيه
+#EXTINF:-1 group-title="oman",عمان الثقافيه
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",دجله
+#EXTINF:-1 group-title="irak",دجله
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 group-title="arabic",الشرقيه
+#EXTINF:-1 group-title="irak",الشرقيه
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="arabic",هلا
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 group-title="arabic",البحرين
+#EXTINF:-1 group-title="bahrain",البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 group-title="news",الجزيره
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
@@ -277,9 +277,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="news",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الشرق ديسكفري
+#EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="arabic",الشرق الوثائقيه
+#EXTINF:-1 group-title="وثائقي",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="kids",cartoonnetwork
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71248.m3u8
