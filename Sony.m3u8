@@ -15,8 +15,6 @@ https://radiodamascus.ortas.live/RDimshq/RDimshqLive/chunklist_w1428441778.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="arabic",مرايا
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-#EXTINF:-1 group-title="AUE",ابوظبي
-http://185.9.2.18/chid_326/mono.m3u8
 #EXTINF:-1 group-title="mbc",mbc1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc2
@@ -153,6 +151,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc04
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AUE",ابوظبي
+http://185.9.2.18/chid_326/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
@@ -251,16 +251,18 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
 #EXTINF:0 CUID="923" tvg-name="Documentaries" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Documentaries
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الكويت
+#EXTINF:-1 group-title="alkuwet",الكويت
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",الكويت 2
+#EXTINF:-1 group-title="alkuwet",الكويت 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="alkuwet",القرين
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="alkuwet",العربي
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",عمان الاولى
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",عمان الثقافيه
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",القرين
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",دجله
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 group-title="arabic",الشرقيه
@@ -275,8 +277,6 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="news",العربيه الحدث
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",العربي
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الشرق الوثائقيه
