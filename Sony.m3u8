@@ -1,17 +1,15 @@
-#EXTM3U
-#EXTINF:-1 group-title="syria",سوريا الاولى
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+0#EXTM3U
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
-#EXTINF:-1 group-title="arabic",اليوم
+#EXTINF:-1 group-title="syria",اليوم
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 group-title="syria",سوريا one
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 group-title="syria",راديو دمشق
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/chunklist_w1428441778.m3u8
-#EXTINF:-1 group-title="arabic",باب الحاره
+#EXTINF:-1 group-title="arabic",باب الحار
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="arabic",مرايا
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
@@ -39,11 +37,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="mbc",mbcبوليود
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="arabic",ميكس هوليود
+#EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 group-title="arabic",movies action
+#EXTINF:-1 group-title="movies",movies action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 group-title="arabic",movies thriller
+#EXTINF:-1 group-title="movies",movies thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="art",art1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
@@ -109,7 +107,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201920.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201929.m3u8
 #EXTINF:-1 group-title="osn",one
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201904.m3u8
-#EXTINF:-1 group-title="arabic",مكان
+#EXTINF:-1 group-title="israel",مكان
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="lebanon",mtv
 http://185.9.2.18/chid_387/mono.m3u8
@@ -133,13 +131,13 @@ http://185.9.2.18/chid_518/mono.m3u8
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="egypt",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
-#EXTINF:-1 group-title="arabic",قطر
+#EXTINF:-1 group-title="Qatar",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",قطر2
+#EXTINF:-1 group-title="Qatar",قطر2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الريان
+#EXTINF:-1 group-title="Qatar",الريان
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="arabic",الريان القديم
+#EXTINF:-1 group-title="Qatar",الريان القديم
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
@@ -173,19 +171,19 @@ http://apk.arabic-ch.space/live/072/index.m3u8
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الاردن
+#EXTINF:-1 group-title="Jordan",الاردن
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 group-title="arabic",الاردن ارشيف
+#EXTINF:-1 group-title="Jordan",الاردن ارشيف
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الاردن دراما
+#EXTINF:-1 group-title="Jordan",الاردن دراما
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الاردن كوميدي
+#EXTINF:-1 group-title="Jordan",الاردن كوميدي
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 group-title="arabic",عمان
+#EXTINF:-1 group-title="Jordan",عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="arabic",رؤيا كوميدي
+#EXTINF:-1 group-title="roya",رؤيا كوميدي
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 group-title="arabic",رؤيا دراما
+#EXTINF:-1 group-title="roya",رؤيا دراما
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 group-title="Roya",Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
@@ -205,9 +203,9 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playli
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
 #EXTINF:-1 group-title="Roya",مغامرات
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
-#EXTINF:-1 group-title="Roya TV VIP",حلوة يا دنيا
+#EXTINF:-1 group-title="Roya",حلوة يا دنيا
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8
-#EXTINF:-1 group-title="Roya TV VIP",العالم الكبير
+#EXTINF:-1 group-title="Roya",العالم الكبير
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
 #EXTINF:-1 group-title="Roya",911
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/911/playlist.m3u8
@@ -275,6 +273,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="news",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 group-title="news",اسوريا
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق الوثائقيه
