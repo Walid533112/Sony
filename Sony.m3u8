@@ -135,6 +135,8 @@ http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="egypt",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
+#EXTINF:-1 group-title="egypt",on
+http://185.9.2.18/chid_616/mono.m3u8
 #EXTINF:-1 group-title="Qatar",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Qatar",قطر2
@@ -157,6 +159,16 @@ http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 http://185.9.2.18/chid_326/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="AUE",الشلال
+http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 group-title="AUE",الشارقه
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AUE",الشرقيه
+http://148.163.96.58/live/panorama_film/index.m3u8
+#EXTINF:-1 group-title="AUE",الوسطى
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 group-title="AUE",عجمان
+http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -409,37 +421,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",سوريا
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",سوريا
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
-http://148.163.96.58/live/panorama_film/index.m3u8
-#EXTINF:-1 group-title="syria",سوريا
-http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="syria",سوريا
-http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 group-title="syria",سوريا
 http://185.9.2.18/chid_518/mono.m3u8
-#EXTINF:-1 group-title="syria",سوريا
-http://185.9.2.18/chid_616/mono.m3u8
-#EXTINF:-1 group-title="sport",bein sport 1
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 2
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 3
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 4
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 5
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 6
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 7
-http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 8
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1 group-title="sport",bein sport 9
-http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4786" tvg-chno="1633" tvg-name="1633. ZDF HD [DE]" tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png" group-title="🇩🇪 Germany",1633. ZDF HD [DE]
