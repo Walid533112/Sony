@@ -307,8 +307,8 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201909.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201908.m3u8
 #EXTINF:-1 group-title="kids",بهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 group-title="kids",ماجد
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+#EXTINF:-1 group-title="kids",براعم
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
 #EXTINF:-1 group-title="kids",سبيس تون
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 group-title="kids",mbc3
