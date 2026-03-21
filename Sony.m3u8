@@ -37,6 +37,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="mbc",mbcبوليود
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="mbc",zee alwan
+http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="movies",movies action
@@ -129,6 +131,8 @@ http://185.9.2.18/chid_3741/mono.m3u8
 http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="egypt",نيل سينما
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="egypt",nile drama
+http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="egypt",بانوراما دراما
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
 #EXTINF:-1 group-title="Qatar",قطر
@@ -139,7 +143,7 @@ https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Qatar",الريان القديم
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="arabic",رؤيا
+#EXTINF:-1 group-title="roya",رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 group-title="ksa",السعوديه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
@@ -161,14 +165,14 @@ http://185.9.2.18/chid_286/tracks-v1a1/mono.m3u8
 http://185.9.2.18/chid_2179/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كوميدي
 http://185.9.2.18/chid_5224/mono.m3u8
+#EXTINF:-1 group-title="rotana",lbc
+http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 group-title="bein",bein movies3
 http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="bein",bein action
 http://apk.arabic-ch.space/live/077/index.m3u8
 #EXTINF:-1 group-title="bein",bein drama
 http://apk.arabic-ch.space/live/072/index.m3u8
-#EXTINF:-1 group-title="mbc",zee alwan
-http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",الاردن
@@ -273,7 +277,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="news",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="news",اسوريا
+#EXTINF:-1 group-title="news",سوريا
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
@@ -342,10 +346,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
-#EXTINF:-1 group-title="egypt",nile drama
-http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 group-title="rotana",lbc
-http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 group-title="outdoor,"وثائقي
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="وثائقي",DOCS VILLE
