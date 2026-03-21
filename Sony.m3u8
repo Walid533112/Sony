@@ -171,7 +171,7 @@ http://apk.arabic-ch.space/live/077/index.m3u8
 http://apk.arabic-ch.space/live/072/index.m3u8
 #EXTINF:-1 group-title="mbc",zee alwan
 http://93.184.10.248/ZeeAlwan/index.m3u8
-#EXTINF:-1 group-title="arabic",العربي
+#EXTINF:-1 group-title="news",العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
@@ -261,8 +261,6 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",القرين
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="arabic",العربي
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",دجله
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 group-title="arabic",الشرقيه
@@ -271,12 +269,14 @@ https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="arabic",البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 group-title="arabic",الجزيره
+#EXTINF:-1 group-title="news",الجزيره
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="arabic",العربيه
+#EXTINF:-1 group-title="news",العربيه
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="arabic",العربيه الحدث
+#EXTINF:-1 group-title="news",العربيه الحدث
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="arabic",العربي
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="arabic",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="arabic",الشرق الوثائقيه
