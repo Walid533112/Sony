@@ -187,23 +187,21 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 group-title="arabic",رؤيا دراما
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:0 CUID="891" tvg-name="Roya Kitchen" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Kitchen
+#EXTINF:-1 group-title="Roya",Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:0 CUID="892" tvg-name="Roya Music" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Music
+#EXTINF:-1 group-title="Roya",Roya Music
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist.m3u8
-#EXTINF:0 CUID="893" tvg-name="رؤيا فلسطين" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",رؤيا فلسطين
+#EXTINF:-1 group-title="Roya",رؤيا فلسطين
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
-#EXTINF:0 CUID="894" tvg-name="Roya Kids Originals" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",Roya Kids Originals
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:0 CUID="895" tvg-name="مرايا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",مرايا
+#EXTINF:-1 group-title="Roya",مرايا
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
-#EXTINF:0 CUID="896" tvg-name="إنتاجات رؤيا" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",إنتاجات رؤيا
+#EXTINF:-1 group-title="Roya",إنتاجات رؤيا
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
-#EXTINF:0 CUID="897" tvg-name="كرفان" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",كرفان
+#EXTINF:-1 group-title="Roya",كرفان
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
-#EXTINF:0 CUID="900" tvg-name="حول العالم" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حول العالم
+#EXTINF:-1 group-title="Roya",حول العالم
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
-#EXTINF:0 CUID="901" tvg-name="حكي منوّع" tvg-id="ext" tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP",حكي منوّع
+#EXTINF:-1 group-title="Roya",حكي منوّع
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
 #EXTINF:-1 group-title="Roya",مغامرات
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
