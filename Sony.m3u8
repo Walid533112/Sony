@@ -115,6 +115,8 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 group-title="lebanon",الجديد
 http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 group-title="lebanon",TL lebanon
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
 #EXTINF:-1 group-title="lebanon",vdl lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 #EXTINF:-1 group-title="lebanon",otv
