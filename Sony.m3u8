@@ -139,6 +139,8 @@ http://185.9.2.18/chid_352/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
 #EXTINF:-1 group-title="egypt",on
 http://185.9.2.18/chid_616/mono.m3u8
+#EXTINF:-1 group-title="egypt",الاولى
+http://185.160.192.64/live/david22/9189/29599.m3u8
 #EXTINF:-1 group-title="Qatar",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Qatar",قطر2
