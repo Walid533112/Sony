@@ -7,8 +7,6 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 group-title="syria",سوريا one
 https://live.syriaone.tv/live/syriaone.m3u8
-#EXTINF:-1 group-title="syria",راديو دمشق
-https://radiodamascus.ortas.live/RDimshq/RDimshqLive/chunklist_w1428441778.m3u8
 #EXTINF:-1 group-title="arabic",باب الحار
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="arabic",مرايا
@@ -123,8 +121,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 group-title="egypt",المصريه
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-#EXTINF:-1 group-title="egypt",الاولى
-http://185.160.192.64/live/david22/9189/29599.m3u8
 #EXTINF:-1 group-title="egypt",الحياه
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="egypt",cbc دراما
@@ -137,8 +133,7 @@ http://185.9.2.18/chid_518/mono.m3u8
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="egypt",nile drama
 http://185.9.2.18/chid_352/mono.m3u8
-#EXTINF:-1 group-title="egypt",بانوراما دراما
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
+/pnc-drama/c18685bf-2edf-4e31-a531-1964f47cd30b/0.m3u8
 #EXTINF:-1 group-title="egypt",on
 http://185.9.2.18/chid_616/mono.m3u8
 #EXTINF:-1 group-title="egypt",بانوراما فيلم
@@ -161,18 +156,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc04
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AUE",ابوظبي
-http://185.9.2.18/chid_326/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="AUE",الشلال
 http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="AUE",الشارقه
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشرقيه
-http://148.163.96.58/live/panorama_film/index.m3u8
-#EXTINF:-1 group-title="AUE",الوسطى
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 group-title="AUE",عجمان
 http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
@@ -335,7 +322,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="kids",روتانا اطفال
+#EXTINF:-1 group-title="kids",roya kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="kids",رؤيا الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
