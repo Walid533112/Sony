@@ -1,4 +1,5 @@
-0#EXTM3U
+#EXTM3U
+http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
