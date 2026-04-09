@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="syria",سوريا one
+https://termux.net stable InRelease
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
