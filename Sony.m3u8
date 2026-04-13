@@ -375,29 +375,27 @@ http://apk.arabic-ch.space/live/078/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="وثائقي",DOCS VILLE
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n4=content_name&ads.v4=EPG%20%7C%20Docsville&ads.n21=channel_id&ads.v21=B85AFD06-BBEB-4D60-9766-AAB20068F4E4
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1 group-title="وثائقي",DOCU VISION
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
 #EXTINF:-1 group-title="وثائقي",BIOGRAPHY THE CONS
 https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",CGTN
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
-https://is.gd/Bk9MyR?m3u
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",classic rock
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",inwonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",documentary
 https://linear-887.frequency.stream/mt/documentaryplus/887/hls/master/playlist.m3u8?1
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",documantary+
 https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 group-title="وثائقي",سوريا
+#EXTINF:-1 group-title="وثائقي",DOCUBOX HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
@@ -425,15 +423,15 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 group-title="وثائقي",wild planet
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 group-title="وثائقي",WILDEARTH
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 group-title="AUE",الشارقه
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 group-title="AUE",الوسطى
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="syria",سوريا
+#EXTINF:-1 group-title="AUE",الشرقيه
 http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
