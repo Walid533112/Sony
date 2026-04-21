@@ -5,7 +5,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
-#EXTINF:-1 group-title="syria",اليوم
+#EXTINF:-1 group-title="syria",لنا
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 group-title="syria",اليوم
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
@@ -117,14 +117,12 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 group-title="lebanon",الجديد
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 group-title="lebanon",TL lebanon
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
+
+
 #EXTINF:-1 group-title="lebanon",vdl lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 #EXTINF:-1 group-title="lebanon",otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 group-title="egypt",المصريه
-https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 group-title="egypt",الحياه
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="egypt",cbc دراما
@@ -142,24 +140,7 @@ http://185.9.2.18/chid_352/mono.m3u8
 http://185.9.2.18/chid_616/mono.m3u8
 #EXTINF:-1 group-title="egypt",بانوراما فيلم
 http://185.160.192.64/live/david22/9189/22934.m3u8
-#EXTINF:-1 group-title="egypt",المصريه
-https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1 group-title="egypt",الاولى
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26034.m3u8
-#EXTINF:-1 group-title="egypt",الثانيه
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26036.m3u8
-#EXTINF:-1 group-title="egypt",القاهره
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26037.m3u8
-#EXTINF:-1 group-title="egypt",الرابعه
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26038.m3u8
-#EXTINF:-1 group-title="egypt",الاسكندريه
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26039.m3u8
-#EXTINF:-1 group-title="egypt",الدلتا
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26040.m3u8
-#EXTINF:-1 group-title="egypt",السابعه
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26041.m3u8
-#EXTINF:-1 group-title="egypt",طيبه
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26042.m3u8
+
 #EXTINF:-1 group-title="Qatar",قطر
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Qatar",قطر2
