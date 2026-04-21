@@ -6,6 +6,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="syria",اليوم
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:-1 group-title="syria",اليوم
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 group-title="syria",سوريا one
 https://live.syriaone.tv/live/syriaone.m3u8
