@@ -452,8 +452,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:0 CUID="4907" tvg-name="BLK Regional TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png" group-title="🇩🇪 Germany",BLK Regional TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:0 CUID="4908" tvg-name="kulturmd" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png" group-title="🇩🇪 Germany",kulturmd
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:0 CUID="4909" tvg-name="MDF.1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png" group-title="🇩🇪 Germany",MDF.1
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
 #EXTINF:0 CUID="4910" tvg-name="PUNKTum" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png" group-title="🇩🇪 Germany",PUNKTum
@@ -480,8 +478,6 @@ https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
 #EXTINF:0 CUID="4931" tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="🇩🇪 Germany",Bibel TV Musik
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:0 CUID="4932" tvg-name="BLK Regional TV" tvg-id="BLKRegionalTV.de" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="🇩🇪 Germany",BLK Regional TV
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:0 CUID="4933" tvg-name="BR Fernsehen Nord" tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/26s6V64.png" group-title="🇩🇪 Germany",BR Fernsehen Nord
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:0 CUID="4935" tvg-name="Chemnitz Fernsehen" tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="🇩🇪 Germany",Chemnitz Fernsehen
@@ -504,8 +500,6 @@ https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:0 CUID="4955" tvg-name="Finest TV" tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="🇩🇪 Germany",Finest TV
 https://media.finest.tv/hls/live.m3u8
-#EXTINF:0 CUID="4956" tvg-name="FOLX Music" tvg-id="FolxMusicTelevision.de" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="🇩🇪 Germany",FOLX Music
-https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
 #EXTINF:0 CUID="4957" tvg-name="Franken Fernsehen (Nürnberg)" tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="🇩🇪 Germany",Franken Fernsehen (Nürnberg)
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:0 CUID="4958" tvg-name="FrankenPlus" group-title="🇩🇪 Germany",FrankenPlus
@@ -560,8 +554,6 @@ https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 #EXTINF:0 CUID="5010" tvg-name="OK Flensburg" tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="🇩🇪 Germany",OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:0 CUID="5012" tvg-name="OK Gießen  [Geo-blocked]" tvg-id="OKGiessen.de" tvg-logo="https://i.imgur.com/X3JcUGy.png" group-title="🇩🇪 Germany",OK Gießen  [Geo-blocked]
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 #EXTINF:0 CUID="5013" tvg-name="OK Kaiserslautern  [Geo-blocked]" tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" group-title="🇩🇪 Germany",OK Kaiserslautern  [Geo-blocked]
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 #EXTINF:0 CUID="5014" tvg-name="OK Kassel  [Geo-blocked]" tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="🇩🇪 Germany",OK Kassel  [Geo-blocked]
@@ -584,8 +576,6 @@ https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:0 CUID="5065" tvg-name="Radio Weser TV Bremen" tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="🇩🇪 Germany",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:0 CUID="5071" tvg-name="Rakuten TV Shows Germany" group-title="🇩🇪 Germany",Rakuten TV Shows Germany
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 CUID="5072" tvg-name="RAN1" tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="🇩🇪 Germany",RAN1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:0 CUID="5073" tvg-name="RBB Brandenburg  [Geo-blocked]" tvg-id="rbbFernsehenBrandenburg.de" tvg-logo="https://i.imgur.com/aXFZnUY.png" group-title="🇩🇪 Germany",RBB Brandenburg  [Geo-blocked]
@@ -594,18 +584,10 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:0 CUID="5075" tvg-name="Regio TV Bodensee" tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="🇩🇪 Germany",Regio TV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:0 CUID="5076" tvg-name="Regio TV Schwaben" tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="🇩🇪 Germany",Regio TV Schwaben
-https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
-#EXTINF:0 CUID="5077" tvg-name="Regio TV Stuttgart" tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="🇩🇪 Germany",Regio TV Stuttgart
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:0 CUID="5078" tvg-name="Rennsteig TV" tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="🇩🇪 Germany",Rennsteig TV
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
 #EXTINF:0 CUID="5079" tvg-name="RFH" tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="🇩🇪 Germany",RFH
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:0 CUID="5080" tvg-name="RFO" tvg-id="RFO.de" tvg-logo="https://i.imgur.com/902BHGL.png" group-title="🇩🇪 Germany",RFO
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:0 CUID="5082" tvg-name="RNF" tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="🇩🇪 Germany",RNF
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:0 CUID="5085" tvg-name="RT DE" tvg-id="RTDE.de" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="🇩🇪 Germany",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:0 CUID="5086" tvg-name="Saarland Fernsehen 1" tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="🇩🇪 Germany",Saarland Fernsehen 1
@@ -628,8 +610,6 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:0 CUID="4497" tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷 Turkey",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:0 CUID="4498" tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷 Turkey",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="4499" tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷 Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 CUID="4500" tvg-name="TRT TÜRK" tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷 Turkey",TRT TÜRK
@@ -648,16 +628,12 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="4508" tvg-name="TRT Diyanet Çocuk" tvg-id="TRTMuzik.tr" group-title="🇹🇷 Turkey",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 CUID="4509" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="🇹🇷 Turkey",ATV
-http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:0 CUID="4512" tvg-name="A2 ᵁᴴᴰ⁺" tvg-id="A2.tr" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷 Turkey",A2 ᵁᴴᴰ⁺
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:0 CUID="4516" tvg-name="KANAL D FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png" group-title="🇹🇷 Turkey",KANAL D FHD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 CUID="4522" tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="🇹🇷 Turkey",TV 8
 http://89.187.191.41/TV8-HD-TR/video.m3u8
-#EXTINF:0 CUID="4524" tvg-name="TV8.5 UHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="🇹🇷 Turkey",TV8.5 UHD
-http://116.202.238.88/TV8_TR/index.m3u8
 #EXTINF:0 CUID="4525" tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="🇹🇷 Turkey",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0 CUID="4526" tvg-name="Kanal 7" tvg-id="Kanal7.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="🇹🇷 Turkey",Kanal 7
@@ -696,8 +672,6 @@ https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:0 CUID="4558" tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="🇹🇷 Turkey",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0 CUID="4559" tvg-name="AKIT TV" tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="🇹🇷 Turkey",AKIT TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0 CUID="4560" tvg-name="BENGU TURK" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="🇹🇷 Turkey",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:0 CUID="4561" tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="🇹🇷 Turkey",TURKHABER
@@ -772,8 +746,6 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:0 CUID="4611" tvg-name="FB TV" tvg-id="FBTV.tr" group-title="🇹🇷 Turkey",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:0 CUID="4612" tvg-name="SPORTS TV" tvg-id="SportsTV.tr" group-title="🇹🇷 Turkey",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 CUID="4613" tvg-name="MELTEM TV" tvg-id="MeltemTv.tr" group-title="🇹🇷 Turkey",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:0 CUID="4614" tvg-name="GZT TV" tvg-id="ext" group-title="🇹🇷 Turkey",GZT TV
@@ -880,12 +852,8 @@ https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:0 CUID="4692" tvg-name="KANAL 58" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:0 CUID="4693" tvg-name="KANAL ADA" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL ADA
-http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:0 CUID="4694" tvg-name="KANAL AVRUPA" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL AVRUPA
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:0 CUID="4698" tvg-name="KANAL Z" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL Z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:0 CUID="4699" tvg-name="KANAL PLUS" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL PLUS
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:0 CUID="4700" tvg-name="KANAL URFA" tvg-id="ext" group-title="🇹🇷 Turkey",KANAL URFA
@@ -912,8 +880,6 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0 CUID="4714" tvg-name="TON TV" tvg-id="ext" group-title="🇹🇷 Turkey",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0 CUID="4716" tvg-name="TÜRK KLİNİKLERİ TV" tvg-id="ext" group-title="🇹🇷 Turkey",TÜRK KLİNİKLERİ TV
-http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 #EXTINF:0 CUID="4718" tvg-name="TV 41" tvg-id="ext" group-title="🇹🇷 Turkey",TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:0 CUID="4719" tvg-name="TV 48" tvg-id="ext" group-title="🇹🇷 Turkey",TV 48
@@ -956,98 +922,6 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
 #EXTINF:0 CUID="4752" tvg-name="A SPOR" tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="🇹🇷 Turkey",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:0 CUID="5380" tvg-chno="1656" tvg-name="1656. 6TER [FR]" tvg-logo="https://picserve.netplus.ch/channels/6ter.png" group-title="🇫🇷France",1656. 6TER [FR]
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:0 CUID="5381" tvg-chno="1657" tvg-name="1657. ARTE HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/artehd.png" group-title="🇫🇷France",1657. ARTE HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-#EXTINF:0 CUID="5382" tvg-chno="1658" tvg-name="1658. BFM BUSINESS [FR]" tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png" group-title="🇫🇷France",1658. BFM BUSINESS [FR]
-https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
-#EXTINF:0 CUID="5383" tvg-chno="1659" tvg-name="1659. BFM TV [FR]" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" group-title="🇫🇷France",1659. BFM TV [FR]
-https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
-#EXTINF:0 CUID="5384" tvg-chno="1660" tvg-name="1660. BLUE ZOOM FR [FR]" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" group-title="🇫🇷France",1660. BLUE ZOOM FR [FR]
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
-#EXTINF:0 CUID="5385" tvg-chno="1661" tvg-name="1661. CANAL 9 [FR]" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" group-title="🇫🇷France",1661. CANAL 9 [FR]
-https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
-#EXTINF:0 CUID="5386" tvg-chno="1662" tvg-name="1662. CANAL ALPHA JU [FR]" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" group-title="🇫🇷France",1662. CANAL ALPHA JU [FR]
-https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTINF:0 CUID="5387" tvg-chno="1663" tvg-name="1663. CANAL ALPHA NE [FR]" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" group-title="🇫🇷France",1663. CANAL ALPHA NE [FR]
-https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
-#EXTINF:0 CUID="5388" tvg-chno="1664" tvg-name="1664. CANALNEWS [FR]" tvg-logo="https://picserve.netplus.ch/channels/itele.png" group-title="🇫🇷France",1664. CANALNEWS [FR]
-https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
-#EXTINF:0 CUID="5389" tvg-chno="1665" tvg-name="1665. CARAC 1 [FR]" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" group-title="🇫🇷France",1665. CARAC 1 [FR]
-https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
-#EXTINF:0 CUID="5390" tvg-chno="1666" tvg-name="1666. CARAC 2 [FR]" tvg-logo="https://picserve.netplus.ch/channels/onetv.png" group-title="🇫🇷France",1666. CARAC 2 [FR]
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-#EXTINF:0 CUID="5391" tvg-chno="1667" tvg-name="1667. CARAC 3 [FR]" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" group-title="🇫🇷France",1667. CARAC 3 [FR]
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
-#EXTINF:0 CUID="5392" tvg-chno="1668" tvg-name="1668. CARAC 4 [FR]" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="🇫🇷France",1668. CARAC 4 [FR]
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
-#EXTINF:0 CUID="5393" tvg-chno="1669" tvg-name="1669. CHERIE 25 [FR]" tvg-logo="https://picserve.netplus.ch/channels/cherie25.png" group-title="🇫🇷France",1669. CHERIE 25 [FR]
-https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
-#EXTINF:0 CUID="5394" tvg-chno="1670" tvg-name="1670. CSTAR [FR]" tvg-logo="https://picserve.netplus.ch/channels/d17.png" group-title="🇫🇷France",1670. CSTAR [FR]
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
-#EXTINF:0 CUID="5395" tvg-chno="1671" tvg-name="1671. EURONEWS [FR]" tvg-logo="https://picserve.netplus.ch/channels/euronews.png" group-title="🇫🇷France",1671. EURONEWS [FR]
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
-#EXTINF:0 CUID="5396" tvg-chno="1672" tvg-name="1672. FRANCE 24 [FR]" tvg-logo="https://picserve.netplus.ch/channels/france24.png" group-title="🇫🇷France",1672. FRANCE 24 [FR]
-https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-#EXTINF:0 CUID="5397" tvg-chno="1673" tvg-name="1673. FRANCE 2 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" group-title="🇫🇷France",1673. FRANCE 2 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:0 CUID="5398" tvg-chno="1674" tvg-name="1674. FRANCE 3 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" group-title="🇫🇷France",1674. FRANCE 3 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:0 CUID="5399" tvg-chno="1675" tvg-name="1675. FRANCE 4 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" group-title="🇫🇷France",1675. FRANCE 4 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTINF:0 CUID="5400" tvg-chno="1676" tvg-name="1676. FRANCE 5 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" group-title="🇫🇷France",1676. FRANCE 5 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:0 CUID="5401" tvg-chno="1677" tvg-name="1677. FRANCE INFO [FR]" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png" group-title="🇫🇷France",1677. FRANCE INFO [FR]
-https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
-#EXTINF:0 CUID="5402" tvg-chno="1678" tvg-name="1678. GULLI [FR]" tvg-logo="https://picserve.netplus.ch/channels/gulli.png" group-title="🇫🇷France",1678. GULLI [FR]
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-#EXTINF:0 CUID="5403" tvg-chno="1679" tvg-name="1679. KTO [FR]" tvg-logo="https://picserve.netplus.ch/channels/kto.png" group-title="🇫🇷France",1679. KTO [FR]
-https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
-#EXTINF:0 CUID="5404" tvg-chno="1680" tvg-name="1680. LA TELE [FR]" tvg-logo="https://picserve.netplus.ch/channels/latele.png" group-title="🇫🇷France",1680. LA TELE [FR]
-https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
-#EXTINF:0 CUID="5405" tvg-chno="1681" tvg-name="1681. LCI [FR]" tvg-logo="https://picserve.netplus.ch/channels/lci.png" group-title="🇫🇷France",1681. LCI [FR]
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTINF:0 CUID="5406" tvg-chno="1682" tvg-name="1682. LCP [FR]" tvg-logo="https://picserve.netplus.ch/channels/lcp.png" group-title="🇫🇷France",1682. LCP [FR]
-https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
-#EXTINF:0 CUID="5407" tvg-chno="1683" tvg-name="1683. LEMAN BLEU [FR]" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" group-title="🇫🇷France",1683. LEMAN BLEU [FR]
-https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
-#EXTINF:0 CUID="5408" tvg-chno="1684" tvg-name="1684. L EQUIPE [FR]" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" group-title="🇫🇷France",1684. L EQUIPE [FR]
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTINF:0 CUID="5409" tvg-chno="1685" tvg-name="1685. M6 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" group-title="🇫🇷France",1685. M6 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:0 CUID="5410" tvg-chno="1686" tvg-name="1686. MAX TV [FR]" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" group-title="🇫🇷France",1686. MAX TV [FR]
-https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
-#EXTINF:0 CUID="5411" tvg-chno="1687" tvg-name="1687. NRTV [FR]" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" group-title="🇫🇷France",1687. NRTV [FR]
-https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
-#EXTINF:0 CUID="5412" tvg-chno="1688" tvg-name="1688. RMC DECOUVERTE [FR]" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png" group-title="🇫🇷France",1688. RMC DECOUVERTE [FR]
-https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-#EXTINF:0 CUID="5413" tvg-chno="1689" tvg-name="1689. RMC STORY [FR]" tvg-logo="https://picserve.netplus.ch/channels/numero23.png" group-title="🇫🇷France",1689. RMC STORY [FR]
-https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTINF:0 CUID="5414" tvg-chno="1690" tvg-name="1690. RTS 1 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="🇫🇷France",1690. RTS 1 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTINF:0 CUID="5415" tvg-chno="1691" tvg-name="1691. RTS 2 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="🇫🇷France",1691. RTS 2 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:0 CUID="5416" tvg-chno="1692" tvg-name="1692. TELESWIZZ [FR]" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png" group-title="🇫🇷France",1692. TELESWIZZ [FR]
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-#EXTINF:0 CUID="5417" tvg-chno="1693" tvg-name="1693. TF1 HD [FR]" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" group-title="🇫🇷France",1693. TF1 HD [FR]
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:0 CUID="5418" tvg-chno="1694" tvg-name="1694. TF1 SERIES [FR]" tvg-logo="https://picserve.netplus.ch/channels/hd1.png" group-title="🇫🇷France",1694. TF1 SERIES [FR]
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTINF:0 CUID="5419" tvg-chno="1695" tvg-name="1695. TFX [FR]" tvg-logo="https://picserve.netplus.ch/channels/nt1.png" group-title="🇫🇷France",1695. TFX [FR]
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-#EXTINF:0 CUID="5420" tvg-chno="1696" tvg-name="1696. TMC [FR]" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" group-title="🇫🇷France",1696. TMC [FR]
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-#EXTINF:0 CUID="5421" tvg-chno="1697" tvg-name="1697. TV5 MONDE FBS [FR]" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png" group-title="🇫🇷France",1697. TV5 MONDE FBS [FR]
-https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTINF:0 CUID="5422" tvg-chno="1698" tvg-name="1698. TV8 MONT BLANC [FR]" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" group-title="🇫🇷France",1698. TV8 MONT BLANC [FR]
-https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
-#EXTINF:0 CUID="5423" tvg-chno="1699" tvg-name="1699. TVM3 [FR]" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png" group-title="🇫🇷France",1699. TVM3 [FR]
-https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTINF:0 CUID="5424" tvg-chno="1700" tvg-name="1700. VAL TV [FR]" tvg-logo="https://picserve.netplus.ch/channels/valtv.png" group-title="🇫🇷France",1700. VAL TV [FR]
-https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
-#EXTINF:0 CUID="5425" tvg-chno="1701" tvg-name="1701. W9 [FR]" tvg-logo="https://picserve.netplus.ch/channels/w9.png" group-title="🇫🇷France",1701. W9 [FR]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:0 CUID="5427" tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="🇫🇷France",France 2
 http://69.64.57.208/france2/mono.m3u8
 #EXTINF:0 CUID="5431" tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="🇫🇷France",France 5
@@ -1078,10 +952,6 @@ http://41.205.93.154/RMCSPORT2/mpegts
 http://41.205.93.154/CNBC/mpegts
 #EXTINF:0 CUID="5457" tvg-name="ZDF" group-title="🇫🇷France",ZDF
 http://41.205.93.154/ZDF/mpegts
-#EXTINF:0 CUID="5466" tvg-name="ARTE -0,5H" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="🇫🇷France",ARTE -0,5H
-https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:0 CUID="5474" tvg-name="CSTAR" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="🇫🇷France",CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 CUID="5477" tvg-name="TV5MONDE EUROPE [geo-area]" tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="🇫🇷France",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:0 CUID="5486" tvg-name="GÉNÉRATIONS TV" tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="🇫🇷France",GÉNÉRATIONS TV
@@ -1098,18 +968,6 @@ https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="5502" tvg-name="AFTERFOOT RMC-BFM" tvg-logo="https://i.ibb.co/Xdqd4cT/afterfootrmc.jpg" group-title="🇫🇷France",AFTERFOOT RMC-BFM
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
-#EXTINF:0 CUID="5504" tvg-name="ÉQUIDIA" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="🇫🇷France",ÉQUIDIA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:0 CUID="5505" tvg-name="ÉQUIDIA RACING GALOP" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="🇫🇷France",ÉQUIDIA RACING GALOP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
-#EXTINF:0 CUID="5506" tvg-name="ÉQUIDIA RACING MAG" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="🇫🇷France",ÉQUIDIA RACING MAG
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-#EXTINF:0 CUID="5507" tvg-name="ÉQUIDIA RACING TROT" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="🇫🇷France",ÉQUIDIA RACING TROT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
-#EXTINF:0 CUID="5508" tvg-name="ÉQUIDIA RACING 1" tvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="🇫🇷France",ÉQUIDIA RACING 1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
-#EXTINF:0 CUID="5517" tvg-name="VEVO 90 00" tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png" group-title="🇫🇷France",VEVO 90 00
-https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
 #EXTINF:0 CUID="5518" tvg-name="MGG E-SPORT" tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="🇫🇷France",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:0 CUID="5519" tvg-name="FIFA+ FR" tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg" group-title="🇫🇷France",FIFA+ FR
@@ -1142,8 +1000,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:0 CUID="5542" tvg-name="BREF CINÉ" tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png" group-title="🇫🇷France",BREF CINÉ
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
-#EXTINF:0 CUID="5545" tvg-name="TELE NOVELA TV" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="🇫🇷France",TELE NOVELA TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 CUID="5556" tvg-name="TRACE URBAN (backup)" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="🇫🇷France",TRACE URBAN (backup)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:0 CUID="5558" tvg-name="TRACE URBAN (backup)" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="🇫🇷France",TRACE URBAN (backup)
@@ -1176,10 +1032,6 @@ https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8
 https://srv.webtvmanager.fr:3463/stream/play.m3u8
 #EXTINF:0 CUID="5573" tvg-name="BORDO SPORT" tvg-logo="https://i.ibb.co/vCB3X1Hm/bordosport.png" group-title="🇫🇷France",BORDO SPORT
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
-#EXTINF:0 CUID="5574" tvg-name="C11 MÉDIA" tvg-logo="https://i.ibb.co/PGX8qp8n/c11media.png" group-title="🇫🇷France",C11 MÉDIA
-https://srv.webtvmanager.fr:3508/stream/play.m3u8
-#EXTINF:0 CUID="5575" tvg-name="TÉLÉ NANTES" tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="🇫🇷France",TÉLÉ NANTES
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:0 CUID="5577" tvg-name="ALPE D'HUEZ TV" tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="🇫🇷France",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:0 CUID="5579" tvg-name="CANAL 32" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title="🇫🇷France",CANAL 32
@@ -1190,20 +1042,10 @@ https://video.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:0 CUID="5584" tvg-name="TV 3V" tvg-logo="https://i.ibb.co/2nG96GF/tv3v.png" group-title="🇫🇷France",TV 3V
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
-#EXTINF:0 CUID="5590" tvg-name="MAURIENNE TV" tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png" group-title="🇫🇷France",MAURIENNE TV
-https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/MaurienneTV.m3u8
 #EXTINF:0 CUID="5592" tvg-name="PUISSANCE TÉLÉVISION" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png" group-title="🇫🇷France",PUISSANCE TÉLÉVISION
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:0 CUID="5593" tvg-name="NA TV" tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png" group-title="🇫🇷France",NA TV
-https://edge11.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
 #EXTINF:0 CUID="5594" tvg-name="KANAL DUDE" tvg-logo="https://i.ibb.co/2Zb8Gmb/kdude.png" group-title="🇫🇷France",KANAL DUDE
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
-#EXTINF:0 CUID="5597" tvg-name="TVT TOURS" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png" group-title="🇫🇷France",TVT TOURS
-https://live-tvtours.digiteka.com/1982825398/index.m3u8
-#EXTINF:0 CUID="5598" tvg-name="ANGERS TÉLÉ" tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg" group-title="🇫🇷France",ANGERS TÉLÉ
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
-#EXTINF:0 CUID="5599" tvg-name="LYON CAPITALE TV" tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png" group-title="🇫🇷France",LYON CAPITALE TV
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:0 CUID="5601" tvg-name="BRIONNAIS TV" tvg-logo="https://i.ibb.co/S0X9VM8/brion.jpg" group-title="🇫🇷France",BRIONNAIS TV
 https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
 #EXTINF:0 CUID="5602" tvg-name="MADRAS FM TV" tvg-logo="https://i.ibb.co/BwD72ps/madras.png" group-title="🇫🇷France",MADRAS FM TV
@@ -1256,12 +1098,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:0 CUID="5638" tvg-name="Canal 32" tvg-id="Canal32.fr" tvg-logo="https://i.imgur.com/lAsE6kN.png" group-title="🇫🇷France",Canal 32
 https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
-#EXTINF:0 CUID="5639" tvg-name="CNews" tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="🇫🇷France",CNews
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:0 CUID="5640" tvg-name="DBM TV" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="🇫🇷France",DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:0 CUID="5644" tvg-name="Equidia" tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="🇫🇷France",Equidia
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:0 CUID="5647" tvg-name="France 24 French" tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="🇫🇷France",France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:0 CUID="5648" tvg-name="Generations TV" tvg-id="GenerationsTV.fr" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="🇫🇷France",Generations TV
@@ -1278,8 +1116,6 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:0 CUID="5667" tvg-name="MDL" tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="🇫🇷France",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:0 CUID="5668" tvg-name="Monte Carlo Digital Television" tvg-id="MonteCarloDigitalTelevision.fr" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="🇫🇷France",Monte Carlo Digital Television
-https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:0 CUID="5669" tvg-name="MyZen TV" tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="🇫🇷France",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0 CUID="5670" tvg-name="P2M TV" tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🇫🇷France",P2M TV
@@ -1290,8 +1126,6 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 #EXTINF:0 CUID="5708" tvg-name="Trace Urban (Australia)" tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="🇫🇷France",Trace Urban (Australia)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="5714" tvg-name="viàOccitanie" tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" group-title="🇫🇷France",viàOccitanie
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:0 CUID="5715" tvg-name="viàTéléPaese" tvg-id="viaTelePaese.fr" tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="🇫🇷France",viàTéléPaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 group-title="movie",
@@ -1318,8 +1152,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-sams
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="movie",cowboy movies
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 group-title="movie",master
-https://239f8b77.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfV1BfSExT/playlist.m3u8
 #EXTINF:-1 group-title="movie",rakuten
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="movie",classic movies
