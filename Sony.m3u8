@@ -1863,6 +1863,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@SD" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="Entertainment;Series",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
+#EXTM3U
 # EXTINF : -1  group-title = " جرندايزر "  type = " سلسلة " , جرندايزر - الحلقة 1
 https://pegasus.5387692.xyz/api/hls/787/720p/playlist.m3u8
 # EXTINF : -1  group-title = " جرندايزر "  type = " سلسلة " , جرندايزر - الحلقة 2
