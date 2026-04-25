@@ -272,6 +272,7 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 group-title="IraQ",الشرقيه
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="IraQ",الاولى
 #EXTINF:-1 group-title="arabic",هلا
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="bahrain",البحرين
@@ -300,6 +301,8 @@ http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
 #EXTINF:-1 group-title="kids",مرايا اطفال
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+#EXTINF:-1 group-title="kids",عمو يزيد
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="kids",cartoonnetwork
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71248.m3u8
 #EXTINF:-1 group-title="kids",cartoonnito
