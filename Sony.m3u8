@@ -290,6 +290,16 @@ https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="kids",سبيس تون
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 group-title="kids",mbc3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="kids",بهاء
+http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
+#EXTINF:-1 group-title="kids",براعم
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
+#EXTINF:-1 group-title="kids",مرايا اطفال
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",cartoonnetwork
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71248.m3u8
 #EXTINF:-1 group-title="kids",cartoonnito
@@ -312,14 +322,6 @@ http://apk.arabic-ch.space/live/082/index.m3u8
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201909.m3u8
 #EXTINF:-1 group-title="kids",nick jr
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201908.m3u8
-#EXTINF:-1 group-title="kids",بهاء
-http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 group-title="kids",براعم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
-#EXTINF:-1 group-title="kids",سبيس تون
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="kids",mbc3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 group-title="kids",roya kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="kids",رؤيا الاطفال
@@ -328,8 +330,6 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 group-title="kids",zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="kids",مرايا اطفال
-https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
