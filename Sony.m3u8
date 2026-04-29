@@ -47,10 +47,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشلال
-http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="AUE",عجمان
-http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="AUE",الشارقه
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="AUE",الوسطى
@@ -135,8 +131,12 @@ http://185.9.2.18/chid_391/mono.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 #EXTINF:-1 group-title="lebanon",otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 group-title="egypt",الحياه
+#EXTINF:-1 group-title="egypt"الحياه
 http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 group-title="egybt",الحياه
+http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 group-title="egybt",نيل دراما
+http://185.9.2.18/chid_352/mono.m3u8,
 #EXTINF:-1 group-title="egypt",cbc دراما
 http://185.9.2.18/chid_680/mono.m3u8
 #EXTINF:-1 group-title="egypt",dmc دراما
