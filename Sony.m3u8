@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="AUE",عجمان
+http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -406,10 +408,8 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="AUE",الشارقه
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الوسطى
+#EXTINF:-1 group-title="AUE",الشرقيه
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",عجمان
-http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
