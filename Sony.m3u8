@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AUE",عجمان
-http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -130,6 +128,8 @@ http://185.9.2.18/chid_680/mono.m3u8
 #EXTINF:-1 group-title="egypt",dmc دراما
 http://185.9.2.18/chid_3741/mono.m3u8
 #EXTINF:-1 group-title="egypt",النهار دراما
+http://185.9.2.18/chid_518/mono.m3u8
+#EXTINF:-1 group-title="egybt"'cbc drama
 http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="egypt",نيل سينما
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
