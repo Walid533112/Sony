@@ -43,6 +43,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 group-title="AUE",دبي
+http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AUE",الفجيره
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="AUE",الشلال
+http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 group-title="AUE",عجمان
+http://185.9.2.18/chid_352/mono.m3u8
+#EXTINF:-1 group-title="AUE",الشارقه
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="AUE",الوسطى
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="AUE",الشرقيه من كلباء
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="movies",movies action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="movies",movies thriller
@@ -156,14 +170,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ksa",sbc
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 group-title="AUE",دبي
-http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AUE",الفجيره
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشلال
-http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="AUE",عجمان
-http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -402,14 +408,7 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="AUE",الشارقه
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشارقه
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الوسطى
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشرقيه من كلباء
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
