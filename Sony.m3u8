@@ -340,6 +340,7 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="kids",trt çocuk diyanet١١
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201908.m3u8
 #EXTINF:-1 group-title="kids",kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
