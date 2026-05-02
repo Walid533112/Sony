@@ -285,8 +285,6 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
 #EXTINF:-1 group-title="Roya",Documentaries
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
-
-
 #EXTINF:-1 group-title="news",الجزيره
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="news",العربيه
@@ -361,6 +359,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
+
 #EXTINF:-1 group-title="outdoor,"وثائقي
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="وثائقي",DOCS VILLE
@@ -411,6 +410,27 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
+http://151.80.18.177:86/RTL9/index.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
+http://151.80.18.177:86/Teva_HD/index.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+http://151.80.18.177:86/Histoire/index.m3u8
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
+http://151.80.18.177:86/D17_HD/index.m3u8
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
