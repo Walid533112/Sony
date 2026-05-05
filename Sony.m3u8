@@ -121,10 +121,6 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 group-title="movies",افلام
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-#EXTINF:-1 group-title="movies",movies action
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 group-title="movies",movies thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="art",art1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
 #EXTINF:-1 group-title="art",art2
