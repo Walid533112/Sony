@@ -121,70 +121,6 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 group-title="movies",افلام
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-#EXTINF:-1 group-title="art",art1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
-#EXTINF:-1 group-title="art",art2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201888.m3u8
-#EXTINF:-1 group-title="art",art cinema
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201889.m3u8
-#EXTINF:-1 group-title="art",hekayat1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201890.m3u8
-#EXTINF:-1 group-title="art",hekayat2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201891.m3u8
-#EXTINF:-1 group-title="art",cinema1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201927.m3u8
-#EXTINF:-1 group-title="art",cinema2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201928.m3u8
-#EXTINF:-1 group-title="art",musalslat1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
-#EXTINF:-1 group-title="osn",musalslat2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
-#EXTINF:-1 group-title="osn",ياهلا
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
-#EXTINF:-1 group-title="osn",ياهلا افلام
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
-#EXTINF:-1 group-title="osn",الصفوه
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
-#EXTINF:-1 group-title="osn",اليوم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
-#EXTINF:-1 group-title="osn",ياهلا افلام
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201894.m3u8
-#EXTINF:-1 group-title="osn",الصفوه
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201930.m3u8
-#EXTINF:-1 group-title="osn",اليوم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201926.m3u8
-#EXTINF:-1 group-title="osn",movies family
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
-#EXTINF:-1 group-title="osn",movies premiere
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201899.m3u8
-#EXTINF:-1 group-title="osn",hollywood
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201897.m3u8
-#EXTINF:-1 group-title="osn",movies premiere
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201896.m3u8
-#EXTINF:-1 group-title="osn",showcase
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201903.m3u8
-#EXTINF:-1 group-title="osn",star action
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201901.m3u8
-#EXTINF:-1 group-title="osn",movies comedy
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201898.m3u8
-#EXTINF:-1 group-title="osn",crime
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201902.m3u8
-#EXTINF:-1 group-title="osn",discovery
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201916.m3u8
-#EXTINF:-1 group-title="osn",ID
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201918.m3u8
-#EXTINF:-1 group-title="osn",wild
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201915.m3u8
-#EXTINF:-1 group-title="osn",ناشيونال جيوغرافيك ابو ظبي
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201914.m3u8
-#EXTINF:-1 group-title="osn",history1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201919.m3u8
-#EXTINF:-1 group-title="osn",history2
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201920.m3u8
-#EXTINF:-1 group-title="osn",fann
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201929.m3u8
-#EXTINF:-1 group-title="osn",one
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201904.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -337,8 +273,6 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="kids",trt çocuk diyanet١١
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201908.m3u8
 #EXTINF:-1 group-title="kids",kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 group-title="kids",kids2
@@ -351,7 +285,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
-
 #EXTINF:-1 group-title="outdoor,"وثائقي
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="وثائقي",DOCS VILLE
@@ -408,21 +341,37 @@ http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 http://151.80.18.177:86/AB1/index.m3u8
 #EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="وثائقي",سوريا
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
