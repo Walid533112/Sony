@@ -1121,3 +1121,370 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="movie",tv westernmovies
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, bein sport-HD1 HD 
+http://172.25.25.99:80/beinsport-HD1/index.m3u8
+#EXTINF:-1, bein sport-HD2 HD 
+http://172.25.25.99:80/beinsport-HD2/index.m3u8
+#EXTINF:-1, bein sport-HD3 HD 
+http://172.25.25.99:80/beinsport-HD3/index.m3u8
+#EXTINF:-1, bein sport-HD4 HD 
+http://172.25.25.99:80/beinsport-HD4/index.m3u8
+#EXTINF:-1, bein sport-HD5 HD 
+http://172.25.25.99:80/beinmax1/index.m3u8
+#EXTINF:-1, bein sport-HD6 HD 
+http://172.25.25.99:80/beinmax2/index.m3u8
+#EXTINF:-1, bein sport-HD7 HD 
+http://172.25.25.99:80/beinmax3/index.m3u8
+#EXTINF:-1, bein sport-HD8 HD 
+http://172.25.25.99:80/beinmax4/index.m3u8
+#EXTINF:-1, bein sport-HD9 HD 
+http://172.25.25.99:80/beinsport-HD7/index.m3u8
+#EXTINF:-1, KSA Sport 1 HD 
+http://172.25.25.99:80/beinsport-HD9/index.m3u8
+#EXTINF:-1, ALKass sport 3 HD 
+http://172.25.25.99:80/alkassport/index.m3u8
+#EXTINF:-1, bein SportNBA HD 
+http://172.25.25.99:80/beINSportNews/index.m3u8
+#EXTINF:-1, ALFAN HD 
+http://172.25.25.99:80/ALFAN/index.m3u8
+#EXTINF:-1, Alkass Sport 4 HD 
+http://172.25.25.99:80/AlkassFour/index.m3u8
+#EXTINF:-1, Alkass sport 6 HD 
+http://172.25.25.99:80/AlkassThree/index.m3u8
+#EXTINF:-1, Bollywood HD 
+http://172.25.25.99:80/AlnawarsBollyw/index.m3u8
+#EXTINF:-1, BoxOff HD 
+http://172.25.25.99:80/AlnawarsBoxOff/index.m3u8
+#EXTINF:-1, Cinema HD 
+http://172.25.25.99:80/AlnawarsCinema/index.m3u8
+#EXTINF:-1, bein Movies1HD HD 
+http://172.25.25.99:80/beINMovies1HD/index.m3u8
+#EXTINF:-1, MBC MAX HD 
+http://172.25.25.99:80/MBCMAX/index.m3u8
+#EXTINF:-1, Turkey HD 
+http://172.25.25.99:80/AlnawarsTurk/index.m3u8
+#EXTINF:-1, BoombrengHD HD 
+http://172.25.25.99:80/BoombrengHD/index.m3u8
+#EXTINF:-1, Cinema 1HD HD 
+http://172.25.25.99:80/Cinema1HD/index.m3u8
+#EXTINF:-1, classic HD 
+http://172.25.25.99:80/Alnawarsclassi/index.m3u8
+#EXTINF:-1, Kids Zone HD 
+http://172.25.25.99:80/AlnawarsDisney/index.m3u8
+#EXTINF:-1, Documentary HD 
+http://172.25.25.99:80/AlnawarsDouc/index.m3u8
+#EXTINF:-1, HD Movies HD 
+http://172.25.25.99:80/AlnawarsMovies/index.m3u8
+#EXTINF:-1, Alyoum HD 
+http://172.25.25.99:80/Alyoum/index.m3u8
+#EXTINF:-1, AMC HD 
+http://172.25.25.99:80/AMC/index.m3u8
+#EXTINF:-1, ART Aflam1 HD 
+http://172.25.25.99:80/ARTAflam1/index.m3u8
+#EXTINF:-1, BBC Earth HD 
+http://172.25.25.99:80/BBCEarth/index.m3u8
+#EXTINF:-1, bein DramaHD1 HD 
+http://172.25.25.99:80/beINDramaHD1/index.m3u8
+#EXTINF:-1, beinMovies 2HD HD 
+http://172.25.25.99:80/beINMovies2HD/index.m3u8
+#EXTINF:-1, bein Movies3HD HD 
+http://172.25.25.99:80/beINMovies3HD/index.m3u8
+#EXTINF:-1, bein Movies4HD HD 
+http://172.25.25.99:80/beINMovies4HD/index.m3u8
+#EXTINF:-1, bein Series1HD HD 
+http://172.25.25.99:80/beINSeries1HD/index.m3u8
+#EXTINF:-1, bein Series2HD HD 
+http://172.25.25.99:80/beINSeries2HD/index.m3u8
+#EXTINF:-1, ksa sport HD 
+http://172.25.25.99:80/beINSportNBA/index.m3u8
+#EXTINF:-1, CBS reality HD 
+http://172.25.25.99:80/CBSreality/index.m3u8
+#EXTINF:-1, Cinema 2HD HD 
+http://172.25.25.99:80/Cinema2HD/index.m3u8
+#EXTINF:-1, Disney HD HD 
+http://172.25.25.99:80/DisneyHD/index.m3u8
+#EXTINF:-1, Disney Junior HD 
+http://172.25.25.99:80/DisneyJunior/index.m3u8
+#EXTINF:-1, DLifeHD HD 
+http://172.25.25.99:80/DLifeHD/index.m3u8
+#EXTINF:-1, DMAX HD 
+http://172.25.25.99:80/DMAX/index.m3u8
+#EXTINF:-1, Fatafeat HD 
+http://172.25.25.99:80/Fatafet/index.m3u8
+#EXTINF:-1, FixFoxi HD 
+http://172.25.25.99:80/FixFoxi/index.m3u8
+#EXTINF:-1, FoodNetwork HD 
+http://172.25.25.99:80/FoodNetwork/index.m3u8
+#EXTINF:-1, Fox HD HD 
+http://172.25.25.99:80/FoxHD/index.m3u8
+#EXTINF:-1, Fox Movies HD 
+http://172.25.25.99:80/FoxMovies/index.m3u8
+#EXTINF:-1, OSN mars HD 
+http://172.25.25.99:80/GMFamily/index.m3u8
+#EXTINF:-1, Nicktoons HD 
+http://172.25.25.99:80/GmMovies/index.m3u8
+#EXTINF:-1, LUXE.TV HD 
+http://172.25.25.99:80/GoldAflam/index.m3u8
+#EXTINF:-1, GULI Arabia HD 
+http://172.25.25.99:80/GULIArabia/index.m3u8
+#EXTINF:-1, Hekayat 2 HD 
+http://172.25.25.99:80/Hekayat2/index.m3u8
+#EXTINF:-1, History 2HD HD 
+http://172.25.25.99:80/History2HD/index.m3u8
+#EXTINF:-1, JeemHD HD 
+http://172.25.25.99:80/JeemHD/index.m3u8
+#EXTINF:-1, MBC 3HD HD 
+http://172.25.25.99:80/MBC3HD/index.m3u8
+#EXTINF:-1, MBC IRAQ HD 
+http://172.25.25.99:80/MBCIRAQHD/index.m3u8
+#EXTINF:-1, Muslslat 1HD HD 
+http://172.25.25.99:80/Muslslat1HD/index.m3u8
+#EXTINF:-1, Muslslat 2HD HD 
+http://172.25.25.99:80/Muslslat2HD/index.m3u8
+#EXTINF:-1, nickJR HD 
+http://172.25.25.99:80/nickJR/index.m3u8
+#EXTINF:-1, OSN Action HD 
+http://172.25.25.99:80/OSNAction/index.m3u8
+#EXTINF:-1, OSN KIDS HD 
+http://172.25.25.99:80/OSNKIDS/index.m3u8
+#EXTINF:-1, OSN MoviesFirst HD 
+http://172.25.25.99:80/OSNMoviesFirst/index.m3u8
+#EXTINF:-1, OutDoor HD 
+http://172.25.25.99:80/OutDoor/index.m3u8
+#EXTINF:-1, Rotana Comedy HD 
+http://172.25.25.99:80/S7Movies/index.m3u8
+#EXTINF:-1, Sky hits HD 
+http://172.25.25.99:80/Skyhits/index.m3u8
+#EXTINF:-1, Sky sci-fi & horor HD 
+http://172.25.25.99:80/Skysci-fihor/index.m3u8
+#EXTINF:-1, TCM HD 
+http://172.25.25.99:80/TCM/index.m3u8
+#EXTINF:-1, TLCHD HD 
+http://172.25.25.99:80/TLCHD/index.m3u8
+#EXTINF:-1, TravelChannel HD 
+http://172.25.25.99:80/TravelChannel/index.m3u8
+#EXTINF:-1, OSN HD 
+http://172.25.25.99:80/WOMAN/index.m3u8
+#EXTINF:-1, OSN HD 
+http://172.25.25.99:80/S7Aflam/index.m3u8
+#EXTINF:-1, Quran HD 
+http://172.25.25.99:80/QuranHD/index.m3u8
+#EXTINF:-1, OSN Comedy HD 
+http://172.25.25.99:80/OSNComedy/index.m3u8
+#EXTINF:-1, OSN seriesFirs HD 
+http://172.25.25.99:80/OSNseriesFirs/index.m3u8
+#EXTINF:-1, OnTv Music HD 
+http://172.25.25.99:80/OnTvMusic/index.m3u8
+#EXTINF:-1, OnTv BoxOffice HD 
+http://172.25.25.99:80/OnTvBoxOffice/index.m3u8
+#EXTINF:-1, OnTv Movies HD 
+http://172.25.25.99:80/OnTvMovies/index.m3u8
+#EXTINF:-1, OnTv Horror HD 
+http://172.25.25.99:80/OnTvHorror/index.m3u8
+#EXTINF:-1, OnTv Comedy HD 
+http://172.25.25.99:80/OnTvComedy/index.m3u8
+#EXTINF:-1, OnTv Asia HD 
+http://172.25.25.99:80/OnTvAsia/index.m3u8
+#EXTINF:-1, OnTv BollyWood HD 
+http://172.25.25.99:80/OnTvBollyWood/index.m3u8
+#EXTINF:-1, OnTv SCIFI HD 
+http://172.25.25.99:80/OnTvSCIFI/index.m3u8
+#EXTINF:-1, OnTv Arabia HD 
+http://172.25.25.99:80/OnTvArabic/index.m3u8
+#EXTINF:-1, OnTv Animation HD 
+http://172.25.25.99:80/OnTvAnimation/index.m3u8
+#EXTINF:-1, OnTv CartoonZ HD 
+http://172.25.25.99:80/OnTvCartoonZ/index.m3u8
+#EXTINF:-1, OnTv Turkey HD 
+http://172.25.25.99:80/OnTvTurkey/index.m3u8
+#EXTINF:-1, OnTv Funny HD 
+http://172.25.25.99:80/OnTvFunny/index.m3u8
+#EXTINF:-1, OnTv Series HD 
+http://172.25.25.99:80/OnTvSeries/index.m3u8
+#EXTINF:-1, OnTv Anashed HD 
+http://172.25.25.99:80/OnTvAnashed/index.m3u8
+#EXTINF:-1, OnTv Melody HD 
+http://172.25.25.99:80/OnTvMelody/index.m3u8
+#EXTINF:-1, OnTv Documentary HD 
+http://172.25.25.99:80/OnTvDouc/index.m3u8
+#EXTINF:-1, OSN Yahla HD 
+http://172.25.25.99:80/OSNYahla/index.m3u8
+#EXTINF:-1, OSN YahlaAlowl HD 
+http://172.25.25.99:80/OSNYahlaAlowl/index.m3u8
+#EXTINF:-1, ART Aflam2 HD 
+http://172.25.25.99:80/ARTAflam2/index.m3u8
+#EXTINF:-1, Hekayat1 HD 
+http://172.25.25.99:80/Hekayat1/index.m3u8
+#EXTINF:-1, OSN Movies HD 
+http://172.25.25.99:80/OSNMovies/index.m3u8
+#EXTINF:-1, OSN Engima HD 
+http://172.25.25.99:80/OSNEngima/index.m3u8
+#EXTINF:-1, E! HD 
+http://172.25.25.99:80/E!/index.m3u8
+#EXTINF:-1, nicklodeon HD 
+http://172.25.25.99:80/nicklodeon/index.m3u8
+#EXTINF:-1, Discovery DHD HD 
+http://172.25.25.99:80/DoscoberyID/index.m3u8
+#EXTINF:-1, OSN YahlaCinem HD 
+http://172.25.25.99:80/OSNYahlaCinem/index.m3u8
+#EXTINF:-1, Comedy Center HD 
+http://172.25.25.99:80/ComedyCenter/index.m3u8
+#EXTINF:-1, Paramount HD 
+http://172.25.25.99:80/Paramenral/index.m3u8
+#EXTINF:-1, History HD1 HD 
+http://172.25.25.99:80/HistoryHD1/index.m3u8
+#EXTINF:-1, MBC 1HD HD 
+http://172.25.25.99:80/MBC1HD/index.m3u8
+#EXTINF:-1, MBC 2HD HD 
+http://172.25.25.99:80/MBC2HD/index.m3u8
+#EXTINF:-1, MBC 4HD HD 
+http://172.25.25.99:80/MBC4HD/index.m3u8
+#EXTINF:-1, MBC bollywood HD 
+http://172.25.25.99:80/MBCbollywood/index.m3u8
+#EXTINF:-1, MBC Variety HD 
+http://172.25.25.99:80/MBCVariety/index.m3u8
+#EXTINF:-1, MBC Drama+ HD 
+http://172.25.25.99:80/MBCDrama+/index.m3u8
+#EXTINF:-1, MBC Drama HD 
+http://172.25.25.99:80/MBCDrama/index.m3u8
+#EXTINF:-1, MBC Action HD 
+http://172.25.25.99:80/MBCAction/index.m3u8
+#EXTINF:-1, NatGeo Wild HD 
+http://172.25.25.99:80/NatGeoWild/index.m3u8
+#EXTINF:-1, Planet Earth HD 
+http://172.25.25.99:80/PlanetEarth/index.m3u8
+#EXTINF:-1, Mtv live HD HD 
+http://172.25.25.99:80/FoxLife/index.m3u8
+#EXTINF:-1, toyor al janah HD 
+http://172.25.25.99:80/FilmBox/index.m3u8
+#EXTINF:-1, MyCinema HD 
+http://172.25.25.99:80/MyCinema/index.m3u8
+#EXTINF:-1, Fox Rewyat HD 
+http://172.25.25.99:80/FoxRewyat/index.m3u8
+#EXTINF:-1, Rotana Aflam hd+ HD 
+http://172.25.25.99:80/FightBox/index.m3u8
+#EXTINF:-1, TDC HD 
+http://172.25.25.99:80/TDC/index.m3u8
+#EXTINF:-1, StarMovies HD 
+http://172.25.25.99:80/StarMovies/index.m3u8
+#EXTINF:-1, StarWorld HD 
+http://172.25.25.99:80/StarWorld/index.m3u8
+#EXTINF:-1, OSN yala HD 
+http://172.25.25.99:80/FoxCrime/index.m3u8
+#EXTINF:-1, SyFyHD HD 
+http://172.25.25.99:80/SyFyHD/index.m3u8
+#EXTINF:-1, Fox FamilyMovies HD 
+http://172.25.25.99:80/FoxFamilyMovies/index.m3u8
+#EXTINF:-1, Fox ActionMovies HD 
+http://172.25.25.99:80/FoxActionMovies/index.m3u8
+#EXTINF:-1, NatGeo People HD 
+http://172.25.25.99:80/NatGeoPeople/index.m3u8
+#EXTINF:-1, Discovery Scinc HD 
+http://172.25.25.99:80/DiscoveryScinc/index.m3u8
+#EXTINF:-1, Animal Plant HD 
+http://172.25.25.99:80/AnimalPlant/index.m3u8
+#EXTINF:-1, ALSharqiya HD 
+http://172.25.25.99:80/Alsharqiya/index.m3u8
+#EXTINF:-1, Alkass Sport 2 HD 
+http://172.25.25.99:80/beinsport-HD12/index.m3u8
+#EXTINF:-1, OnTv CLASSIC HD 
+http://172.25.25.99:80/ON-CLASSIC/index.m3u8
+#EXTINF:-1, OnTv LOVE HD 
+http://172.25.25.99:80/ON-LOVE/index.m3u8
+#EXTINF:-1, OnTv Turkey 2 HD 
+http://172.25.25.99:80/ON-TURKEY-2HD/index.m3u8
+#EXTINF:-1, OnTv HEKAYAT HD 
+http://172.25.25.99:80/ON-HEKAYAT/index.m3u8
+#EXTINF:-1, OnTv MUISIC ARABI HD 
+http://172.25.25.99:80/ON-MUISIC-ARABI/index.m3u8
+#EXTINF:-1, OnTv TUBE HD 
+http://172.25.25.99:80/ON-TUBE/index.m3u8
+#EXTINF:-1, OnTv ONDAIMOND HD 
+http://172.25.25.99:80/ON-ONDAIMOND/index.m3u8
+#EXTINF:-1, OnTv EXTRA-1 HD 
+http://172.25.25.99:80/ON-EXTRA-1/index.m3u8
+#EXTINF:-1, OnTv EXTRA-2 HD 
+http://172.25.25.99:80/ON-EXTRA-2/index.m3u8
+#EXTINF:-1, OnTv EXTRA-3 HD 
+http://172.25.25.99:80/ON-EXTRA-3/index.m3u8
+#EXTINF:-1, FXHD HD 
+http://172.25.25.99:80/FXHD/index.m3u8
+#EXTINF:-1, Fine Living HD HD 
+http://172.25.25.99:80/FineLivingHD/index.m3u8
+#EXTINF:-1, beIN GourmetHD HD 
+http://172.25.25.99:80/beINGourmetHD/index.m3u8
+#EXTINF:-1, HG TV HD 
+http://172.25.25.99:80/HGHD/index.m3u8
+#EXTINF:-1, Dtx HD HD 
+http://172.25.25.99:80/DtxHD/index.m3u8
+#EXTINF:-1, Be Junior HD 
+http://172.25.25.99:80/beINGouniorHD/index.m3u8
+#EXTINF:-1, DreamWorkHD HD 
+http://172.25.25.99:80/DreamWorkHD/index.m3u8
+#EXTINF:-1, Baby tv HD 
+http://172.25.25.99:80/Baby_tvHD/index.m3u8
+#EXTINF:-1, ART Cinema HD HD 
+http://172.25.25.99:80/CinemaHD/index.m3u8
+#EXTINF:-1, OSN Movies Disney HD 
+http://172.25.25.99:80/MoviesDisney/index.m3u8
+#EXTINF:-1, Crime+ HD HD 
+http://172.25.25.99:80/Crime+HD/index.m3u8
+#EXTINF:-1, Gym HD 
+http://172.25.25.99:80/AlnawarsGym/index.m3u8
+#EXTINF:-1, Documentary Arabi HD HD 
+http://172.25.25.99:80/My_DocumentryH/index.m3u8
+#EXTINF:-1, National Geographic HD 
+http://172.25.25.99:80/Nat_Geographic/index.m3u8
+#EXTINF:-1, Discovery HD1 HD 
+http://172.25.25.99:80/DiscoveryHD1/index.m3u8
+#EXTINF:-1, Sky Premium HD 
+http://172.25.25.99:80/SkyPremium/index.m3u8
+#EXTINF:-1, Fox life HD HD 
+http://172.25.25.99:80/My_Fox_LifeHD_2/index.m3u8
+#EXTINF:-1, Fox Rewayat 2 HD 
+http://172.25.25.99:80/My_Fox_Rewayat_2/index.m3u8
+#EXTINF:-1, Fox_CrimeHD HD 
+http://172.25.25.99:80/My_Fox_CrimeHD_2/index.m3u8
+#EXTINF:-1, bein sport-HD10 HD 
+http://172.25.25.99:80/beINSportHD10/index.m3u8
+#EXTINF:-1, bein sport-HD11 HD 
+http://172.25.25.99:80/beINSportHD11/index.m3u8
+#EXTINF:-1, bein sport-HD12 HD 
+http://172.25.25.99:80/beINSportHD12/index.m3u8
+#EXTINF:-1, Alkass Sport 5 HD 
+http://172.25.25.99:80/Alkass5HD/index.m3u8
+#EXTINF:-1, Alkass Sport 7 HD 
+http://172.25.25.99:80/Alkass7HD/index.m3u8
+#EXTINF:-1, Alkass Sport 8 HD 
+http://172.25.25.99:80/Alkass8HD/index.m3u8
+#EXTINF:-1, KSA SPORT 1 HD 
+http://172.25.25.99:80/KSASPORT1/index.m3u8
+#EXTINF:-1, bein sports news HD 
+http://172.25.25.99:80/KSASport2/index.m3u8
+#EXTINF:-1, KSA Sport 3 HD 
+http://172.25.25.99:80/KSA3HD/index.m3u8
+#EXTINF:-1, FilmBox Arthous HD 
+http://172.25.25.99:80/FilmBoxArthous/index.m3u8
+#EXTINF:-1, Rotana hd+ HD 
+http://172.25.25.99:80/StereoMusic/index.m3u8
+#EXTINF:-1, Fightbox HD 
+http://172.25.25.99:80/DuckTV/index.m3u8
+#EXTINF:-1, CN Arabic HD 
+http://172.25.25.99:80/FastfunBox/index.m3u8
+#EXTINF:-1, R TV HD 
+http://172.25.25.99:80/MusicNow/index.m3u8
+#EXTINF:-1, ALIraqia HD 
+http://172.25.25.99:80/aliraqi/index.m3u8
+#EXTINF:-1, ALSharqiya HD 
+http://172.25.25.99:80/alsharqiya/index.m3u8
+#EXTINF:-1, ALRasheed HD 
+http://172.25.25.99:80/alrasheed/index.m3u8
+#EXTINF:-1, UTV HD 
+http://172.25.25.99:80/utv/index.m3u8
+#EXTINF:-1, Iraqia_Sport HD 
+http://172.25.25.99:80/aliraqia-sport/index.m3u8
+#EXTINF:-1, Sumaria HD 
+http://172.25.25.99:80/alsumaria/index.m3u8
+#EXTINF:-1, Dijla HD 
+http://172.25.25.99:80/dijla/index.m3u8
