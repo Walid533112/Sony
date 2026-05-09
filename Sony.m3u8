@@ -245,6 +245,8 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="kids",رؤيا الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:-1 group-title="kids",رؤيا قصص
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist/0.m3u8
 #EXTINF:-1 group-title="kids",رؤيا اورجنال الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 group-title="kids",zoomoo
