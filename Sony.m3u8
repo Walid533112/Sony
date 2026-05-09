@@ -223,6 +223,8 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 group-title="news",سوريا
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="news",الحوار
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="news",الخليج
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
