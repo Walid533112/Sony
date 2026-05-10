@@ -846,18 +846,12 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
 #EXTINF:0 CUID="5527" tvg-name="MEN'S UP TV" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="🇫🇷France",MEN'S UP TV
 https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
-#EXTINF:0 CUID="5529" tvg-name="NATURE TIME" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="🇫🇷France",NATURE TIME
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:0 CUID="5530" tvg-name="NATURE TIME" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="🇫🇷France",NATURE TIME
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="5531" tvg-name="TV5MONDE VOYAGE" tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" group-title="🇫🇷France",TV5MONDE VOYAGE
-https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:0 CUID="5532" tvg-name="TV5MONDE VOYAGE" tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" group-title="🇫🇷France",TV5MONDE VOYAGE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 #EXTINF:0 CUID="5533" tvg-name="VOYAGES+" tvg-logo="https://i.ibb.co/JRX9cpG/voyagesplus.jpg" group-title="🇫🇷France",VOYAGES+
 https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
-#EXTINF:0 CUID="5539" tvg-name="ALLO CINÉ" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="🇫🇷France",ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:0 CUID="5540" tvg-name="ALLO CINÉ" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="🇫🇷France",ALLO CINÉ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
 #EXTINF:0 CUID="5541" tvg-name="RAKUTEN TOP FILMS TV" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" group-title="🇫🇷France",RAKUTEN TOP FILMS TV
@@ -866,8 +860,6 @@ https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
 #EXTINF:0 CUID="5556" tvg-name="TRACE URBAN (backup)" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="🇫🇷France",TRACE URBAN (backup)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:0 CUID="5558" tvg-name="TRACE URBAN (backup)" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="🇫🇷France",TRACE URBAN (backup)
-https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:0 CUID="5559" tvg-name="FUN RADIO TV BE (backup)" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="🇫🇷France",FUN RADIO TV BE (backup)
 https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:0 CUID="5560" tvg-name="BFM ALPES" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM ALPES
@@ -880,10 +872,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?st
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
 #EXTINF:0 CUID="5564" tvg-name="BFM LITTORAL" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM LITTORAL
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:0 CUID="5565" tvg-name="BFM LYON" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM LYON
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:0 CUID="5566" tvg-name="BFM MARSEILLE" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM MARSEILLE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
 #EXTINF:0 CUID="5567" tvg-name="BFM NICE" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM NICE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:0 CUID="5568" tvg-name="BFM NORMANDIE" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="🇫🇷France",BFM NORMANDIE
@@ -898,8 +886,7 @@ https://srv.webtvmanager.fr:3463/stream/play.m3u8
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:0 CUID="5577" tvg-name="ALPE D'HUEZ TV" tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png" group-title="🇫🇷France",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:0 CUID="5579" tvg-name="CANAL 32" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title="🇫🇷France",CANAL 32
-https://edge17.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+
 #EXTINF:0 CUID="5580" tvg-name="CANAL 32" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png" group-title="🇫🇷France",CANAL 32
 https://video.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
 #EXTINF:0 CUID="5583" tvg-name="TV7 COLMAR" tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png" group-title="🇫🇷France",TV7 COLMAR
