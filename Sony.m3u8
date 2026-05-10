@@ -131,8 +131,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="movies",اجيال
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا سينما
-http://185.9.2.18/chid_288/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="movies",روتانا سينما
 http://185.9.2.18/chid_290/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
