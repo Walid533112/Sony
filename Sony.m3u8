@@ -138,7 +138,7 @@ https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="movies",اجيال
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="movies",روتانا مصر
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_1080p/chunks.m3u8
+http://185.9.2.18/chid_290/mono.m3u8
 #EXTINF:-1 group-title="movies",روتانا  السعوديه
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
