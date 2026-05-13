@@ -4,7 +4,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="syria",برايم
-https://mn-nl.mncdn.com/primetv/live/chunklist.m3u8
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="syria",لنا
