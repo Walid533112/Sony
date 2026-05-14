@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 group-title="egypt",2
+#EXTM3U
+#EXTINF:-1 group-title="egypt",2
 https://live.eu-north-1b.cf.dmcdn.net/sec2(6RVekCZig5bAotZ_Uwunvxma3bgo9iGg8zGT5rRYkJOwErL2nVWKMz1nVV-CcOZL7aJpdJDZtEBkoWi5kYICrBwBai0Idc4G1zgFTu41USRgkJdDW4o4PD2dPERSHtBq)/dm/3/x8n6e4h/s/live-480.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
