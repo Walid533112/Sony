@@ -73,10 +73,12 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 group-title="lebanon",تلفزيون لبنان
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
-#EXTINF:-1 group-title="egybt",المصريه
+#EXTINF:-1 group-title="egybt",1المصريه
 http://185.9.2.18/chid_6300/mono.m3u8
 #EXTINF:-1 group-title="egypt",2المصريه
 http://185.9.2.18/chid_247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="egypt",الاولى
+https://live.eu-north-1a.cf.dmcdn.net/sec2(U3r3hpYD2p0ZC2jTpV2xbH-oV4q0y7A7GjcXAnaJ1MywXJUNwnkcjJwvzeHXcEXzBb1Buu4v87aQ7-I8Xs2B3fBYOZU1xDl1CwGX6HodnRLfDu8l6AvLIT-eZzcpR3X7)/dm/3/x856hbh/s/live-480.m3u8#cell=lcf-eu-north-1a
 #EXTINF:-1 group-title="egypt",الحياه
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="egybt",نيل دراما
