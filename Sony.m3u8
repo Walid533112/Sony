@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="egypt",2
-https://live.eu-north-1b.cf.dmcdn.net/sec2(6RVekCZig5bAotZ_Uwunvxma3bgo9iGg8zGT5rRYkJOwErL2nVWKMz1nVV-CcOZL7aJpdJDZtEBkoWi5kYICrBwBai0Idc4G1zgFTu41USRgkJdDW4o4PD2dPERSHtBq)/dm/3/x8n6e4h/s/live-480.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -79,10 +77,6 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.
 http://185.9.2.18/chid_6300/mono.m3u8
 #EXTINF:-1 group-title="egypt",2المصريه
 http://185.9.2.18/chid_247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="egypt",2
-https://live.eu-north-1b.cf.dmcdn.net/sec2(xPuQgqwsmYrgnNgJZWkJ_TFl1YRJyhkAyvE8dtfRlx9i8TwUxK7fs4btS69mQa6q31kySi4ja4sR0Q_Y5SxVDlNjpTmdkFADkHMiqAq-8hdCCe5KpcO_ErA8B9IWHGs0)/dm/3/x84nun4/s/live-480.m3u8#cell=lcf-eu-north-1b
-#EXTINF:-1 group-title="egypt",الاولى
-https://live.eu-north-1a.cf.dmcdn.net/sec2(U3r3hpYD2p0ZC2jTpV2xbH-oV4q0y7A7GjcXAnaJ1MywXJUNwnkcjJwvzeHXcEXzBb1Buu4v87aQ7-I8Xs2B3fBYOZU1xDl1CwGX6HodnRLfDu8l6AvLIT-eZzcpR3X7)/dm/3/x856hbh/s/live-480.m3u8#cell=lcf-eu-north-1a
 #EXTINF:-1 group-title="egypt",الحياه
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="egybt",نيل دراما
