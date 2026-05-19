@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="news",الحوار
+https://live.alawla.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="news",الحوار
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="news",الحوار
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="news",الحوار
+https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
