@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="news",الحوار
-https://live.alawla.tv/hls/stream.m3u8
-#EXTINF:-1 group-title="news",الحوار
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="news",الحوار
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="news",الحوار
-https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -149,8 +141,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="movies",اجيال
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="movies",روتانا  السعوديه
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -237,6 +227,14 @@ https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="news",شمس
 https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="news",الاولى
+https://live.alawla.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="news",skynews
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="news",الاخباريه الجزائريه
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="news",i24
+https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8
 #EXTINF:-1 group-title="news",الخليج
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
