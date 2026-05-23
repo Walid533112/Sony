@@ -13,8 +13,6 @@ https://cdn.streamlane.tv/hls/ltv/master.m3u8
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 group-title="syria",سوريا one
 https://live.syriaone.tv/live/syriaone.m3u8
-#EXTINF:-1 group-title="kurd",zagrostv
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1686610866_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="syria",اذاعه دمشق
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 group-title="mbc",mbc 1
@@ -141,8 +139,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="movies",اجيال
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_720p/chunks.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -287,6 +283,34 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
+EXTINF:-1 group-title="kurd",zagrostv
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1686610866_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://kogafile.com/proxy/ala.php?file=playlist.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://www.eurokurd.tv/proxy.php?tail=playlist.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://kogafile.com/proxy/khak.php?file=playlist.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1655834043_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="kurd",zagrostv
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 group-title="kurd",kurdish
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 group-title="kurd",ava2
+https://ava2.store/upload/images/720.m3u8
+#EXTINF:-1 group-title="kurd",k24
+https://kogafile.com/proxy/k24.php?file=index_720p25.m3u8
+#EXTINF:-1 group-title="kurd",rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:0 CUID="4825" tvg-name="Radio Bremen" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Radio Bremen
