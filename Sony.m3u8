@@ -154,7 +154,7 @@ http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 group-title="arabic",العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",الاردن
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 group-title="Jordan",الاردن ارشيف
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",الاردن دراما
