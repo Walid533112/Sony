@@ -145,6 +145,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="movies",اجيال
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا كوميدي
+https://video1.getstreamhosting.com:1936/8320/8320/chunklist_w432781737.m3u8
+#EXTINF:-1 group-title="rotana",روتانا كوميدي
+https://live.presstv.ir/hls/ifilmar_2_482/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
