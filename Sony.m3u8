@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="syria",انا سوريا
-https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel215/index.m3u8
-#EXTINF:-1 group-title="syria",روتانا
-http://185.9.2.18/chid_288/mono.m3u8
-#EXTINF:-1 group-title="syria",روتانا
-http://185.9.2.18/chid_290/mono.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -153,6 +147,10 @@ http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/chunklist_w432781737.m3u8
 #EXTINF:-1 group-title="movies",ifilm
 https://live.presstv.ir/hls/ifilmar_2_482/index.m3u8
+#EXTINF:-1 group-title="rotana",روتانا سينما
+http://185.9.2.18/chid_288/mono.m3u8
+#EXTINF:-1 group-title="rotana",روتانا سينما
+http://185.9.2.18/chid_290/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
