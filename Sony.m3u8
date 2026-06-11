@@ -296,13 +296,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="kids",براعم
 http://apk.arabic-ch.space/live/078/index.m3u8
+#EXTINF:-1 group-title="sport",alkaas 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 3
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 group-title="sport",alkaas 7
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (1080p)
@@ -376,16 +384,6 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="mbc",mbc 2
-https://live.redtraffic.net/hardcore.m3u8
-#EXTINF:-1 group-title="mbc",mbc 2
-https://edge-hls.saawsedge.com/hls/162115992/master/162115992_480p.m3u8
-#EXTINF:-1 group-title="mbc",mbc 2
-https://edge-hls.saawsedge.com/hls/93563283/master/93563283_480p.m3u8
-#EXTINF:-1 group-title="mbc",mbc 2
-https://webtvstream.bhtelecom.ba/eroxxx.m3u8
-#EXTINF:-1 group-title="mbc",mbc 2
-https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 
 
 #EXTINF:0 CUID="4841" tvg-name="RTL 1" tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
