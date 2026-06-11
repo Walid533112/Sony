@@ -33,12 +33,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="mbc",mbcبوليود
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="bein",bein movies3
-http://apk.arabic-ch.space/live/078/index.m3u8
-#EXTINF:-1 group-title="bein",bein action
-http://apk.arabic-ch.space/live/077/index.m3u8
-#EXTINF:-1 group-title="bein",bein drama
-http://apk.arabic-ch.space/live/072/index.m3u8
 #EXTINF:-1 group-title="mbc",zee alwan
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="movies",ميكس هوليود
