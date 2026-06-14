@@ -138,8 +138,6 @@ https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1 group-title="art",افلام 1
-https://kool.to/play/4253644469/index.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
 http://185.9.2.18/chid_288/mono.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
@@ -240,8 +238,6 @@ https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="kids",cartoonnetwork
-https://kool.to/play/615230777/index.m3u8
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 group-title="kids",بهاء
