@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="sport",bein
-https://vavoo.to/play/1350319136/index.m3u8
 #EXTINF:-1 group-title="syria",السوريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
@@ -249,8 +247,6 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 group-title="kids",ماجد
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15197/index.m3u8
-#EXTINF:-1 group-title="kids",ماجد
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15202/index.m3u8
 #EXTINF:-1 group-title="kids",بهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
@@ -270,9 +266,7 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist/0.m3u8
 #EXTINF:-1 group-title="kids",رؤيا اورجنال الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1 group-title="kids",nicktoons
-https://nl-081-v1.vivocdn.xyz/1781485708/f26e593aaafa4b7ca0d5d9ef110a2fea/6NpawWTvJdy6qM3WaZgUVXn6cyPTDIDTddsZw7npDp8/nicktoons-usa.m3u8
-#EXTINF:-1 group-title="syria",cartonnetwork
+#EXTINF:-1 group-title="syria",cartoon network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31298/index.m3u8
 #EXTINF:-1 group-title="kids",kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
@@ -282,12 +276,8 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="kids",babysharktv
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="kids",trt çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="kids",trt çocuk diyanet
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="kids",beby shark
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="kids",kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 group-title="kids",kids2
@@ -298,8 +288,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="kids",kids5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1 group-title="kids",براعم
-http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="sport",alkaas 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 group-title="sport",alkaas 2
