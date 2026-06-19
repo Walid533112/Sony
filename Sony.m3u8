@@ -379,6 +379,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="france",M6
 https://kool.to/play/2264106144/index.m3u8
-
+#EXTINF:-1 group-title="franc",action
+https://kool.to/play/3400101484/index.m3u8
  
 
