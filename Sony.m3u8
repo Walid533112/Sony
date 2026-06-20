@@ -19,6 +19,8 @@ https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15198/index.m3u8
+#EXTINF:-1 group-title="mbc",mbc max
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15195/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc action
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15197/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc 4
@@ -266,7 +268,7 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist/0.m3u8
 #EXTINF:-1 group-title="kids",رؤيا اورجنال الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1 group-title="syria",cartoon network
+#EXTINF:-1 group-title="kids",cartoon network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31298/index.m3u8
 #EXTINF:-1 group-title="kids",kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
@@ -377,14 +379,4 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="france",M6
-https://kool.to/play/2264106144/index.m3u8
-#EXTINF:-1 group-title="franc",action
-https://kool.to/play/3400101484/index.m3u8
-#EXTINF:-1 group-title="franc",AB1
-https://kool.to/play/2833341917/index.m3u8
-#EXTINF:-1 group-title="franc",cine+famiz
-https://kool.to/play/3051821190/index.m3u8
-#EXTINF:-1 group-title="franc",action
-https://kool.to/play/3400101484/index.m3u8
 
