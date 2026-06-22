@@ -304,7 +304,18 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 group-title="sport",alkaas 7
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-
+#EXTINF:-1 group-title="franc",cstar
+http://145.239.5.177/361/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",teva
+http://145.239.5.177/356/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",cine premier
+http://145.239.5.177/349/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",canal+
+http://145.239.5.177/341/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",cine emotio
+http://145.239.5.177/337/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",cherie
+http://145.239.5.177/333/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (1080p)
