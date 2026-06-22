@@ -328,7 +328,30 @@ http://145.239.5.177/329/tracks-v1a1/mono.m3u8
 http://145.239.5.177/322/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="franc",cine famiz
 http://145.239.5.177/321/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/315/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/318/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/319/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/320/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/355/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/300/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/305/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/306/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/308/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://37.187.138.41/TF-un-serie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",action
+http://145.239.5.177/314/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
