@@ -316,6 +316,21 @@ http://145.239.5.177/341/tracks-v1a1/mono.m3u8
 http://145.239.5.177/337/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="franc",cherie
 http://145.239.5.177/333/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",AB1
+http://145.239.5.177/332/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",W9
+http://145.239.5.177/331/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",la trois
+http://145.239.5.177/330/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",la une
+http://145.239.5.177/329/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",canal+HD
+http://145.239.5.177/322/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="franc",cine famiz
+http://145.239.5.177/321/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (1080p)
