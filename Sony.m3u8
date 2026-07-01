@@ -11,18 +11,18 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 group-title="kurd",اليوم
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-#EXTINF:-1 group-title="syria",سوريا one
-https://live.syriaone.tv/live/syriaone.m3u8
+
+
 #EXTINF:-1 group-title="syria",اذاعه دمشق
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 group-title="mbc",mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15198/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15198/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc max
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15195/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc action
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15197/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15197/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="mbc",mbc 5
@@ -49,8 +49,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15201/ind
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AUE",الفجيره
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="AUE",الشارقه
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="AUE",الوسطى
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AUE",الشرقيه من كلباء
@@ -248,20 +247,14 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="kids",ماجد
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15202/index.m3u8
-#EXTINF:-1 group-title="kids",بهاء
-http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 group-title="kids",براعم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
+
 #EXTINF:-1 group-title="kids",مرايا اطفال
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",عمو يزيد
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="kids",روتانا اطفال
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1 group-title="kids",roya kids
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+
 #EXTINF:-1 group-title="kids",رؤيا الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="kids",رؤيا قصص
