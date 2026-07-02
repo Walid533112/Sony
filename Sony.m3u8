@@ -11,8 +11,6 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 group-title="kurd",اليوم
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-
-
 #EXTINF:-1 group-title="syria",اذاعه دمشق
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 group-title="mbc",mbc 1
@@ -43,13 +41,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 group-title="AUE",الامارات
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/15201/index.m3u8
 #EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AUE",الفجيره
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="AUE",الوسطى
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AUE",الشرقيه من كلباء
@@ -80,8 +73,6 @@ http://185.9.2.18/chid_352/mono.m3u8
 http://185.9.2.18/chid_680/mono.m3u8
 #EXTINF:-1 group-title="egypt",dmc دراما
 http://185.9.2.18/chid_3741/mono.m3u8
-#EXTINF:-1 group-title="egypt",النهار دراما
-http://185.9.2.18/chid_518/mono.m3u8
 #EXTINF:-1 group-title="egypt",نيل سينما
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="egypt",on
@@ -247,14 +238,12 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-
 #EXTINF:-1 group-title="kids",مرايا اطفال
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",عمو يزيد
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="kids",روتانا اطفال
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-
 #EXTINF:-1 group-title="kids",رؤيا الاطفال
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="kids",رؤيا قصص
@@ -345,13 +334,10 @@ http://145.239.5.177/308/tracks-v1a1/mono.m3u8
 http://37.187.138.41/TF-un-serie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="franc",action
 http://145.239.5.177/314/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (1080p)
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlGhadTV.eg@SD" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="News",Al Ghad TV (1080p)
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath (1080p)
@@ -413,7 +399,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="General",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-
 #EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Culture",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News",Oman Mubashir (1080p)
