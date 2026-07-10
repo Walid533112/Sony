@@ -240,6 +240,8 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 group-title="kids",mbc3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="kids",ماجد
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15202/index.m3u8
 #EXTINF:-1 group-title="kids",مرايا اطفال
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="kids",عمو يزيد
@@ -254,9 +256,9 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playl
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 group-title="kids",cartoon network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31298/index.m3u8
-#EXTINF:-1 group-title="kids",ديزني جونيور
+#EXTINF:-1 group-title="kids",disny 
 http://116.90.120.157:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="kids",ديزني
+#EXTINF:-1 group-title="kids",disny
 http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 group-title="kids",kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
