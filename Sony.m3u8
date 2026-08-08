@@ -133,9 +133,7 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 group-title="rotana",روتانا سينما
-
 #EXTINF:-1 group-title="rotana",روتاناسينمامصر
-
 #EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="rotana",روتانا كلاسيك
@@ -158,48 +156,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="Roya",رؤيا كوميدي
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 group-title="Roya",رؤيا دراما
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 group-title="Roya",مرايا
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
-#EXTINF:-1 group-title="Roya",إنتاجات رؤيا
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
-#EXTINF:-1 group-title="Roya",كرفان
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
-#EXTINF:-1 group-title="Roya",حول العالم
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
-#EXTINF:-1 group-title="Roya",حكي منوّع
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
-#EXTINF:-1 group-title="Roya",مغامرات
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
-#EXTINF:-1 group-title="Roya",حلوة يا دنيا
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8
-#EXTINF:-1 group-title="Roya",العالم الكبير
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
-#EXTINF:-1 group-title="Roya",جلطة
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
-#EXTINF:-1 group-title="Roya",وطن ع وتر
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
-#EXTINF:-1 group-title="Roya",مسرحيات
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
-#EXTINF:-1 group-title="Roya",أنا بحكيلك القصة
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
-#EXTINF:-1 group-title="Roya",الزعيم
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
-#EXTINF:-1 group-title="Roya",أيمن زيدان
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
-#EXTINF:-1 group-title="Roya",نادين نجيم
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8
-#EXTINF:-1 group-title="Roya",حارة القبة
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
-#EXTINF:-1 group-title="Roya",بيئة شامية
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
-#EXTINF:-1 group-title="Roya",أكشن
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
-#EXTINF:-1 group-title="Roya",الهيبة
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
 #EXTINF:-1 group-title="Roya",Documentaries
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 #EXTINF:-1 group-title="news",الجزيره
@@ -224,8 +180,6 @@ https://live.alawla.tv/hls/stream.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="news",الاخباريه الجزائريه
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="news",i24
-https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8
 #EXTINF:-1 group-title="news",الخليج
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق ديسكفري
@@ -244,22 +198,10 @@ https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_sour
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="kids",روتانا اطفال
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1 group-title="kids",رؤيا الاطفال
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 group-title="kids",رؤيا قصص
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist/0.m3u8
-#EXTINF:-1 group-title="kids",رؤيا اورجنال الاطفال
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 group-title="kids",cartoon network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31298/index.m3u8
-#EXTINF:-1 group-title="kids",disny 
-http://116.90.120.157:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="kids",disny
-http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 group-title="kids",togoo DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6063/index.m3u8
-#EXTINF:-1 group-title="kids",cartoonito DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15175/index.m3u8
 #EXTINF:-1 group-title="kids",nickelodeon DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31351/index.m3u8
 #EXTINF:-1 group-title="kids",kika DE
