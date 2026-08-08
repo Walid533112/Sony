@@ -168,6 +168,8 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="news",الاخباريه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 group-title="news",الاخباريه السوريه
+http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 group-title="news",سوريا
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="news",الحوار
