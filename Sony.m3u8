@@ -292,3 +292,11 @@ http://145.239.5.177/314/tracks-v1a1/mono.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/5901294c5d0ab71c3e7ccd2a8b288d36/3/3.m3u8
 #EXTINF:-1 group-title="RTL",PHONEX
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/2c314bb11c0bf309c65d6e67dd69f67a/1/1.m3u8
+
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/2c314bb11c0bf309c65d6e67dd69f67a/3/3.m3u8
+
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/2c314bb11c0bf309c65d6e67dd69f67a/4/4.m3u8
+
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/2c314bb11c0bf309c65d6e67dd69f67a/7/7.m3u8
