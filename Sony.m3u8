@@ -427,14 +427,12 @@ https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV (1080p)
-https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV Vitrina (720p)
 https://cdn.ntv.ru/vitrina/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ONTV (1080p)
-https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Orange Bangla TV (720p)
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Peace TV Bangla (1080p)
