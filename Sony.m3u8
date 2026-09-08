@@ -35,8 +35,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="mbc",mbcبوليود
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="mbc",zee alwan
-http://93.184.10.248/ZeeAlwan/index.m3u8
+
 #EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="AUE",دبي
@@ -61,18 +60,12 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.
 http://185.9.2.18/chid_6300/mono.m3u8
 #EXTINF:-1 group-title="egypt",2المصريه
 http://185.9.2.18/chid_247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="egypt",الحياه
-http://185.9.2.18/chid_659/mono.m3u8
-#EXTINF:-1 group-title="egypt",نيل دراما
-http://185.9.2.18/chid_352/mono.m3u8
+
 #EXTINF:-1 group-title="egypt",cbc دراما
 http://185.9.2.18/chid_680/mono.m3u8
 #EXTINF:-1 group-title="egypt",dmc دراما
 http://185.9.2.18/chid_3741/mono.m3u8
-#EXTINF:-1 group-title="egypt",نيل سينما
-http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="egypt",on
-http://185.9.2.18/chid_616/mono.m3u8
+
 #EXTINF:-1 group-title="tunsia",الوطنيه1
 https://sw1.tanitweb.net/TunisiaTV/watania1/index.m3u8
 #EXTINF:-1 group-title="tunsia",الوطنيه2
@@ -87,8 +80,7 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ksa",السعوديه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 group-title="ksa",ذكريات
-https://aloula-redirect.vercel.app/3/playlist.m3u8
+
 #EXTINF:-1 group-title="ksa",السعوديه الثقافيه
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ksa",sbc
@@ -127,23 +119,16 @@ http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/chunklist_w432781737.m3u8
 #EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Series",Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
-#EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="Music",Marina TV (1080p)
 #EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1 group-title="rotana",روتانا سينما
-#EXTINF:-1 group-title="rotana",روتاناسينمامصر
-#EXTINF:-1 group-title="rotana",روتانا افلام
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
-#EXTINF:-1 group-title="rotana",روتانا كلاسيك
-http://185.9.2.18/chid_286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="rotana",روتانا دراما
-http://185.9.2.18/chid_2179/mono.m3u8
+
+
 #EXTINF:-1 group-title="rotana",روتانا كوميدي
 http://185.9.2.18/chid_5224/mono.m3u8
-#EXTINF:-1 group-title="rotana",lbc
-http://185.9.2.18/chid_327/mono.m3u8
+
 #EXTINF:-1 group-title="arabic",العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",الاردن
@@ -156,8 +141,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 group-title="Jordan",عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="Roya",Documentaries
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 #EXTINF:-1 group-title="news",الجزيره
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="news",العربيه
