@@ -37,16 +37,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="movies",ميكس هوليود
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 group-title="rotana",روتانا سينما
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_720p/chunks.m3u8
-#EXTINF:-1 group-title="news",روتاناسينمامصر
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_720p/chunks.m3u8
-#EXTINF:-1 group-title="rotana",روتانا كلاسيك
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_720p/chunks.m3u8
-#EXTINF:-1 group-title="rotana",روتانادراما
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_720p/chunks.m3u8
-#EXTINF:-1 group-title="rotana",lbc
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AUE",الوسطى
