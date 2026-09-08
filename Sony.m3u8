@@ -45,6 +45,8 @@ https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/ci
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_720p/chunks.m3u8
 #EXTINF:-1 group-title="rotana",روتانادراما
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_720p/chunks.m3u8
+#EXTINF:-1 group-title="rotana",lbc
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="AUE",دبي
 http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AUE",الوسطى
