@@ -65,6 +65,8 @@ http://185.9.2.18/chid_247/tracks-v1a1/mono.m3u8
 http://185.9.2.18/chid_680/mono.m3u8
 #EXTINF:-1 group-title="egypt",dmc دراما
 http://185.9.2.18/chid_3741/mono.m3u8
+#EXTINF:-1 group-title="yemen",اليمن اليوم
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="tunsia",الوطنيه1
 https://sw1.tanitweb.net/TunisiaTV/watania1/index.m3u8
 #EXTINF:-1 group-title="tunsia",الوطنيه2
@@ -170,6 +172,10 @@ https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="وثائقي",الشرق الوثائقيه
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="وثائقي",wildearth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 group-title="وثائقي",viasat classic
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 group-title="kids",spacetoon
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 group-title="kids",mbc3
@@ -208,4 +214,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="kids",kids5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="turk",yoltv
+https://live.yoltv.com/hls/stream.m3u8
 
