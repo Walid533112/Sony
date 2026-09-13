@@ -49,7 +49,9 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="israel",مكان
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/2381/index.m3u8
-#EXTINF:-1 group-title="lebanon",lbc int
+#EXTINF:-1 tvg-id="LBC.sa@SD" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" group-title="General",LBC (576p)
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="General",LBC International (1080p)
 http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 group-title="lebanon",mtv
 http://185.9.2.18/chid_387/mono.m3u8
