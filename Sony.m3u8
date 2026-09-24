@@ -397,3 +397,12 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 group-title="turk",atv alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZEA" group-title="Channels", ZEA Live
+#EXTVLCOPT:demux=dash
+#EXTVLCOPT:clearkey-keys=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ZEA/wv-pr/manifest.mpd
+
