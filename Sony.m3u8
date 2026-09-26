@@ -397,12 +397,23 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 group-title="turk",atv alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ZEA" group-title="Channels", ZEA Live
-#EXTVLCOPT:demux=dash
-#EXTVLCOPT:clearkey-keys=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ZEA/wv-pr/manifest.mpd
-
+#EXTINF:-1 group-title="iran",ifilm2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 group-title="turk",ifilm
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="turk",تركمان
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="turk",تركمان
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="spor",الكويت الرياضيه
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="spor",الكويت الرياضيه
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="spor",الكاس2
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_1080p_ts/hdntl=exp=1790500187~acl=%2F*~data=hdntl~hmac=78e1de2ac29bf50ed5f50641a7684a8f948eee1aa77dbdbd180a95b7cfad25e9/index-1.m3u8
+#EXTINF:-1 group-title="spor",البحرين الرياضيه
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="spor",رياضيه
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="spor",رياضيه
+https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
