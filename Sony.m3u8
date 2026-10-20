@@ -3,8 +3,6 @@
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 group-title="syria",سوريا الثانيه
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 group-title="syria",برايم
-https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 group-title="syria",حلب اليوم
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="syria",لنا
@@ -417,3 +415,5 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="spor",رياضيه
 https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 group-title="syria",برايم
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
