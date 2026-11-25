@@ -417,224 +417,54 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 group-title="syria",برايم
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC 5 HD" group-title="AR | MyHD & eLife",MyHD: MBC 5 HD
-http://iptvgo.cc:80/live/De123/De123/641707
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC ACTION HD" group-title="AR | MyHD & eLife",MyHD: MBC ACTION HD
-http://iptvgo.cc:80/live/De123/De123/641706
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC BOLLYWOOD HD" group-title="AR | MyHD & eLife",MyHD: MBC BOLLYWOOD HD
-http://iptvgo.cc:80/live/De123/De123/641705
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC DRAMA HD" group-title="AR | MyHD & eLife",MyHD: MBC DRAMA HD
-http://iptvgo.cc:80/live/De123/De123/641704
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC MASR HD" group-title="AR | MyHD & eLife",MyHD: MBC MASR HD
-http://iptvgo.cc:80/live/De123/De123/641703
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC MASR 2 HD" group-title="AR | MyHD & eLife",MyHD: MBC MASR 2 HD
-http://iptvgo.cc:80/live/De123/De123/641702
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC IRAQ HD" group-title="AR | MyHD & eLife",MyHD: MBC IRAQ HD
-http://iptvgo.cc:80/live/De123/De123/641701
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC MAX HD" group-title="AR | MyHD & eLife",MyHD: MBC MAX HD
-http://iptvgo.cc:80/live/De123/De123/641700
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC+ DRAMA HD" group-title="AR | MyHD & eLife",MyHD: MBC+ DRAMA HD
-http://iptvgo.cc:80/live/De123/De123/641699
-#EXTINF:-1 tvg-id="641698" tvg-name="MyHD: MBC+ eLIFE HD" group-title="AR | MyHD & eLife",MyHD: MBC+ eLIFE HD
-http://iptvgo.cc:80/live/De123/De123/641698
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: MBC+ VARIETY HD" group-title="AR | MyHD & eLife",MyHD: MBC+ VARIETY HD
-http://iptvgo.cc:80/live/De123/De123/641697
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA CINEMA EGY HD" group-title="AR | MyHD & eLife",MyHD: ROTANA CINEMA EGY HD
-http://iptvgo.cc:80/live/De123/De123/641696
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA CINEMA KSA HD" group-title="AR | MyHD & eLife",MyHD: ROTANA CINEMA KSA HD
-http://iptvgo.cc:80/live/De123/De123/641695
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA CLASSIC HD" group-title="AR | MyHD & eLife",MyHD: ROTANA CLASSIC HD
-http://iptvgo.cc:80/live/De123/De123/641694
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA COMEDY HD" group-title="AR | MyHD & eLife",MyHD: ROTANA COMEDY HD
-http://iptvgo.cc:80/live/De123/De123/641693
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA DRAMA HD" group-title="AR | MyHD & eLife",MyHD: ROTANA DRAMA HD
-http://iptvgo.cc:80/live/De123/De123/641692
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA KHALIJIAH HD" group-title="AR | MyHD & eLife",MyHD: ROTANA KHALIJIAH HD
-http://iptvgo.cc:80/live/De123/De123/641691
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA KIDS HD" group-title="AR | MyHD & eLife",MyHD: ROTANA KIDS HD
-http://iptvgo.cc:80/live/De123/De123/641690
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA MUSIC HD" group-title="AR | MyHD & eLife",MyHD: ROTANA MUSIC HD
-http://iptvgo.cc:80/live/De123/De123/641689
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA+ HD" group-title="AR | MyHD & eLife",MyHD: ROTANA+ HD
-http://iptvgo.cc:80/live/De123/De123/641688
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA AFLAM+ HD" group-title="AR | MyHD & eLife",MyHD: ROTANA AFLAM+ HD
-http://iptvgo.cc:80/live/De123/De123/641687
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA M+ FHD" group-title="AR | MyHD & eLife",MyHD: ROTANA M+ FHD
-http://iptvgo.cc:80/live/De123/De123/641686
-#EXTINF:-1 tvg-id="" tvg-name="MyHD: ROTANA CLIP HD" group-title="AR | MyHD & eLife",MyHD: ROTANA CLIP HD
-http://iptvgo.cc:80/live/De123/De123/641685
-#EXTINF:-1 tvg-id="641683" tvg-name="MyHD: AL-MAJD TV GENERAL قناة المجد العامة" group-title="AR | MyHD & eLife",MyHD: AL-MAJD TV GENERAL قناة المجد العامة
-http://iptvgo.cc:80/live/De123/De123/641683
-#EXTINF:-1 tvg-id="641682" tvg-name="MyHD: AL-MAJD NEWS قناة المجد الاخبارية" group-title="AR | MyHD & eLife",MyHD: AL-MAJD NEWS قناة المجد الاخبارية
-http://iptvgo.cc:80/live/De123/De123/641682
-#EXTINF:-1 tvg-id="641681" tvg-name="MyHD: AL-MAJD HOLY QURAN قناة المجد للقرآن الكريم" group-title="AR | MyHD & eLife",MyHD: AL-MAJD HOLY QURAN قناة المجد للقرآن الكريم
-http://iptvgo.cc:80/live/De123/De123/641681
-#EXTINF:-1 tvg-id="641680" tvg-name="MyHD: AL-MAJD AL HADEETH AL NABAWY قناة المجد للحديث النبوي" group-title="AR | MyHD & eLife",MyHD: AL-MAJD AL HADEETH AL NABAWY قناة المجد للحديث النبوي
-http://iptvgo.cc:80/live/De123/De123/641680
-#EXTINF:-1 tvg-id="641679" tvg-name="MyHD: AL-MAJD KIDS TV قناة المجد للأطفال" group-title="AR | MyHD & eLife",MyHD: AL-MAJD KIDS TV قناة المجد للأطفال
-http://iptvgo.cc:80/live/De123/De123/641679
-#EXTINF:-1 tvg-id="641678" tvg-name="MyHD: AL-MAJD DOCUMENTARY قناة المجد الوثائقية" group-title="AR | MyHD & eLife",MyHD: AL-MAJD DOCUMENTARY قناة المجد الوثائقية
-http://iptvgo.cc:80/live/De123/De123/641678
-#EXTINF:-1 tvg-id="641677" tvg-name="MyHD: AL-MAJD AL TABEEAIYAH قناة المجد الطبيعية" group-title="AR | MyHD & eLife",MyHD: AL-MAJD AL TABEEAIYAH قناة المجد الطبيعية
-http://iptvgo.cc:80/live/De123/De123/641677
-#EXTINF:-1 tvg-id="641676" tvg-name="MyHD: AL-MAJD SCIENTIFIC قناة المجد العلمية" group-title="AR | MyHD & eLife",MyHD: AL-MAJD SCIENTIFIC قناة المجد العلمية
-http://iptvgo.cc:80/live/De123/De123/641676
-#EXTINF:-1 tvg-id="641675" tvg-name="MyHD: AL-MAJD RAWDAH TV قناة روضة للأطفال" group-title="AR | MyHD & eLife",MyHD: AL-MAJD RAWDAH TV قناة روضة للأطفال
-http://iptvgo.cc:80/live/De123/De123/641675
-#EXTINF:-1 tvg-id="641674" tvg-name="MyHD: AL-MAJD BESMA TV قناة بسمة للأطفال" group-title="AR | MyHD & eLife",MyHD: AL-MAJD BESMA TV قناة بسمة للأطفال
-http://iptvgo.cc:80/live/De123/De123/641674
-#EXTINF:-1 tvg-id="641673" tvg-name="MyHD: AL-MAJD TAGHARID TV  قناة تغاريد الإنشادية" group-title="AR | MyHD & eLife",MyHD: AL-MAJD TAGHARID TV  قناة تغاريد الإنشادية
-http://iptvgo.cc:80/live/De123/De123/641673
-#EXTINF:-1 tvg-id="641672" tvg-name="MyHD: ST Cinema" group-title="AR | MyHD & eLife",MyHD: ST Cinema
-http://iptvgo.cc:80/live/De123/De123/641672
-#EXTINF:-1 tvg-id="641671" tvg-name="MyHD: ST Drama" group-title="AR | MyHD & eLife",MyHD: ST Drama
-http://iptvgo.cc:80/live/De123/De123/641671
-#EXTINF:-1 tvg-id="641670" tvg-name="MyHD: ST Family" group-title="AR | MyHD & eLife",MyHD: ST Family
-http://iptvgo.cc:80/live/De123/De123/641670
-#EXTINF:-1 tvg-id="641669" tvg-name="MyHD: ST Kids HD" group-title="AR | MyHD & eLife",MyHD: ST Kids HD
-http://iptvgo.cc:80/live/De123/De123/641669
-#EXTINF:-1 tvg-id="641668" tvg-name="MyHD: SZ Action" group-title="AR | MyHD & eLife",MyHD: SZ Action
-http://iptvgo.cc:80/live/De123/De123/641668
-#EXTINF:-1 tvg-id="641667" tvg-name="MyHD: SZ Comedy" group-title="AR | MyHD & eLife",MyHD: SZ Comedy
-http://iptvgo.cc:80/live/De123/De123/641667
-#EXTINF:-1 tvg-id="641666" tvg-name="MyHD: SZ Movies" group-title="AR | MyHD & eLife",MyHD: SZ Movies
-http://iptvgo.cc:80/live/De123/De123/641666
-#EXTINF:-1 tvg-id="641665" tvg-name="MyHD: SZ Series" group-title="AR | MyHD & eLife",MyHD: SZ Series
-http://iptvgo.cc:80/live/De123/De123/641665
-#EXTINF:-1 tvg-id="641664" tvg-name="JAW| TCM HD" group-title="AR | MyHD & eLife",JAW| TCM HD
-http://iptvgo.cc:80/live/De123/De123/641664
-#EXTINF:-1 tvg-id="641663" tvg-name="MyHD: Movies" group-title="AR | MyHD & eLife",MyHD: Movies
-http://iptvgo.cc:80/live/De123/De123/641663
-#EXTINF:-1 tvg-id="641662" tvg-name="MyHD: Movies Action" group-title="AR | MyHD & eLife",MyHD: Movies Action
-http://iptvgo.cc:80/live/De123/De123/641662
-#EXTINF:-1 tvg-id="641661" tvg-name="MyHD: Movies Threller" group-title="AR | MyHD & eLife",MyHD: Movies Threller
-http://iptvgo.cc:80/live/De123/De123/641661
-#EXTINF:-1 tvg-id="641660" tvg-name="MyHD: FILMBOX HD" group-title="AR | MyHD & eLife",MyHD: FILMBOX HD
-http://iptvgo.cc:80/live/De123/De123/641660
-#EXTINF:-1 tvg-id="641659" tvg-name="MyHD: FILMBOX PREMIUM HD" group-title="AR | MyHD & eLife",MyHD: FILMBOX PREMIUM HD
-http://iptvgo.cc:80/live/De123/De123/641659
-#EXTINF:-1 tvg-id="641658" tvg-name="MyHD: FILMBOX ACTION HD" group-title="AR | MyHD & eLife",MyHD: FILMBOX ACTION HD
-http://iptvgo.cc:80/live/De123/De123/641658
-#EXTINF:-1 tvg-id="641657" tvg-name="MyHD: FILMBOX FAMILY HD" group-title="AR | MyHD & eLife",MyHD: FILMBOX FAMILY HD
-http://iptvgo.cc:80/live/De123/De123/641657
-#EXTINF:-1 tvg-id="641656" tvg-name="MyHD: FILMBOX ARTHOUSE HD" group-title="AR | MyHD & eLife",MyHD: FILMBOX ARTHOUSE HD
-http://iptvgo.cc:80/live/De123/De123/641656
-#EXTINF:-1 tvg-id="641655" tvg-name="MyHD: REELPX ACTION" group-title="AR | MyHD & eLife",MyHD: REELPX ACTION
-http://iptvgo.cc:80/live/De123/De123/641655
-#EXTINF:-1 tvg-id="641654" tvg-name="MyHD: Bollywood Classic" group-title="AR | MyHD & eLife",MyHD: Bollywood Classic
-http://iptvgo.cc:80/live/De123/De123/641654
-#EXTINF:-1 tvg-id="641653" tvg-name="MyHD: Aflam" group-title="AR | MyHD & eLife",MyHD: Aflam
-http://iptvgo.cc:80/live/De123/De123/641653
-#EXTINF:-1 tvg-id="641652" tvg-name="MyHD: STAR LIFE HD" group-title="AR | MyHD & eLife",MyHD: STAR LIFE HD
-http://iptvgo.cc:80/live/De123/De123/641652
-#EXTINF:-1 tvg-id="641651" tvg-name="MyHD: ASHARQ DISCOVERY HD" group-title="AR | MyHD & eLife",MyHD: ASHARQ DISCOVERY HD
-http://iptvgo.cc:80/live/De123/De123/641651
-#EXTINF:-1 tvg-id="641650" tvg-name="MyHD: ASHARQ DOCUMENTARY HD" group-title="AR | MyHD & eLife",MyHD: ASHARQ DOCUMENTARY HD
-http://iptvgo.cc:80/live/De123/De123/641650
-#EXTINF:-1 tvg-id="641649" tvg-name="MyHD: DISCOVERY FAMILY HD" group-title="AR | MyHD & eLife",MyHD: DISCOVERY FAMILY HD
-http://iptvgo.cc:80/live/De123/De123/641649
-#EXTINF:-1 tvg-id="641648" tvg-name="MyHD: NATURE TIME HD" group-title="AR | MyHD & eLife",MyHD: NATURE TIME HD
-http://iptvgo.cc:80/live/De123/De123/641648
-#EXTINF:-1 tvg-id="641647" tvg-name="MyHD: My Animal Planet HD" group-title="AR | MyHD & eLife",MyHD: My Animal Planet HD
-http://iptvgo.cc:80/live/De123/De123/641647
-#EXTINF:-1 tvg-id="641646" tvg-name="MyHD: Nat Geo HD" group-title="AR | MyHD & eLife",MyHD: Nat Geo HD
-http://iptvgo.cc:80/live/De123/De123/641646
-#EXTINF:-1 tvg-id="641645" tvg-name="MyHD: NAT GEO WILD HD" group-title="AR | MyHD & eLife",MyHD: NAT GEO WILD HD
-http://iptvgo.cc:80/live/De123/De123/641645
-#EXTINF:-1 tvg-id="641644" tvg-name="MyHD: DOCUBOX HD" group-title="AR | MyHD & eLife",MyHD: DOCUBOX HD
-http://iptvgo.cc:80/live/De123/De123/641644
-#EXTINF:-1 tvg-id="641643" tvg-name="MyHD: NAUTICAL CHANNEL HD" group-title="AR | MyHD & eLife",MyHD: NAUTICAL CHANNEL HD
-http://iptvgo.cc:80/live/De123/De123/641643
-#EXTINF:-1 tvg-id="641642" tvg-name="MyHD: Althaqafiah" group-title="AR | MyHD & eLife",MyHD: Althaqafiah
-http://iptvgo.cc:80/live/De123/De123/641642
-#EXTINF:-1 tvg-id="641641" tvg-name="MyHD: Health And Wellness HD" group-title="AR | MyHD & eLife",MyHD: Health And Wellness HD
-http://iptvgo.cc:80/live/De123/De123/641641
-#EXTINF:-1 tvg-id="641640" tvg-name="MyHD: AL ARABIYA BUSINESS HD" group-title="AR | MyHD & eLife",MyHD: AL ARABIYA BUSINESS HD
-http://iptvgo.cc:80/live/De123/De123/641640
-#EXTINF:-1 tvg-id="641639" tvg-name="MyHD: Fashion HD" group-title="AR | MyHD & eLife",MyHD: Fashion HD
-http://iptvgo.cc:80/live/De123/De123/641639
-#EXTINF:-1 tvg-id="641638" tvg-name="MyHD: Fight BOX HD" group-title="AR | MyHD & eLife",MyHD: Fight BOX HD
-http://iptvgo.cc:80/live/De123/De123/641638
-#EXTINF:-1 tvg-id="641637" tvg-name="MyHD: FIGHT SPORTS" group-title="AR | MyHD & eLife",MyHD: FIGHT SPORTS
-http://iptvgo.cc:80/live/De123/De123/641637
-#EXTINF:-1 tvg-id="641636" tvg-name="MyHD: TOP GEAR HD" group-title="AR | MyHD & eLife",MyHD: TOP GEAR HD
-http://iptvgo.cc:80/live/De123/De123/641636
-#EXTINF:-1 tvg-id="641635" tvg-name="MyHD: WRESTLEMANIA HD" group-title="AR | MyHD & eLife",MyHD: WRESTLEMANIA HD
-http://iptvgo.cc:80/live/De123/De123/641635
-#EXTINF:-1 tvg-id="641634" tvg-name="MyHD: AWE HD" group-title="AR | MyHD & eLife",MyHD: AWE HD
-http://iptvgo.cc:80/live/De123/De123/641634
-#EXTINF:-1 tvg-id="641633" tvg-name="MyHD: FIGHTBOX HD" group-title="AR | MyHD & eLife",MyHD: FIGHTBOX HD
-http://iptvgo.cc:80/live/De123/De123/641633
-#EXTINF:-1 tvg-id="641632" tvg-name="MyHD: FIGHT NETWORK HD" group-title="AR | MyHD & eLife",MyHD: FIGHT NETWORK HD
-http://iptvgo.cc:80/live/De123/De123/641632
-#EXTINF:-1 tvg-id="641631" tvg-name="MyHD: 360 TUNE BOX HD" group-title="AR | MyHD & eLife",MyHD: 360 TUNE BOX HD
-http://iptvgo.cc:80/live/De123/De123/641631
-#EXTINF:-1 tvg-id="641630" tvg-name="MyHD: DIZI HD" group-title="AR | MyHD & eLife",MyHD: DIZI HD
-http://iptvgo.cc:80/live/De123/De123/641630
-#EXTINF:-1 tvg-id="641629" tvg-name="MyHD: DISNEY CHANNEL HD" group-title="AR | MyHD & eLife",MyHD: DISNEY CHANNEL HD
-http://iptvgo.cc:80/live/De123/De123/641629
-#EXTINF:-1 tvg-id="641628" tvg-name="MyHD: Disney Junior HD" group-title="AR | MyHD & eLife",MyHD: Disney Junior HD
-http://iptvgo.cc:80/live/De123/De123/641628
-#EXTINF:-1 tvg-id="641627" tvg-name="MyHD: Cinemachi Kids" group-title="AR | MyHD & eLife",MyHD: Cinemachi Kids
-http://iptvgo.cc:80/live/De123/De123/641627
-#EXTINF:-1 tvg-id="641626" tvg-name="MyHD: Duck TV" group-title="AR | MyHD & eLife",MyHD: Duck TV
-http://iptvgo.cc:80/live/De123/De123/641626
-#EXTINF:-1 tvg-id="641625" tvg-name="MyHD: Freej HD" group-title="AR | MyHD & eLife",MyHD: Freej HD
-http://iptvgo.cc:80/live/De123/De123/641625
-#EXTINF:-1 tvg-id="641624" tvg-name="MyHD: Lolly Kids" group-title="AR | MyHD & eLife",MyHD: Lolly Kids
-http://iptvgo.cc:80/live/De123/De123/641624
-#EXTINF:-1 tvg-id="641623" tvg-name="MyHD: Tiji" group-title="AR | MyHD & eLife",MyHD: Tiji
-http://iptvgo.cc:80/live/De123/De123/641623
-#EXTINF:-1 tvg-id="641622" tvg-name="MyHD: GULLI BIL ARABI HD" group-title="AR | MyHD & eLife",MyHD: GULLI BIL ARABI HD
-http://iptvgo.cc:80/live/De123/De123/641622
-#EXTINF:-1 tvg-id="641621" tvg-name="MyHD: ZOOMOO HD" group-title="AR | MyHD & eLife",MyHD: ZOOMOO HD
-http://iptvgo.cc:80/live/De123/De123/641621
-#EXTINF:-1 tvg-id="641620" tvg-name="MyHD: Alhisn HD" group-title="AR | MyHD & eLife",MyHD: Alhisn HD
-http://iptvgo.cc:80/live/De123/De123/641620
-#EXTINF:-1 tvg-id="641619" tvg-name="MyHD: B And Frein" group-title="AR | MyHD & eLife",MyHD: B And Frein
-http://iptvgo.cc:80/live/De123/De123/641619
-#EXTINF:-1 tvg-id="641618" tvg-name="MyHD: Desi Play HD" group-title="AR | MyHD & eLife",MyHD: Desi Play HD
-http://iptvgo.cc:80/live/De123/De123/641618
-#EXTINF:-1 tvg-id="641617" tvg-name="MyHD: Luxe And Life HD" group-title="AR | MyHD & eLife",MyHD: Luxe And Life HD
-http://iptvgo.cc:80/live/De123/De123/641617
-#EXTINF:-1 tvg-id="641616" tvg-name="AR| SHAHID CINEMA 1 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 1 FHD
-http://iptvgo.cc:80/live/De123/De123/641616
-#EXTINF:-1 tvg-id="641615" tvg-name="AR| SHAHID CINEMA 2 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 2 FHD
-http://iptvgo.cc:80/live/De123/De123/641615
-#EXTINF:-1 tvg-id="641614" tvg-name="AR| SHAHID CINEMA 3 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 3 FHD
-http://iptvgo.cc:80/live/De123/De123/641614
-#EXTINF:-1 tvg-id="641613" tvg-name="AR| SHAHID CINEMA 4 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 4 FHD
-http://iptvgo.cc:80/live/De123/De123/641613
-#EXTINF:-1 tvg-id="641612" tvg-name="AR| SHAHID CINEMA 5 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 5 FHD
-http://iptvgo.cc:80/live/De123/De123/641612
-#EXTINF:-1 tvg-id="641611" tvg-name="AR| SHAHID CINEMA 6 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 6 FHD
-http://iptvgo.cc:80/live/De123/De123/641611
-#EXTINF:-1 tvg-id="641610" tvg-name="AR| SHAHID CINEMA 7 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 7 FHD
-http://iptvgo.cc:80/live/De123/De123/641610
-#EXTINF:-1 tvg-id="641609" tvg-name="AR| SHAHID CINEMA 8 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 8 FHD
-http://iptvgo.cc:80/live/De123/De123/641609
-#EXTINF:-1 tvg-id="641608" tvg-name="AR| SHAHID CINEMA 9 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 9 FHD
-http://iptvgo.cc:80/live/De123/De123/641608
-#EXTINF:-1 tvg-id="641607" tvg-name="AR| SHAHID CINEMA 10 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 10 FHD
-http://iptvgo.cc:80/live/De123/De123/641607
-#EXTINF:-1 tvg-id="641606" tvg-name="AR| SHAHID CINEMA 11 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 11 FHD
-http://iptvgo.cc:80/live/De123/De123/641606
-#EXTINF:-1 tvg-id="641605" tvg-name="AR| SHAHID CINEMA 12 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 12 FHD
-http://iptvgo.cc:80/live/De123/De123/641605
-#EXTINF:-1 tvg-id="641604" tvg-name="AR| SHAHID CINEMA 13 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 13 FHD
-http://iptvgo.cc:80/live/De123/De123/641604
-#EXTINF:-1 tvg-id="641603" tvg-name="AR| SHAHID CINEMA 14 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 14 FHD
-http://iptvgo.cc:80/live/De123/De123/641603
-#EXTINF:-1 tvg-id="641602" tvg-name="AR| SHAHID CINEMA 15 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 15 FHD
-http://iptvgo.cc:80/live/De123/De123/641602
-#EXTINF:-1 tvg-id="641601" tvg-name="AR| SHAHID CINEMA 16 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 16 FHD
-http://iptvgo.cc:80/live/De123/De123/641601
-#EXTINF:-1 tvg-id="641600" tvg-name="AR| SHAHID CINEMA 17 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 17 FHD
-http://iptvgo.cc:80/live/De123/De123/641600
-#EXTINF:-1 tvg-id="641599" tvg-name="AR| SHAHID CINEMA 18 FHD" group-title="24/7 | Arabic",AR| SHAHID CINEMA 18 FHD
-http://iptvgo.cc:80/live/De123/De123/641599
-#EXTINF:-1 tvg-id="641598" tvg-name="IFLIX TV AFLAM" group-title="24/7 | Arabic",IFLIX TV AFLAM
-http://iptvgo.cc:80/live/De123/De123/641598
-#EXTINF:-1 tvg-id="641597" tvg-name="IFLIX TV Cinema" group-title="24/7 | Arabic",IFLIX TV Cinema
-http://iptvgo.cc:80/live/De123/De123/641597
-#EXTINF:-1 tvg-id="641596" tvg
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",### BEIN ENTERTAINMENT SS ###
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=708971&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 1 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824121&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 2 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824120&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 3 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824119&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 4 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824118&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN SERIE 1 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824117&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN SERIE 2 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824116&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DRAMA 1 ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824115&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN HGTV ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824114&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN TRAVEL ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824113&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN FATAFEAT ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824112&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN FOOD NETWORK ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824111&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN NAT GEO ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824110&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN NAT GEO WILD ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824109&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISCOVERY ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824108&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISCOVERY FAMILY ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824107&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN ANIMAL PLANET ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824106&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BBC EARTH ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824105&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BOOMERANG ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824104&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISNEYJUNIOR ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824102&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN CN ARABIA ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824101&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BRAEEM ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824100&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN CARTONITO ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824099&extension=ts
+#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN JUNIOR ᵁᴴᴰ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824098&extension=ts
+
