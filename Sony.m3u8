@@ -419,52 +419,143 @@ https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
 
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",### BEIN ENTERTAINMENT SS ###
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=708971&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 1 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824121&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 2 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824120&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 3 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824119&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN  MOVIES 4 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824118&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN SERIE 1 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824117&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN SERIE 2 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824116&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DRAMA 1 ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824115&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN HGTV ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824114&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN TRAVEL ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824113&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN FATAFEAT ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824112&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN FOOD NETWORK ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824111&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN NAT GEO ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824110&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN NAT GEO WILD ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824109&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISCOVERY ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824108&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISCOVERY FAMILY ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824107&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN ANIMAL PLANET ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824106&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BBC EARTH ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824105&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BOOMERANG ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824104&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN DISNEYJUNIOR ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824102&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN CN ARABIA ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824101&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN BRAEEM ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824100&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN CARTONITO ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824099&extension=ts
-#EXTINF:-1 group-title="AR| BEIN ENTERTAINMENT SS ▶ الترفيهية",SS: BEIN JUNIOR ᵁᴴᴰ
-http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=824098&extension=ts
-
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",###### BOX OFFICE 4K TV ######
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=251793&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222945&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 2 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222946&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 3 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222947&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 4 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222948&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 5 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222949&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 6 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222950&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 7 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222951&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 8 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222952&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 9 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222953&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 10 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222954&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 11 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222955&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 12 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222956&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 13 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222957&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 14 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222958&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 15 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222959&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 16 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222960&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 17 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222961&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 18 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222962&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 19 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222963&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 20 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222964&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 21 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222965&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 22 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222966&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 23 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222967&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 24 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222968&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 25 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222969&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 26 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222970&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 27 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222971&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 28 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222972&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 29 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222973&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 30 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222974&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 31 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222975&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 32 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222976&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 33 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222977&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 34 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222978&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 35 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222979&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 36 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222980&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 37 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222981&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 38 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222982&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 39 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222983&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 40 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222984&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 41 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222985&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 42 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222986&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 43 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222987&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 44 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222988&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 45 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222989&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 46 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222990&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 47 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222991&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 48 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222992&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 49 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222993&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 50 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222994&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 51 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222995&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 52 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222996&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 53 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222997&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 54 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222998&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 55 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=222999&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 56 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223000&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 57 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223001&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 58 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223002&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 59 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223003&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 60 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223004&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 61 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223005&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 62 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223006&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 63 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223007&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 64 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223008&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 65 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223009&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 66 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223010&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 67 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223011&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 68 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223012&extension=ts
+#EXTINF:-1 group-title="AR| BOX OFFICE 4K ▶ بوكس اوفيس",AR: BOX OFFICE 69 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=223013&extension=ts
